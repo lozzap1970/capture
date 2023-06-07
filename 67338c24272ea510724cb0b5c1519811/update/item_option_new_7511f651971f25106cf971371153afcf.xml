@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>package_version</name>
-        <order>600</order>
+        <order>700</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -75,7 +75,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-07 11:35:51</sys_created_on>
+        <sys_created_on>2023-06-07 11:39:00</sys_created_on>
         <sys_id>7511f651971f25106cf971371153afcf</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Package Version</sys_name>
@@ -84,7 +84,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_7511f651971f25106cf971371153afcf</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-06-07 11:38:54</sys_updated_on>
+        <sys_updated_on>2023-06-07 12:19:38</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

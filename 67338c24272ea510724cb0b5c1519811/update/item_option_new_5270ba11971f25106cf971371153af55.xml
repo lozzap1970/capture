@@ -75,16 +75,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-07 11:32:52</sys_created_on>
+        <sys_created_on>2023-06-07 11:39:00</sys_created_on>
         <sys_id>5270ba11971f25106cf971371153af55</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>formatter</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_5270ba11971f25106cf971371153af55</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-06-07 11:38:56</sys_updated_on>
+        <sys_updated_on>2023-06-07 12:19:36</sys_updated_on>
         <table/>
         <tooltip/>
         <type>24</type>
