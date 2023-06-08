@@ -18,7 +18,7 @@
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <dynamic_value_dot_walk_path/>
-        <dynamic_value_field display_value="Job Type">2dfd7ed9971f25106cf971371153af83</dynamic_value_field>
+        <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field/>
@@ -55,7 +55,7 @@
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table/>
-        <reference>x_685788_test2_envtype</reference>
+        <reference>x_685788_test2_envdetail</reference>
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text/>
@@ -75,16 +75,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-07 12:48:10</sys_created_on>
+        <sys_created_on>2023-06-07 14:25:45</sys_created_on>
         <sys_id>e69e7add971f25106cf971371153af6c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Environment Detail</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_e69e7add971f25106cf971371153af6c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-06-07 12:49:54</sys_updated_on>
+        <sys_updated_on>2023-06-08 09:07:41</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
