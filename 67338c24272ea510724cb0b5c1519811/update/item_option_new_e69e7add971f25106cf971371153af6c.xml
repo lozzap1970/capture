@@ -17,8 +17,8 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <dynamic_value_dot_walk_path>environmentdetailid</dynamic_value_dot_walk_path>
-        <dynamic_value_field display_value="Environment Type">2dfd7ed9971f25106cf971371153af83</dynamic_value_field>
+        <dynamic_value_dot_walk_path/>
+        <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field/>
@@ -32,7 +32,7 @@
         <list_table/>
         <lookup_label/>
         <lookup_price/>
-        <lookup_table/>
+        <lookup_table>x_685788_test2_envdetail</lookup_table>
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
@@ -55,9 +55,10 @@
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table/>
-        <reference>x_685788_test2_envdetail</reference>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference>x_685788_test2_env_details</reference>
+        <reference_qual>undefined</reference_qual>
+        <reference_qual_condition table="x_685788_test2_env_details">undefined<item endquery="false" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -75,23 +76,23 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-09 10:00:25</sys_created_on>
+        <sys_created_on>2023-06-09 14:12:51</sys_created_on>
         <sys_id>e69e7add971f25106cf971371153af6c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Environment Detail</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_e69e7add971f25106cf971371153af6c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-06-09 10:07:26</sys_updated_on>
+        <sys_updated_on>2023-06-09 14:19:52</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
+        <use_reference_qualifier>advanced</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
         <variable_set/>
