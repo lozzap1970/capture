@@ -41,13 +41,13 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>formatter2</name>
-        <order>600</order>
+        <name>environment_type</name>
+        <order>400</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text/>
+        <question_text>Environment Type</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table/>
         <reference/>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>undefined</reference_qual>
+        <reference_qual_condition>undefined</reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-15 13:47:27</sys_created_on>
-        <sys_id>6ee9de2f971b6d106cf971371153aff4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>formatter2</sys_name>
+        <sys_created_on>2023-06-15 13:50:45</sys_created_on>
+        <sys_id>03ac10c89723ed106cf971371153afe1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Environment Type</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name>item_option_new_6ee9de2f971b6d106cf971371153aff4</sys_update_name>
+        <sys_update_name>item_option_new_03ac10c89723ed106cf971371153afe1</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-06-15 13:58:37</sys_updated_on>
+        <sys_updated_on>2023-06-15 13:58:38</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>12</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,39 +103,39 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=6ee9de2f971b6d106cf971371153aff4"/>
-    <fx_price action="delete_multiple" query="id=6ee9de2f971b6d106cf971371153aff4"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=03ac10c89723ed106cf971371153afe1"/>
+    <fx_price action="delete_multiple" query="id=03ac10c89723ed106cf971371153afe1"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
-        <currency display_value="USD">USD</currency>
+        <currency display_value="GBP">GBP</currency>
         <field>price_if_checked</field>
-        <id>6ee9de2f971b6d106cf971371153aff4</id>
+        <id>03ac10c89723ed106cf971371153afe1</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-14 09:40:38</sys_created_on>
-        <sys_id>6ae9de2f971b6d106cf971371153aff6</sys_id>
+        <sys_created_on>2023-06-15 13:50:45</sys_created_on>
+        <sys_id>88cc1cc89723ed106cf971371153afa7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-06-14 09:40:38</sys_updated_on>
+        <sys_updated_on>2023-06-15 13:50:45</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
-        <currency display_value="USD">USD</currency>
+        <currency display_value="GBP">GBP</currency>
         <field>rec_price_if_checked</field>
-        <id>6ee9de2f971b6d106cf971371153aff4</id>
+        <id>03ac10c89723ed106cf971371153afe1</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-14 09:40:38</sys_created_on>
-        <sys_id>eee9de2f971b6d106cf971371153aff5</sys_id>
+        <sys_created_on>2023-06-15 13:50:45</sys_created_on>
+        <sys_id>c8cc1cc89723ed106cf971371153afa6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-06-14 09:40:38</sys_updated_on>
+        <sys_updated_on>2023-06-15 13:50:45</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
