@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Copy of MSIX Builder">3b92033d976761106cf971371153afea</cat_item>
+        <cat_item display_value="MSIX Package Creation">3b92033d976761106cf971371153afea</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>timeout_in_hours</name>
-        <order>1800</order>
+        <order>1900</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -75,7 +75,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-06-21 12:55:39</sys_created_on>
+        <sys_created_on>2023-06-23 11:50:40</sys_created_on>
         <sys_id>e8a9437597a761106cf971371153afc5</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Timeout In Hours</sys_name>
@@ -84,7 +84,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_e8a9437597a761106cf971371153afc5</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-06-21 12:56:11</sys_updated_on>
+        <sys_updated_on>2023-06-23 11:53:21</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
