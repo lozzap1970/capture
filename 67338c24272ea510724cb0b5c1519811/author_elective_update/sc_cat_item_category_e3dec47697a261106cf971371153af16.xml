@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Capture Request">ea5f14e6972621106cf971371153af2d</sc_cat_item>
+        <sc_category display_value="Services">d67c446ec0a80165000335aa37eafbc1</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-05 08:50:35</sys_created_on>
+        <sys_id>e3dec47697a261106cf971371153af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Capture Request</sys_name>
+        <sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_e3dec47697a261106cf971371153af16</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-05 08:50:35</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_category_e3dec47697a261106cf971371153af16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Capture Request">ea5f14e6972621106cf971371153af2d</sc_cat_item><sc_category display_value="Services">d67c446ec0a80165000335aa37eafbc1</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-05-05 08:50:35</sys_created_on><sys_id>e3dec47697a261106cf971371153af16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Capture Request</sys_name><sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_category_e3dec47697a261106cf971371153af16</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-05-05 08:50:35</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>2047204334</payload_hash>
+        <record_name>Services.Capture Request</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-05 08:50:35</sys_created_on>
+        <sys_id>6fdec47697a261106cf971371153af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187eb1b1ee00000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-05 08:50:35</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>efdec476b3a261105f8b4f37bff73e18</update_guid>
+        <update_guid_history>efdec476b3a261105f8b4f37bff73e18:2047204334</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Capture Request">690810be97a261106cf971371153af6a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-05 09:30:35</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4e6dc418ea634cbd8a06945e1b5c0f49</sys_id>
+        <sys_metadata>e3dec47697a261106cf971371153af16</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Capture Request</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_e3dec47697a261106cf971371153af16</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_e3dec47697a261106cf971371153af16">6fdec47697a261106cf971371153af19</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-05 09:30:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

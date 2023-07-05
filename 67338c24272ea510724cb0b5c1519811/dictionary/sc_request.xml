@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasWorkflow=true" audit="true" create_roles="catalog_admin" db_object_id="605d0bf9e8a1211076da10591ad287f6" extends="task" label="Request" max_length="40" name="sc_request" read_roles="catalog,itil" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Category" max_length="40" name="x_685788_test2_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Detail ID" max_length="40" name="x_685788_test2_job_detail_id" type="string"/>
+    </element>
+</database>

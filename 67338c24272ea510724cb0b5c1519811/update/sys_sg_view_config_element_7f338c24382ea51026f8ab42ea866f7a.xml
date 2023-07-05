@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_06_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:39</sys_created_on>
+        <sys_id>7f338c24382ea51026f8ab42ea866f7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_06_element</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_7f338c24382ea51026f8ab42ea866f7a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:39</sys_updated_on>
+        <view_config display_value="Document Approvals View Config">3f338c24182ea510baec0acb9521dc84</view_config>
+        <view_template_slot display_value="text_06">f3338c244c2ea510af57aed066bd1e7b</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

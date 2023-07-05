@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="462418ea97e221106cf971371153af95" label="job_detail" max_length="40" name="x_685788_test2_job_detail" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="EndDateTime" max_length="60" name="enddatetime" type="string"/>
+        <element label="EnvironmentDetailId" max_length="40" name="environmentdetailid" type="integer"/>
+        <element label="Id" max_length="40" name="id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="JobInputParameters" max_length="450" name="jobinputparameters" type="string"/>
+        <element label="JobIsSuccessful" max_length="40" name="jobissuccessful" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="JobOutput" max_length="2188" name="joboutput" type="string"/>
+        <element label="JobStatusId" max_length="40" name="jobstatusid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="JobTriggerId" max_length="40" name="jobtriggerid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="50" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="StartDateTime" max_length="40" name="startdatetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SubmittedDateTime" max_length="40" name="submitteddatetime" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="TestDetailId" max_length="40" name="testdetailid" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
