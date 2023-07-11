@@ -9,12 +9,22 @@
         <element attributes="edge_encryption_enabled=true" label="Capture Job Detail ID" max_length="40" name="x_685788_test2_capture_job_detail_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Capture Output" max_length="2000" name="x_685788_test2_capture_output" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Capture Start Time" max_length="40" name="x_685788_test2_capture_start_time" type="string"/>
-        <element label="Job Video Output" max_length="40" name="x_685788_test2_job_video_output" type="video"/>
+        <element label="Create App Attach" max_length="40" name="x_685788_test2_create_app_attach" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Environment Detail Name" max_length="100" name="x_685788_test2_environment_detail_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="File" max_length="40" name="x_685788_test2_file" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Install Order" max_length="40" name="x_685788_test2_install_order" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="x_685788_test2_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Package Description" max_length="1000" name="x_685788_test2_package_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Package Display Name" max_length="40" name="x_685788_test2_package_display_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Package Full Name" max_length="40" name="x_685788_test2_package_full_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Package Name" max_length="40" name="x_685788_test2_package_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Capture Package Output Path" max_length="1000" name="x_685788_test2_package_output_path" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Capture Package Successful" max_length="40" name="x_685788_test2_package_successful" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Package Unc" max_length="40" name="x_685788_test2_package_unc" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Package Version" max_length="40" name="x_685788_test2_package_version" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Screen Recording Path" max_length="1000" name="x_685788_test2_screen_recording_path" type="string"/>
+        <element label="Send To AutoLaunch" max_length="40" name="x_685788_test2_send_to_autolaunch" type="boolean"/>
+        <element label="Use Cimfs" max_length="40" name="x_685788_test2_use_cimfs" type="boolean"/>
+        <element label="AutoLaunch Video" max_length="65536" name="x_685788_test2_u_html_1" type="html"/>
     </element>
 </database>
