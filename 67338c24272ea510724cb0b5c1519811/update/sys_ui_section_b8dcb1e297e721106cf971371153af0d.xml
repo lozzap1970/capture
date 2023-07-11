@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="MSIX Creation Details" section_id="b8dcb1e297e721106cf971371153af0d" sys_domain="global" table="sc_req_item" version="3" view="catalog">
+    <sys_ui_section caption="MSIX Builder Outputs" section_id="b8dcb1e297e721106cf971371153af0d" sys_domain="global" table="sc_req_item" version="3" view="catalog">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_capture_job_detail_id</element>
             <position>0</position>
@@ -8,7 +8,7 @@
             <sys_id>98cbccfa977325106cf971371153afbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -22,7 +22,7 @@
             <sys_id>1ccbccfa977325106cf971371153afbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -36,7 +36,7 @@
             <sys_id>9ccbccfa977325106cf971371153afbd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -50,7 +50,7 @@
             <sys_id>10cbccfa977325106cf971371153afbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -64,7 +64,7 @@
             <sys_id>90cbccfa977325106cf971371153afbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -78,7 +78,7 @@
             <sys_id>14cbccfa977325106cf971371153afbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -92,7 +92,7 @@
             <sys_id>94cbccfa977325106cf971371153afbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -106,7 +106,7 @@
             <sys_id>18cbccfa977325106cf971371153afbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -120,7 +120,7 @@
             <sys_id>98cbccfa977325106cf971371153afbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
@@ -134,14 +134,14 @@
             <sys_id>1ccbccfa977325106cf971371153afbe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Creation Details" display_value="MSIX Creation Details" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
+            <sys_ui_section caption="MSIX Builder Outputs" display_value="MSIX Builder Outputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">b8dcb1e297e721106cf971371153af0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-06 11:55:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>MSIX Creation Details</caption>
+            <caption>MSIX Builder Outputs</caption>
             <header>false</header>
             <name>sc_req_item</name>
             <roles/>
@@ -151,7 +151,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b8dcb1e297e721106cf971371153af0d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>sc_req_item</sys_name>
             <sys_overrides/>
             <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -159,7 +159,7 @@
             <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
             <sys_update_name>sys_ui_section_b8dcb1e297e721106cf971371153af0d</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-23 15:15:18</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:20:21</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Catalog" name="catalog">7966c6b60a0a0b8c0073a7efb40effc2</view>
