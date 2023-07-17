@@ -4,13 +4,13 @@
             <element>x_685788_test2_auto_launch_job_id</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>ef5f35d4978871106cf971371153af80</sys_id>
+            <sys_created_on>2023-07-17 16:47:31</sys_created_on>
+            <sys_id>e9187d16974831106cf971371153afe8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
+            <sys_updated_on>2023-07-17 16:47:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>x_685788_test2_auto_launch_successful</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>a75f35d4978871106cf971371153af81</sys_id>
+            <sys_created_on>2023-07-17 16:47:31</sys_created_on>
+            <sys_id>a1187d16974831106cf971371153afe9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
+            <sys_updated_on>2023-07-17 16:47:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,97 +32,69 @@
             <element>x_685788_test2_screen_recording_path</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>2b5f35d4978871106cf971371153af81</sys_id>
+            <sys_created_on>2023-07-17 16:47:31</sys_created_on>
+            <sys_id>25187d16974831106cf971371153afe9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
+            <sys_updated_on>2023-07-17 16:47:31</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>x_685788_test2_u_html_1</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>ab5f35d4978871106cf971371153af81</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>2f5f35d4978871106cf971371153af81</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_auto_launch_start_time</element>
-            <position>5</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>af5f35d4978871106cf971371153af81</sys_id>
+            <sys_created_on>2023-07-17 16:47:31</sys_created_on>
+            <sys_id>a5187d16974831106cf971371153afe9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
+            <sys_updated_on>2023-07-17 16:47:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_auto_launch_end_time</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-17 16:47:31</sys_created_on>
+            <sys_id>29187d16974831106cf971371153afe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-17 16:47:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-17 16:47:31</sys_created_on>
+            <sys_id>a9187d16974831106cf971371153afe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-17 16:47:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_u_html_1</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>235f35d4978871106cf971371153af82</sys_id>
+            <sys_created_on>2023-07-17 16:47:31</sys_created_on>
+            <sys_id>2d187d16974831106cf971371153afe9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>comments_and_work_notes</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>a35f35d4978871106cf971371153af82</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>comments</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 12:11:29</sys_created_on>
-            <sys_id>275f35d4978871106cf971371153af82</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Auto Launch Output" display_value="Auto Launch Output" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">0f0c71e297e721106cf971371153af30</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 12:11:29</sys_updated_on>
+            <sys_updated_on>2023-07-17 16:47:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

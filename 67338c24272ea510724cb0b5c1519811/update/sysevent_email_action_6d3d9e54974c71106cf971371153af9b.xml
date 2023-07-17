@@ -36,8 +36,10 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Capture Job Detail ID: ${x_685788_test2_capture_job_detail_id}&nbsp;has failed</p>
-<p>Capture Package Successful: ${x_685788_test2_package_successful}</p>]]></message_html>
+        <message_html><![CDATA[<p>Capture Job Detail ID: ${x_685788_test2_capture_job_detail_id} has failed</p>
+<p>Package Name: ${x_685788_test2_package_name}</p>
+<p>Package Version: ${x_685788_test2_package_version}</p>
+<p>Package Unc: ${x_685788_test2_package_unc}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>MSIX failure notification</name>
@@ -51,7 +53,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>Your job has failed</subject>
+        <subject>Your  Capture Packaing Job  has Failed  </subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -59,7 +61,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6d3d9e54974c71106cf971371153af9b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>MSIX failure notification</sys_name>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -67,7 +69,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sysevent_email_action_6d3d9e54974c71106cf971371153af9b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 14:29:25</sys_updated_on>
+        <sys_updated_on>2023-07-14 08:53:49</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="request_item.general">704bb0b1c611227d01b8b5cddd16c84d</template>
         <type>email</type>

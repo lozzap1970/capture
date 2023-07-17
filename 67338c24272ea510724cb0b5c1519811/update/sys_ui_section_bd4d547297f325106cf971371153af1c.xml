@@ -1,114 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="MSIX Builder Inputs" section_id="bd4d547297f325106cf971371153af1c" sys_domain="global" table="sc_req_item" version="3" view="catalog">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>x_685788_test2_environment_detail_name</element>
+            <element>x_685788_test2_send_to_autolaunch</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>b107214b973b21106cf971371153af36</sys_id>
+            <sys_created_on>2023-07-14 10:15:46</sys_created_on>
+            <sys_id>bda10d59978c75106cf971371153af67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>x_685788_test2_send_to_autolaunch</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>3907214b973b21106cf971371153af36</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
+            <sys_updated_on>2023-07-14 10:15:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_package_name</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>b907214b973b21106cf971371153af36</sys_id>
+            <sys_created_on>2023-07-14 10:15:46</sys_created_on>
+            <sys_id>35a10d59978c75106cf971371153af68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
+            <sys_updated_on>2023-07-14 10:15:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_package_display_name</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>3d07214b973b21106cf971371153af36</sys_id>
+            <sys_created_on>2023-07-14 10:15:46</sys_created_on>
+            <sys_id>b5a10d59978c75106cf971371153af68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
+            <sys_updated_on>2023-07-14 10:15:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_package_description</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>bd07214b973b21106cf971371153af36</sys_id>
+            <sys_created_on>2023-07-14 10:15:46</sys_created_on>
+            <sys_id>39a10d59978c75106cf971371153af68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
+            <sys_updated_on>2023-07-14 10:15:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_package_unc</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>3107214b973b21106cf971371153af37</sys_id>
+            <sys_created_on>2023-07-14 10:15:46</sys_created_on>
+            <sys_id>b9a10d59978c75106cf971371153af68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
+            <sys_updated_on>2023-07-14 10:15:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_package_version</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>b107214b973b21106cf971371153af37</sys_id>
+            <sys_created_on>2023-07-14 10:15:46</sys_created_on>
+            <sys_id>3da10d59978c75106cf971371153af68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
+            <sys_updated_on>2023-07-14 10:15:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_685788_test2_notes</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-07 13:12:45</sys_created_on>
-            <sys_id>3507214b973b21106cf971371153af37</sys_id>
+            <sys_created_on>2023-07-14 10:15:46</sys_created_on>
+            <sys_id>bda10d59978c75106cf971371153af68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="MSIX Builder Inputs" display_value="MSIX Builder Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">bd4d547297f325106cf971371153af1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-07 13:12:45</sys_updated_on>
+            <sys_updated_on>2023-07-14 10:15:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

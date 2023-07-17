@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>9de722d4978c71106cf971371153af3c</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>c3931c81978835106cf971371153af34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>cat_item</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>11e722d4978c71106cf971371153af3d</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>4b931c81978835106cf971371153af34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>approval</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>91e722d4978c71106cf971371153af3d</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>cb931c81978835106cf971371153af34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>comments_and_work_notes</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>15e722d4978c71106cf971371153af3d</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>4f931c81978835106cf971371153af34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>1de76e58978c71106cf971371153af08</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>cf931c81978835106cf971371153af34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>stage</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>9de76e58978c71106cf971371153af08</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>43931c81978835106cf971371153af35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>11e76e58978c71106cf971371153af09</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>c3931c81978835106cf971371153af35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,29 +102,15 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>91e76e58978c71106cf971371153af09</sys_id>
+            <sys_created_on>2023-07-13 12:16:08</sys_created_on>
+            <sys_id>47931c81978835106cf971371153af35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
+            <sys_updated_on>2023-07-13 12:16:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>com_glideapp_servicecatalog_veditor</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-11 15:08:34</sys_created_on>
-            <sys_id>15e76e58978c71106cf971371153af09</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Variable Editor">86863af2c611229101b57dcc29ac7666</sys_ui_formatter>
-            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">d2c7aa58978c71106cf971371153af47</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-11 15:08:34</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

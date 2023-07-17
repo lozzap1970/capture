@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2c1f72509740b1106cf971371153af87</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>covert to html</sys_name>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_2c1f72509740b1106cf971371153af87</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:08:57</sys_updated_on>
+        <sys_updated_on>2023-07-12 10:46:31</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -89,10 +89,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 17:01:27</sys_created_on>
         <sys_id>cbb107909740b1106cf971371153afe1</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:08:57</sys_updated_on>
+        <sys_updated_on>2023-07-12 10:46:31</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=cbb107909740b1106cf971371153afe1"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -115,13 +115,13 @@
         <order>0</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-11 17:01:28</sys_created_on>
-        <sys_id>5bb147549740b1106cf971371153aff0</sys_id>
+        <sys_created_on>2023-07-12 10:30:11</sys_created_on>
+        <sys_id>5dc1fe6c9740f1106cf971371153afcf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:01:28</sys_updated_on>
+        <sys_updated_on>2023-07-12 10:30:11</sys_updated_on>
         <value>?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Ii1LSTNROW5OUjdiUm9meG1lWm9YcWJIWkdldyIsImtpZCI6Ii1LSTNROW5OUjdiUm9meG1lWm9YcWJIWkdldyJ9.eyJhdWQiOiJhcGk6Ly81MjA0OTkwOS0xM2Q4LTRjYTktODllYy1kN2Y1MmE2Njg3MGIiLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8yNDJiZTZlOS1jZGFkLTQyOWItYWNmNi0xODc0OWEzM2EyMGMvIiwiaWF0IjoxNjg5MDk0MjE5LCJuYmYiOjE2ODkwOTQyMTksImV4cCI6MTY4OTA5OTY4MywiYWNyIjoiMSIsImFpbyI6IkFWUUFxLzhUQUFBQWw1eE1xYVFydGNqOTBHOGhpQ2F4V21NTGZ5ZDVkRHFUTHVIaGFCVUloNW85c2VucyttZ2RhL1l4TWVadlRmVTZheHJiWXdsZ0FJcnBlWnNhbU9BcTFwSDlIM08wTXlDMFhFSWYxS2hZQ01FPSIsImFtciI6WyJwd2QiLCJtZmEiXSwiYXBwaWQiOiJiNjk2OGQyNS01NmVhLTQ2NDUtODI1OC03NjljMDAxZGIwZDUiLCJhcHBpZGFjciI6IjAiLCJmYW1pbHlfbmFtZSI6IlBsZW5kZXJsZWl0aCIsImdpdmVuX25hbWUiOiJMb3JyYWluZSIsImlwYWRkciI6Ijg3LjgwLjE1MC4xNDYiLCJuYW1lIjoiTG9ycmFpbmUgUGxlbmRlcmxlaXRoIiwib2lkIjoiMmEyZmVhMjAtMTcxNi00YjFiLWE3ODQtNDk0MmIxMDU2ZmFlIiwicmgiOiIwLkFWOEE2ZVlySkszTm0wS3M5aGgwbWpPaURBbVpCRkxZRTZsTWllelg5U3BtaHd0ZkFDUS4iLCJzY3AiOiJmaWxlU2VydmVyIiwic3ViIjoiWUVZRzdIcUt0Nkp0b3ozdEZkYUhNdjVhTkZLZ1Jkd2o1dGtNcDlIR3dmVSIsInRpZCI6IjI0MmJlNmU5LWNkYWQtNDI5Yi1hY2Y2LTE4NzQ5YTMzYTIwYyIsInVuaXF1ZV9uYW1lIjoibG9ycmFpbmUucGxlbmRlcmxlaXRoQGFjY2Vzc2l0YXV0b21hdGlvbi5jb20iLCJ1cG4iOiJsb3JyYWluZS5wbGVuZGVybGVpdGhAYWNjZXNzaXRhdXRvbWF0aW9uLmNvbSIsInV0aSI6IlFYVS00QkxtTEVTUzNXOUZtTmdKQUEiLCJ2ZXIiOiIxLjAifQ.nOkHZypXZ6m7uZOKamwVg7B9StrAJ7HGXt9wB8dnnliCvW5oQ2jeeM4DQ1uBtNhL0Ca6JbCg5n5Cr4oYOn8e7L60pljshOnsBl2oaYoxPRuFW3T3PMdkeW5_aOaDQM-h7OoxA4RN9D27WwaEGmQxy293M5WKrZZRykA6O8WdtdhjIRsNlNGS1D2kmSkXka4L5KlYiu1pQG1Pv7Lj2rf055nA6fK8LY0sqQDFmrmIzi7muokAj_U_mZ1Us0OEVDvRJUvmWokBxWh1-U6AN2YuXLeHQvr38kX_YRs96InDJUxRPY0Fiddl2nmh68k3AUKSCSvyWeRN_TYoPEWMd2UoGA</value>
-        <variable display_value="">c3b147549740b1106cf971371153afe2</variable>
+        <variable display_value="">5dc1fe6c9740f1106cf971371153afb5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_step_instance</document>
@@ -129,13 +129,13 @@
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-11 17:01:28</sys_created_on>
-        <sys_id>97b147549740b1106cf971371153aff0</sys_id>
+        <sys_created_on>2023-07-12 10:30:11</sys_created_on>
+        <sys_id>95c1fe6c9740f1106cf971371153afcf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:01:28</sys_updated_on>
+        <sys_updated_on>2023-07-12 10:30:11</sys_updated_on>
         <value>https://fs.mycapturecloud.com:50000/api/streaming/</value>
-        <variable display_value="">4bb147549740b1106cf971371153afe5</variable>
+        <variable display_value="">51c1fe6c9740f1106cf971371153afb9</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_step_instance</document>
@@ -145,17 +145,22 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 17:01:28</sys_created_on>
         <sys_id>d3b147549740b1106cf971371153afef</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:08:57</sys_updated_on>
-        <value>var url=url
-var unc=unc
-var key=key
-var comm = url + "" + unc+ "" + key;
+        <sys_updated_on>2023-07-12 10:46:31</sys_updated_on>
+        <value>(function execute(inputs, outputs) {
 
-comm=String(comm);
+var url = inputs.fileserver;
+var token = inputs.token;
+var unc = inputs.unc;
 
-g_form.setValue('comments',comm);
+//var fullpath = url + unc + key
+var fullpath = [url, unc, token].join
+  
+outputs.Capture_video_url = fullpath;
+
+})(inputs, outputs);
+
 
 </value>
         <variable display_value="Script">71aa7f6647032200b4fad7527c9a719b</variable>
@@ -171,6 +176,18 @@ g_form.setValue('comments',comm);
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-11 17:01:28</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>fileserver</field>
+        <id>cbb107909740b1106cf971371153afe1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 10:30:11</sys_created_on>
+        <sys_id>5dc1fe6c9740f1106cf971371153afce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:30:11</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_cbb107909740b1106cf971371153afe1</table>
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
@@ -198,6 +215,18 @@ g_form.setValue('comments',comm);
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>token</field>
+        <id>cbb107909740b1106cf971371153afe1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 10:30:11</sys_created_on>
+        <sys_id>15c1fe6c9740f1106cf971371153afcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:30:11</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_cbb107909740b1106cf971371153afe1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>unc</field>
         <id>cbb107909740b1106cf971371153afe1</id>
         <sys_created_by>admin</sys_created_by>
@@ -221,9 +250,10 @@ g_form.setValue('comments',comm);
         <table>var__m_sys_hub_step_ext_input_cbb107909740b1106cf971371153afe1</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_cbb107909740b1106cf971371153afe1^id=cbb107909740b1106cf971371153afe1"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=cbb107909740b1106cf971371153afe1"/>
     <sys_translated_text action="delete_multiple" query="documentkey=cbb107909740b1106cf971371153afe1"/>
-    <sys_hub_step_ext_input action="delete_multiple" query="model=cbb107909740b1106cf971371153afe1^sys_idNOT IN4bb147549740b1106cf971371153afe5,8fb147549740b1106cf971371153afe7,c3b147549740b1106cf971371153afe2"/>
+    <sys_hub_step_ext_input action="delete_multiple" query="model=cbb107909740b1106cf971371153afe1^sys_idNOT IN51c1fe6c9740f1106cf971371153afb9,5dc1fe6c9740f1106cf971371153afb5,8fb147549740b1106cf971371153afe7"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -252,7 +282,7 @@ g_form.setValue('comments',comm);
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>url</element>
+        <element>fileserver</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -285,8 +315,8 @@ g_form.setValue('comments',comm);
         <staged>false</staged>
         <sys_class_name>sys_hub_step_ext_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-11 17:01:27</sys_created_on>
-        <sys_id>4bb147549740b1106cf971371153afe5</sys_id>
+        <sys_created_on>2023-07-12 10:30:11</sys_created_on>
+        <sys_id>51c1fe6c9740f1106cf971371153afb9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -294,7 +324,90 @@ g_form.setValue('comments',comm);
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:01:27</sys_updated_on>
+        <sys_updated_on>2023-07-12 10:30:11</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>token</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label/>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Script step">cbb107909740b1106cf971371153afe1</model>
+        <model_id>cbb107909740b1106cf971371153afe1</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_cbb107909740b1106cf971371153afe1</name>
+        <next_element/>
+        <order>0</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 10:30:11</sys_created_on>
+        <sys_id>5dc1fe6c9740f1106cf971371153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:30:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -390,11 +503,12 @@ g_form.setValue('comments',comm);
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_input>
-    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+    <sys_hub_step_ext_output action="delete_multiple" query="model=cbb107909740b1106cf971371153afe1^sys_idNOT IN42fc5ee49700f1106cf971371153af7a"/>
+    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=4a5076d0-a7d2-430c-9ace-a5c322d5d0c3</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -418,7 +532,7 @@ g_form.setValue('comments',comm);
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>key</element>
+        <element>capture_video_url</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -427,15 +541,15 @@ g_form.setValue('comments',comm);
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label/>
-        <mandatory>true</mandatory>
+        <label>Capture_video_url</label>
+        <mandatory>false</mandatory>
         <max_length>8000</max_length>
         <model display_value="Script step">cbb107909740b1106cf971371153afe1</model>
         <model_id>cbb107909740b1106cf971371153afe1</model_id>
         <model_table>sys_hub_step_instance</model_table>
-        <name>var__m_sys_hub_step_ext_input_cbb107909740b1106cf971371153afe1</name>
+        <name>var__m_sys_hub_step_ext_output_cbb107909740b1106cf971371153afe1</name>
         <next_element/>
-        <order>0</order>
+        <order>1</order>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
@@ -449,10 +563,10 @@ g_form.setValue('comments',comm);
         <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
-        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-11 17:01:27</sys_created_on>
-        <sys_id>c3b147549740b1106cf971371153afe2</sys_id>
+        <sys_created_on>2023-07-12 08:59:18</sys_created_on>
+        <sys_id>42fc5ee49700f1106cf971371153af7a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -460,7 +574,7 @@ g_form.setValue('comments',comm);
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:01:27</sys_updated_on>
+        <sys_updated_on>2023-07-12 08:59:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -472,10 +586,32 @@ g_form.setValue('comments',comm);
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
-    </sys_hub_step_ext_input>
-    <sys_hub_step_ext_output action="delete_multiple" query="model=cbb107909740b1106cf971371153afe1"/>
+    </sys_hub_step_ext_output>
     <sys_hub_input_scripts action="delete_multiple" query="instance=cbb107909740b1106cf971371153afe1"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_cbb107909740b1106cf971371153afe1"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_cbb107909740b1106cf971371153afe1^sys_idNOT IN42fc5ee49700f1106cf971371153af7d"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>capture_video_url</element>
+        <help/>
+        <hint/>
+        <label>Capture_video_url</label>
+        <language>en</language>
+        <name>var__m_sys_hub_step_ext_output_cbb107909740b1106cf971371153afe1</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 08:59:18</sys_created_on>
+        <sys_id>42fc5ee49700f1106cf971371153af7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 08:59:18</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
     <sys_hub_action_input action="delete_multiple" query="model=2c1f72509740b1106cf971371153af87^sys_idNOT INd94ff6109740b1106cf971371153af9a"/>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -627,14 +763,14 @@ g_form.setValue('comments',comm);
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 17:01:28</sys_created_on>
         <sys_id>9fb147549740b1106cf971371153aff7</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 17:08:57</sys_updated_on>
+        <sys_updated_on>2023-07-12 10:46:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

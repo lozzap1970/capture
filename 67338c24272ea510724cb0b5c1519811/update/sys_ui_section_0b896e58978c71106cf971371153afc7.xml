@@ -1,5 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="MSIX Creation Outputs" section_id="0b896e58978c71106cf971371153afc7" sys_domain="global" table="sc_req_item" version="3" view="msix_creation">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_job_detail_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>43e3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_start_time</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>c3e3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_end_time</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>47e3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_successful</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>c7e3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>4be3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_full_name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>cbe3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_version</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>4fe3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_output_path</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>cfe3bbb897c435106cf971371153afc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>43e3bbb897c435106cf971371153afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_output</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>c3e3bbb897c435106cf971371153afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_appattach_path</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>47e3bbb897c435106cf971371153afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_appattach_volume_guid</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>c7e3bbb897c435106cf971371153afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 09:57:41</sys_created_on>
+            <sys_id>4be3bbb897c435106cf971371153afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSIX Creation Outputs" display_value="MSIX Creation Outputs" name="sc_req_item" sys_domain="global" view="92c722d4978c71106cf971371153af9e">0b896e58978c71106cf971371153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 09:57:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>MSIX Creation Outputs</caption>
             <header>false</header>

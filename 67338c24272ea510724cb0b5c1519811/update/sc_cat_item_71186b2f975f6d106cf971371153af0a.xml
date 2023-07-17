@@ -14,7 +14,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow_designer_flow>
+        <flow_designer_flow display_value="MSIX BUILDER">2202fad897cc71106cf971371153af69</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -29,17 +29,17 @@
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
         <name>MSIX Builder</name>
-        <no_attachment_v2>true</no_attachment_v2>
+        <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
-        <no_cart_v2>true</no_cart_v2>
-        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
         <no_order>false</no_order>
         <no_order_now>false</no_order_now>
         <no_proceed_checkout>false</no_proceed_checkout>
         <no_quantity>false</no_quantity>
-        <no_quantity_v2>true</no_quantity_v2>
+        <no_quantity_v2>false</no_quantity_v2>
         <no_search>false</no_search>
-        <no_wishlist_v2>true</no_wishlist_v2>
+        <no_wishlist_v2>false</no_wishlist_v2>
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
@@ -71,7 +71,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sc_cat_item_71186b2f975f6d106cf971371153af0a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 08:41:01</sys_updated_on>
+        <sys_updated_on>2023-07-13 12:08:04</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
