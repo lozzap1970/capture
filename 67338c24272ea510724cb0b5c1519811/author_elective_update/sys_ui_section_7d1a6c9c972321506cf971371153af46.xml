@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Capture" section_id="7d1a6c9c972321506cf971371153af46" sys_domain="global" table="sc_req_item" version="3" view="catalog">
+        <sys_ui_section action="DELETE">
+            <caption>Capture</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-16 09:27:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d1a6c9c972321506cf971371153af46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_7d1a6c9c972321506cf971371153af46</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-16 09:27:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Catalog" name="catalog">7966c6b60a0a0b8c0073a7efb40effc2</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_ui_section_7d1a6c9c972321506cf971371153af46</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Capture" section_id="7d1a6c9c972321506cf971371153af46" sys_domain="global" table="sc_req_item" version="3" view="catalog"><sys_ui_section action="INSERT_OR_UPDATE"><caption>Capture</caption><header>false</header><name>sc_req_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-16 09:27:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7d1a6c9c972321506cf971371153af46</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sc_req_item</sys_name><sys_overrides/><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_section_7d1a6c9c972321506cf971371153af46</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-16 09:27:31</sys_updated_on><sys_user/><title>false</title><view display_value="Catalog" name="catalog">7966c6b60a0a0b8c0073a7efb40effc2</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>420626451</payload_hash>
+        <record_name>Requested Item</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 10:16:52</sys_created_on>
+        <sys_id>27ee23c6972ba1106cf971371153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188e29b5dfe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 10:16:52</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>abee23c6142ba110a1a84184b7069ab1</update_guid>
+        <update_guid_history>abee23c6142ba110a1a84184b7069ab1:420626451,b833678a19e7a110afa390c4863acb77:991987284,698e538607e7a110e138fa3e2e582914:1608389774,c96a28102763215078519729249e7aad:1261609264</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 15:49:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4b64cf6b2a0d47988667fa2117a61924</sys_id>
+        <sys_metadata>7d1a6c9c972321506cf971371153af46</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="Sc Req Item">505d0bf9e8a1211076da10591ad287b4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_7d1a6c9c972321506cf971371153af46</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_7d1a6c9c972321506cf971371153af46">27ee23c6972ba1106cf971371153afb2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 15:49:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

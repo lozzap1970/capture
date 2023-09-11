@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Bulk Capture Import ">a71e1c1f97c471106cf971371153afc3</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 08:35:25</sys_created_on>
+        <sys_id>06cd24ef9748b1106cf971371153afea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bulk Capture Import .Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_06cd24ef9748b1106cf971371153afea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 08:35:25</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_06cd24ef9748b1106cf971371153afea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Bulk Capture Import ">a71e1c1f97c471106cf971371153afc3</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-21 08:35:25</sys_created_on><sys_id>06cd24ef9748b1106cf971371153afea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bulk Capture Import .Any User</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_06cd24ef9748b1106cf971371153afea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-21 08:35:25</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>7191017</payload_hash>
+        <record_name>Bulk Capture Import .Any User</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 08:35:25</sys_created_on>
+        <sys_id>08dd64ef9748b1106cf971371153af4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1897796e6920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 08:35:25</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>4cdd64ef1648b110c34b03efbb449f4e</update_guid>
+        <update_guid_history>4cdd64ef1648b110c34b03efbb449f4e:7191017</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bulk Capture Import .Any User">b1a4b82b9788b1106cf971371153af7a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 09:05:18</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>25482fc17fa0476ca36e90a86aa01a10</sys_id>
+        <sys_metadata>06cd24ef9748b1106cf971371153afea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bulk Capture Import .Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_06cd24ef9748b1106cf971371153afea</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_06cd24ef9748b1106cf971371153afea">08dd64ef9748b1106cf971371153af4f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 09:05:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

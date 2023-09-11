@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Copy of MSIX Package Creation">47ba14b99793a5106cf971371153af1b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 13:55:40</sys_created_on>
+        <sys_id>fbbad4f99793a5106cf971371153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of MSIX Package Creation.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fbbad4f99793a5106cf971371153afd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 13:55:40</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_fbbad4f99793a5106cf971371153afd3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of MSIX Package Creation">47ba14b99793a5106cf971371153af1b</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-08 13:55:40</sys_created_on><sys_id>fbbad4f99793a5106cf971371153afd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of MSIX Package Creation.Any User</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_fbbad4f99793a5106cf971371153afd3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-08 13:55:40</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>488640136</payload_hash>
+        <record_name>Copy of MSIX Package Creation.Any User</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 13:55:40</sys_created_on>
+        <sys_id>7fbad4f99793a5106cf971371153afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1889b4aa3a90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 13:55:40</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>73bad4f93893a510bc348e9e4f0169d6</update_guid>
+        <update_guid_history>73bad4f93893a510bc348e9e4f0169d6:488640136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of MSIX Package Creation.Any User">39bcd87d9793a5106cf971371153af19</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-08 14:04:16</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>00c2e40545d1450880165aecc5ef0b51</sys_id>
+        <sys_metadata>fbbad4f99793a5106cf971371153afd3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of MSIX Package Creation.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fbbad4f99793a5106cf971371153afd3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_fbbad4f99793a5106cf971371153afd3">7fbad4f99793a5106cf971371153afd6</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-08 14:04:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

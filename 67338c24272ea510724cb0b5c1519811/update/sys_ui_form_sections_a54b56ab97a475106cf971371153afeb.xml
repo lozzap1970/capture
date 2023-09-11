@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a54b56ab97a475106cf971371153afeb" sys_domain="global" table="sc_req_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:22:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0da8383897c131106cf971371153af0a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">a54b56ab97a475106cf971371153afeb</sys_ui_form>
+            <sys_ui_section caption="Requested Item" display_value="Requested Item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">41a8383897c131106cf971371153af08</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-15 13:05:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>214b56ab97a475106cf971371153afee</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">a54b56ab97a475106cf971371153afeb</sys_ui_form>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-15 13:05:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>155b5aab97a475106cf971371153af3f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">a54b56ab97a475106cf971371153afeb</sys_ui_form>
+            <sys_ui_section caption="Intune UAT Inputs" display_value="Intune UAT Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">455b9ee797a475106cf971371153afd3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-15 13:05:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e6b1aab97a475106cf971371153af7c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">a54b56ab97a475106cf971371153afeb</sys_ui_form>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 16:31:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d604422197b435106cf971371153af39</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">a54b56ab97a475106cf971371153afeb</sys_ui_form>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-15 13:06:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>438b9aab97a475106cf971371153afde</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">a54b56ab97a475106cf971371153afeb</sys_ui_form>
+            <sys_ui_section caption="Test Answer (1)" display_value="Test Answer (1)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">4f8b9aab97a475106cf971371153afdb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-30 17:03:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46c16c60974971106cf971371153af61</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">a54b56ab97a475106cf971371153afeb</sys_ui_form>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-15 13:05:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a54b56ab97a475106cf971371153afeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a54b56ab97a475106cf971371153afeb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-15 13:05:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="InTune" name="intune">503b56ab97a475106cf971371153afa1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

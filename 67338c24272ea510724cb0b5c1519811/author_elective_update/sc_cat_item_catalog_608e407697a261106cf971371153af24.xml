@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Capture Request">ea5f14e6972621106cf971371153af2d</sc_cat_item>
+        <sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-05 08:49:01</sys_created_on>
+        <sys_id>608e407697a261106cf971371153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.Capture Request</sys_name>
+        <sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_608e407697a261106cf971371153af24</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-05 08:49:01</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_catalog_608e407697a261106cf971371153af24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Capture Request">ea5f14e6972621106cf971371153af2d</sc_cat_item><sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-05-05 08:49:01</sys_created_on><sys_id>608e407697a261106cf971371153af24</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Technical Catalog.Capture Request</sys_name><sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_catalog_608e407697a261106cf971371153af24</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-05-05 08:49:01</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>908909308</payload_hash>
+        <record_name>Technical Catalog.Capture Request</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-05 08:49:01</sys_created_on>
+        <sys_id>e88e407697a261106cf971371153af27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187eb19ae0c0000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-05 08:49:01</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>6c8e407635a26110afc48c6ba6212626</update_guid>
+        <update_guid_history>6c8e407635a26110afc48c6ba6212626:908909308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Technical Catalog.Capture Request">478e407697a261106cf971371153aff8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-05 08:49:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>3072f6a9d7b0422b94a4c6fcc636cdf1</sys_id>
+        <sys_metadata>608e407697a261106cf971371153af24</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.Capture Request</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="Capture Request">ea5f14e6972621106cf971371153af2d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_608e407697a261106cf971371153af24</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_608e407697a261106cf971371153af24">e88e407697a261106cf971371153af27</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-05 08:49:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

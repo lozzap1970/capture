@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Application Discovery">19f2dc69971871106cf971371153af91</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 11:49:01</sys_created_on>
+        <sys_id>d2a314a1979871106cf971371153af50</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Application Discovery.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d2a314a1979871106cf971371153af50</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-27 11:54:13</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_d2a314a1979871106cf971371153af50</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Application Discovery">19f2dc69971871106cf971371153af91</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 11:49:01</sys_created_on><sys_id>d2a314a1979871106cf971371153af50</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Application Discovery.Any User</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_d2a314a1979871106cf971371153af50</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-27 11:54:13</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-1589339936</payload_hash>
+        <record_name>Application Discovery.Any User</record_name>
+        <reverted_from/>
+        <source>d6d49ce1979871106cf971371153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-27 11:54:13</sys_created_on>
+        <sys_id>6ad4dce1979871106cf971371153af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189973311e00000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-27 11:54:13</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>aed4dce104987110bc86b7856bc4055a</update_guid>
+        <update_guid_history>aed4dce104987110bc86b7856bc4055a:-1589339936,e6d4dce18b98711062e0f863a01b7b58:1630286964</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Application Discovery.Any User">aa75e0a997d871106cf971371153af26</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-27 13:06:51</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>61f92e9f1996465cb2c96aeaceac4990</sys_id>
+        <sys_metadata>d2a314a1979871106cf971371153af50</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Discovery.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d2a314a1979871106cf971371153af50</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_d2a314a1979871106cf971371153af50">6ad4dce1979871106cf971371153af5b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-27 13:06:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

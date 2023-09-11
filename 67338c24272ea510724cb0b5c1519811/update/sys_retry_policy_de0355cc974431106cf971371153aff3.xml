@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_retry_policy">
+    <sys_retry_policy action="INSERT_OR_UPDATE">
+        <condition/>
+        <connection_type>http_retry_conditions</connection_type>
+        <count>30</count>
+        <interval>120</interval>
+        <max_elapsed_time/>
+        <name>capture retry</name>
+        <restrict_to>http_method,status_code,error,response_body,response_headers</restrict_to>
+        <retry_strategy>fixed_time_interval</retry_strategy>
+        <sys_class_name>sys_retry_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 14:20:42</sys_created_on>
+        <sys_id>de0355cc974431106cf971371153aff3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>capture retry</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_retry_policy_de0355cc974431106cf971371153aff3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 15:06:56</sys_updated_on>
+    </sys_retry_policy>
+</record_update>

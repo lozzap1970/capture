@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Needs Attention Item Stream">f7338c24132ea5104aaede810cc43f83</item_stream>
+        <segment display_value="Item Stream Segment">33338c240f2ea5106e4ab3241bb3d581</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:50</sys_created_on>
+        <sys_id>7b338c24fa2ea5103a4afa6837264581</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_7b338c24fa2ea5103a4afa6837264581</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:50</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>hide html toolbar</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+
+
+   var sheet = window.document.styleSheets[0];
+
+
+   sheet.insertRule('.mce-toolbar-grp,.mce-statusbar { display: none !important; }', sheet.cssRules.length);
+
+
+   sheet.addRule('.mce-toolbar-grp,.mce-statusbar', 'display: none !important;', -1); // IE likes to be different
+
+
+}
+
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-19 14:03:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32952b7e978031106cf971371153afcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hide html toolbar</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_script_client_32952b7e978031106cf971371153afcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-19 14:03:53</sys_updated_on>
+        <table/>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

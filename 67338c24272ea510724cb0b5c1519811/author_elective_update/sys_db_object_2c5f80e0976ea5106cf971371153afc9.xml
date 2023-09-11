@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>package_private</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Env_detail</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_685788_test2_envdetail</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>false</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 09:06:15</sys_created_on>
+        <sys_id>2c5f80e0976ea5106cf971371153afc9</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Env_detail</sys_name>
+        <sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_db_object_2c5f80e0976ea5106cf971371153afc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 13:15:44</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>false</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_db_object_2c5f80e0976ea5106cf971371153afc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>package_private</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Env_detail</label><live_feed_enabled>false</live_feed_enabled><name>x_685788_test2_envdetail</name><number_ref/><provider_class/><read_access>false</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-28 09:06:15</sys_created_on><sys_id>2c5f80e0976ea5106cf971371153afc9</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Env_detail</sys_name><sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_db_object_2c5f80e0976ea5106cf971371153afc9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-04 13:15:44</sys_updated_on><update_access>false</update_access><user_role/><ws_access>false</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1379864936</payload_hash>
+        <record_name>Env_detail</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 13:15:44</sys_created_on>
+        <sys_id>79f14ca697a221106cf971371153af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187e6e7825f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 13:15:44</sys_updated_on>
+        <type>Table</type>
+        <update_guid>71f14ca637a22110576a1da909038f3d</update_guid>
+        <update_guid_history>71f14ca637a22110576a1da909038f3d:1379864936,61214ca673a22110a7de46aac647c735:640231560,c2f04c66dda22110dbd9b1e6693944a0:1379864936,d768b35efc6221102cda042d91d12e07:-1603704664,705f80e0b46ea5101afd5393e45007df:-1972168453</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-09 11:32:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>097c37d62647430683e3401f473fd471</sys_id>
+        <sys_metadata>2c5f80e0976ea5106cf971371153afc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Env_detail</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_db_object_2c5f80e0976ea5106cf971371153afc9</sys_update_name>
+        <sys_update_version display_value="sys_db_object_2c5f80e0976ea5106cf971371153afc9">79f14ca697a221106cf971371153af3d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-09 11:32:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

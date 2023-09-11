@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d90b09d49703ed106cf971371153af06" label="env_category" max_length="40" name="x_685788_test2_env_category" type="collection">
+        <element label="env_cat_id" max_length="40" name="env_cat_id" type="integer"/>
+        <element display="true" label="env_cat_name" max_length="40" name="env_cat_name" type="string"/>
+    </element>
+</database>

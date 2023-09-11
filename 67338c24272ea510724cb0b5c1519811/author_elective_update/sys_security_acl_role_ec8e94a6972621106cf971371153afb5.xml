@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 15:20:27</sys_created_on>
+        <sys_id>ec8e94a6972621106cf971371153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_job_type.x_685788_test2.submitter</sys_name>
+        <sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_security_acl display_value="x_685788_test2_job_type">248e94a6972621106cf971371153afb3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ec8e94a6972621106cf971371153afb5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 15:20:27</sys_updated_on>
+        <sys_user_role display_value="x_685788_test2.submitter" name="x_685788_test2.submitter">cc43cc248a2ea5106dc89a8c0305a00c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_security_acl_role_ec8e94a6972621106cf971371153afb5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-04 15:20:27</sys_created_on><sys_id>ec8e94a6972621106cf971371153afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_685788_test2_job_type.x_685788_test2.submitter</sys_name><sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope><sys_security_acl display_value="x_685788_test2_job_type">248e94a6972621106cf971371153afb3</sys_security_acl><sys_update_name>sys_security_acl_role_ec8e94a6972621106cf971371153afb5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-04 15:20:27</sys_updated_on><sys_user_role display_value="x_685788_test2.submitter" name="x_685788_test2.submitter">cc43cc248a2ea5106dc89a8c0305a00c</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>113495095</payload_hash>
+        <record_name>x_685788_test2_job_type.x_685788_test2.submitter</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 15:20:27</sys_created_on>
+        <sys_id>208e94a6972621106cf971371153afea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187e759b0400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 15:20:27</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>648e94a6692621100953a157bcf914e9</update_guid>
+        <update_guid_history>648e94a6692621100953a157bcf914e9:113495095</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_685788_test2_job_type.x_685788_test2.submitter">285a3c32976661106cf971371153af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 12:00:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>e9143af49bf24ff894a741f2b0e57591</sys_id>
+        <sys_metadata>ec8e94a6972621106cf971371153afb5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_job_type.x_685788_test2.submitter</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="">248e94a6972621106cf971371153afb3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ec8e94a6972621106cf971371153afb5</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ec8e94a6972621106cf971371153afb5">208e94a6972621106cf971371153afea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 12:00:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

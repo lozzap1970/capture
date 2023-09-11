@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Application UAT">a7b07d5297e031106cf971371153af51</sc_cat_item>
+        <sc_category display_value="Application UAT">c746061e972431106cf971371153af7b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 14:22:47</sys_created_on>
+        <sys_id>4db6ca1e972431106cf971371153afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application UAT.Application UAT</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_4db6ca1e972431106cf971371153afd6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-11 14:22:47</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

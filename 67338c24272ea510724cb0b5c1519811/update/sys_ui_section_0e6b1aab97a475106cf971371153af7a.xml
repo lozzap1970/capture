@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Intune UAT outputs" section_id="0e6b1aab97a475106cf971371153af7a" sys_domain="global" table="sc_req_item" version="3" view="intune">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_job_detail_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>2f81078a97b031106cf971371153afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_start_time</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>a381078a97b031106cf971371153afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_end_time</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>2781078a97b031106cf971371153afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_output</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>a781078a97b031106cf971371153afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_successful</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>2b81078a97b031106cf971371153afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_document_created_successfully</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>ab81078a97b031106cf971371153afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_document_path</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>2f81078a97b031106cf971371153afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_testing_completed_successfully</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>af81078a97b031106cf971371153afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_screen_recording_path</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>2381078a97b031106cf971371153afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_uat_pdf_link</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>a381078a97b031106cf971371153afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_uat_video</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 10:17:07</sys_created_on>
+            <sys_id>2781078a97b031106cf971371153afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune UAT outputs" display_value="Intune UAT outputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">0e6b1aab97a475106cf971371153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 10:17:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Intune UAT outputs</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-15 13:05:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e6b1aab97a475106cf971371153af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_0e6b1aab97a475106cf971371153af7a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-15 13:05:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="InTune" name="intune">503b56ab97a475106cf971371153afa1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_TEMP_TARGET_MAPPING</name>
+        <order>100</order>
+        <source_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_685788_test2_job_detail">5b598c9297aba1106cf971371153aff8</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 12:12:24</sys_created_on>
+        <sys_id>ef59cc9297aba1106cf971371153afeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TEMP_TARGET_MAPPING</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Import Job Details_etl_ihub">cb39cc5297aba1106cf971371153afa6</sys_rte_eb_definition>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_ef59cc9297aba1106cf971371153afeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 12:12:24</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="Target_x_685788_test2_job_detail">57390c9297aba1106cf971371153af12</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>

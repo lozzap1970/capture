@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_685788_test2.approver" name="x_685788_test2.approver">4c43cc24182ea510755681d747c9360d</contains>
+        <role display_value="x_685788_test2.admin" name="x_685788_test2.admin">0443cc248b2ea510f0c12ab31a9c6a0d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:41</sys_created_on>
+        <sys_id>77338c24d02ea510f129c4ae2b991667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_user_role_contains_77338c24d02ea510f129c4ae2b991667</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:41</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

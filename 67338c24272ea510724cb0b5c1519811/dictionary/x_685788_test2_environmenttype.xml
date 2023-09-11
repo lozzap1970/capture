@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3375410a9757e5106cf971371153af02" label="Environment Type" max_length="40" name="x_685788_test2_environmenttype" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element display="true" label="Id" max_length="40" name="id" type="integer"/>
+    </element>
+</database>

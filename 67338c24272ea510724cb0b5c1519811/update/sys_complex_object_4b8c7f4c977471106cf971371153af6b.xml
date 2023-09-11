@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD878c7f4c2f747110abebcb317b660e6b</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>67338c24272ea510724cb0b5c1519811</scope_name>
+        <serialized_content>{"FlowDesigner:FD878c7f4c2f747110abebcb317b660e6b":{"$COCollectionField":[{"screenrecordingfilepaths_child0":{"SCREENPATH":"String","SCREENPATH.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"SCREENPATH\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"580dcf94-385d-44b3-be86-228282a80eda\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"ac9c3880-aa62-4f4b-88fa-7363c832c27d\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Screenrecordingpath\",\"mandatory\":\"false\",\"child_name\":\"screenrecordingfilepaths_child0\",\"uiUniqueId\":\"ddb514f5-a5b4-4a2c-90d7-9f30c1a889f3\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD878c7f4c2f747110abebcb317b660e6b\",\"child_label\":\"0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"3d165cd0-820f-443f-ba2f-3e7f12ea531d\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"10\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"068a5afb-28f0-4f85-944e-1abddc28a980\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD878c7f4c2f747110abebcb317b660e6b.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"ac9c3880-aa62-4f4b-88fa-7363c832c27d\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Screenrecordingpath\",\"mandatory\":\"false\",\"child_name\":\"screenrecordingfilepaths_child0\",\"uiUniqueId\":\"ddb514f5-a5b4-4a2c-90d7-9f30c1a889f3\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD878c7f4c2f747110abebcb317b660e6b\",\"child_label\":\"0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"3d165cd0-820f-443f-ba2f-3e7f12ea531d\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"10\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"068a5afb-28f0-4f85-944e-1abddc28a980\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-17 09:27:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4b8c7f4c977471106cf971371153af6b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>FD878c7f4c2f747110abebcb317b660e6b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_complex_object_4b8c7f4c977471106cf971371153af6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-17 09:52:25</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

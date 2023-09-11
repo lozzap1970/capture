@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="MSI Outputs" section_id="2270010997e031106cf971371153afca" sys_domain="global" table="sc_req_item" version="3" view="exe-to-msi">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_job_detail_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:11:49</sys_created_on>
+            <sys_id>2352454997e031106cf971371153af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSI Outputs" display_value="MSI Outputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">2270010997e031106cf971371153afca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:11:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_start_time</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:11:49</sys_created_on>
+            <sys_id>a352454997e031106cf971371153af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSI Outputs" display_value="MSI Outputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">2270010997e031106cf971371153afca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:11:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_end_time</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:11:49</sys_created_on>
+            <sys_id>2752454997e031106cf971371153af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSI Outputs" display_value="MSI Outputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">2270010997e031106cf971371153afca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:11:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_output</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:11:49</sys_created_on>
+            <sys_id>a752454997e031106cf971371153af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSI Outputs" display_value="MSI Outputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">2270010997e031106cf971371153afca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:11:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_msi_created_successfully</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:11:49</sys_created_on>
+            <sys_id>2b52454997e031106cf971371153af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSI Outputs" display_value="MSI Outputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">2270010997e031106cf971371153afca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:11:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_msi_path</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:11:49</sys_created_on>
+            <sys_id>ab52454997e031106cf971371153af75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MSI Outputs" display_value="MSI Outputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">2270010997e031106cf971371153afca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:11:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>MSI Outputs</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:03:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2270010997e031106cf971371153afca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_2270010997e031106cf971371153afca</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:03:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="EXE-to-MSI" name="exe-to-msi">5250014997e031106cf971371153af19</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

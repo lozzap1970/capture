@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_685788_test2.Fileserverconnect</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Fileserverconnect</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-04 14:34:44</sys_created_on>
+        <sys_id>b37c9a4297fb61106cf971371153af63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2.Fileserverconnect</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_alias_b37c9a4297fb61106cf971371153af63</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-04 14:34:44</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_alias_b37c9a4297fb61106cf971371153af63</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_685788_test2.Fileserverconnect</id><multiple_connections>false</multiple_connections><name>Fileserverconnect</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-04 14:34:44</sys_created_on><sys_id>b37c9a4297fb61106cf971371153af63</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_685788_test2.Fileserverconnect</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_alias_b37c9a4297fb61106cf971371153af63</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-04 14:34:44</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1512146861</payload_hash>
+        <record_name>x_685788_test2.Fileserverconnect</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-04 14:34:44</sys_created_on>
+        <sys_id>a90d928297fb61106cf971371153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1892153c0010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-04 14:34:44</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>ad0d928221fb611083f0b1a92af3d5b1</update_guid>
+        <update_guid_history>ad0d928221fb611083f0b1a92af3d5b1:1512146861</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-04 14:40:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>53a4e2fa884541ba9e4475c9a31af379</sys_id>
+        <sys_metadata>b37c9a4297fb61106cf971371153af63</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2.Fileserverconnect</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_alias_b37c9a4297fb61106cf971371153af63</sys_update_name>
+        <sys_update_version display_value="sys_alias_b37c9a4297fb61106cf971371153af63">a90d928297fb61106cf971371153afb2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-04 14:40:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

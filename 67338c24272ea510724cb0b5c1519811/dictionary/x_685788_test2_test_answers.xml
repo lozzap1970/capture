@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2159742d97fcf1106cf971371153affa" label="Test_Answers" max_length="40" name="x_685788_test2_test_answers" type="collection">
+        <element label="Comment" max_length="1024" name="comment" type="string"/>
+        <element label="Id" max_length="40" name="id" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="ResponseDateTime" max_length="100" name="responsedatetime" type="string"/>
+        <element label="Success" max_length="40" name="sucess" type="string"/>
+        <element label="TestQuestionId" max_length="40" name="testquestionid" type="string"/>
+        <element label="TestSessionID" max_length="40" name="testsessionid" type="string"/>
+        <index name="index">
+            <element name="testquestionid"/>
+            <element name="testsessionid"/>
+        </index>
+    </element>
+</database>
