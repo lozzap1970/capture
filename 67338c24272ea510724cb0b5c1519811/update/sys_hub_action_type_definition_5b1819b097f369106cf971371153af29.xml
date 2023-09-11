@@ -13,7 +13,7 @@
         <description/>
         <ih_action>false</ih_action>
         <internal_name>test1</internal_name>
-        <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛jobDetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[09a74a67-8147-43a2-8cf7-501520106a51].count}}","label":"step➛Look Up Records step➛Count","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛jobDetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.discoveryvmmarkedinuse}}","label":"action➛DiscoveryVmMarkedinUse","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[09a74a67-8147-43a2-8cf7-501520106a51].count}}","label":"step➛Look Up Records step➛Count","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
         <master_snapshot>5d89157497f369106cf971371153af91</master_snapshot>
         <name>LOOKUP RECORDS</name>
         <natlang/>
@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5b1819b097f369106cf971371153af29</sys_id>
-        <sys_mod_count>37</sys_mod_count>
+        <sys_mod_count>49</sys_mod_count>
         <sys_name>LOOKUP RECORDS</sys_name>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_5b1819b097f369106cf971371153af29</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:32:01</sys_updated_on>
+        <sys_updated_on>2023-08-01 14:51:18</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -63,10 +63,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 12:27:23</sys_created_on>
         <sys_id>d989157497f369106cf971371153af78</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:24:53</sys_updated_on>
-        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
+        <sys_updated_on>2023-08-01 11:14:16</sys_updated_on>
+        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">0189157497f369106cf971371153af6c</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=5b1819b097f369106cf971371153af29"/>
@@ -136,10 +136,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 12:26:49</sys_created_on>
         <sys_id>7c69517497f369106cf971371153af59</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:27:35</sys_updated_on>
+        <sys_updated_on>2023-08-01 11:54:25</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7c69517497f369106cf971371153af59"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -177,9 +177,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 12:26:49</sys_created_on>
         <sys_id>c969517497f369106cf971371153af5f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:27:35</sys_updated_on>
+        <sys_updated_on>2023-08-01 11:54:25</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_48526b2dc32a32002841b63b12d3ae72</table>
         <value>id={{action.jobdetailid}}</value>
     </sys_element_mapping>
@@ -438,14 +438,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 12:27:23</sys_created_on>
         <sys_id>0d89157497f369106cf971371153af70</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>43</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:31:59</sys_updated_on>
+        <sys_updated_on>2023-08-01 14:51:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -525,14 +525,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-03 09:26:50</sys_created_on>
         <sys_id>edfccc35977321106cf971371153af2f</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:31:59</sys_updated_on>
+        <sys_updated_on>2023-08-01 14:51:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -659,17 +659,17 @@
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="LOOKUP RECORDS">5b1819b097f369106cf971371153af29</action_id>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"6989157497f369106cf971371153afeb","name":"plan","plan_signature":null}}</plan>
-        <snapshot>692e88b5977321106cf971371153af70</snapshot>
+        <snapshot>115d6acf9710b5106cf971371153af8a</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 12:27:25</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6989157497f369106cf971371153afeb</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:32:01</sys_updated_on>
+        <sys_updated_on>2023-08-01 14:51:19</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -683,7 +683,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>lookup_records</internal_name>
-        <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛jobDetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[09a74a67-8147-43a2-8cf7-501520106a51].count}}","label":"step➛Look Up Records step➛Count","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛jobDetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.discoveryvmmarkedinuse}}","label":"action➛DiscoveryVmMarkedinUse","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[09a74a67-8147-43a2-8cf7-501520106a51].count}}","label":"step➛Look Up Records step➛Count","type":"step","ref":"","reference_display":"","base_type":"integer","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
         <master>true</master>
         <name>LOOKUP RECORDS</name>
         <natlang/>
@@ -696,7 +696,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5d89157497f369106cf971371153af91</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -704,7 +704,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:32:00</sys_updated_on>
+        <sys_updated_on>2023-08-01 11:54:32</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_snapshot>
@@ -718,10 +718,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 12:27:24</sys_created_on>
         <sys_id>1589157497f369106cf971371153afad</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:32:01</sys_updated_on>
-        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
+        <sys_updated_on>2023-08-01 11:54:32</sys_updated_on>
+        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">9189157497f369106cf971371153afa1</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1020,14 +1020,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-03 09:32:00</sys_created_on>
         <sys_id>512e88b5977321106cf971371153af4c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:32:01</sys_updated_on>
+        <sys_updated_on>2023-08-01 14:51:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1194,14 +1194,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 12:27:24</sys_created_on>
         <sys_id>9989157497f369106cf971371153afa5</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:32:00</sys_updated_on>
+        <sys_updated_on>2023-08-01 14:51:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1327,6 +1327,6 @@
     <sys_hub_action_type_definition action="UPDATE">
         <sys_id>5b1819b097f369106cf971371153af29</sys_id>
         <latest_snapshot>5d89157497f369106cf971371153af91</latest_snapshot>
-        <compiler_build>glide-utah-12-21-2022__patch1-03-01-2023_03-13-2023_1716.zip</compiler_build>
+        <compiler_build>glide-utah-12-21-2022__patch4-hotfix2-06-23-2023_06-23-2023_2224.zip</compiler_build>
     </sys_hub_action_type_definition>
 </record_update>

@@ -12,7 +12,7 @@
                 <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="javascript:gs.getUserID();" label="Submitter" mandatory="true" max_length="32" name="submitter" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Submitter" mandatory="true" max_length="32" name="submitter" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element label="Attach Source Media " max_length="40" name="u_file_attachment_1" type="file_attachment"/>
         <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="40" name="work_notes" type="journal"/>
         <index name="index">

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="x_685788_test2_u_html_1" table="sc_req_item">
         <active>true</active>
         <array>false</array>
-        <attributes>html_sanitize=false</attributes>
+        <attributes>html_sanitize=false,editor.toolbar=code fullscreen</attributes>
         <audit>false</audit>
         <calculation/>
         <choice/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sys_dictionary_sc_req_item_x_685788_test2_u_html_1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 10:40:00</sys_updated_on>
+        <sys_updated_on>2023-08-09 14:18:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

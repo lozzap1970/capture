@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Send To Auto Launch ?">751002ab972475106cf971371153af00</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-15 11:06:19</sys_created_on>
+        <sys_id>4e1002ab972475106cf971371153af42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>No</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>question_choice_4e1002ab972475106cf971371153af42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-15 11:06:19</sys_updated_on>
+        <text>No</text>
+        <value>no</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=4e1002ab972475106cf971371153af42"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>question_choice_4e1002ab972475106cf971371153af42</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref/><question display_value="Send To Auto Launch ?">751002ab972475106cf971371153af00</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-15 11:06:19</sys_created_on><sys_id>4e1002ab972475106cf971371153af42</sys_id><sys_mod_count>0</sys_mod_count><sys_name>No</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>question_choice_4e1002ab972475106cf971371153af42</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-15 11:06:19</sys_updated_on><text>No</text><value>no</value></question_choice><fx_price action="delete_multiple" query="id=4e1002ab972475106cf971371153af42"/></record_update>]]></payload>
+        <payload_hash>-422636647</payload_hash>
+        <record_name>No</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-15 11:06:19</sys_created_on>
+        <sys_id>421002ab972475106cf971371153af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189f8e0084c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-15 11:06:19</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>461002abe9247510176de0fff9a97144</update_guid>
+        <update_guid_history>461002abe9247510176de0fff9a97144:-422636647</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="No">60dade6b97a475106cf971371153afa2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-15 13:03:05</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>17f526f9b0af4bb08aae90eccc303924</sys_id>
+        <sys_metadata>4e1002ab972475106cf971371153af42</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>No</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>question_choice_4e1002ab972475106cf971371153af42</sys_update_name>
+        <sys_update_version display_value="question_choice_4e1002ab972475106cf971371153af42">421002ab972475106cf971371153af45</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-15 13:03:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

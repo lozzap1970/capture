@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_685788_test2_msi_package_version" label="MSI Package Version" language="en" table="sc_req_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_msi_package_version</element>
+            <help/>
+            <hint/>
+            <label>MSI Package Version</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <plural>MSI Package Versions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:35:45</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MSI Package Version</sys_name>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_documentation_sc_req_item_x_685788_test2_msi_package_version_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:35:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

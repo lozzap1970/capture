@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="UAT Outputs" section_id="2318c2de972431106cf971371153afd9" sys_domain="global" table="sc_req_item" version="3" view="uat">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_job_detail_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>027a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_start_time</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>827a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_end_time</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>067a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_document_created_successfully</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>867a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_capture_output</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>0a7a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_testing_completed_successfully</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>8a7a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_document_path</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>0e7a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_uat_pdf_link</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>8e7a668e973031106cf971371153afa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_screen_recording_path</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>027a668e973031106cf971371153afa8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_uat_video</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 08:36:15</sys_created_on>
+            <sys_id>067ae68e973031106cf971371153afe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="UAT Outputs" display_value="UAT Outputs" name="sc_req_item" sys_domain="global" view="74084e9e972431106cf971371153af82">2318c2de972431106cf971371153afd9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 08:36:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>UAT Outputs</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-11 14:28:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2318c2de972431106cf971371153afd9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_2318c2de972431106cf971371153afd9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-11 14:28:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="UAT" name="uat">74084e9e972431106cf971371153af82</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

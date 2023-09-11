@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDc085ad6416b0311020b39a0eafef4eb6</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>67338c24272ea510724cb0b5c1519811</scope_name>
+        <serialized_content>{"FlowDesigner:FDc085ad6416b0311020b39a0eafef4eb6":{"$COCollectionField":[{"Object":{}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDc085ad6416b0311020b39a0eafef4eb6.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"TEST_SESSIONS_OUTPUT\",\"mandatory\":\"false\",\"child_name\":\"test_sessions_output_child0\",\"uiUniqueId\":\"8e147a4e-536a-4e08-adcc-112ec072e6b0\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDc085ad6416b0311020b39a0eafef4eb6\",\"child_label\":\"TEST_SESSIONS_OUTPUT_child0\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"10c2e1ec-96fe-4d90-96ba-80d40d539c71\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:44:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8485ad6497b031106cf971371153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDc085ad6416b0311020b39a0eafef4eb6</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_complex_object_8485ad6497b031106cf971371153afb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:44:02</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

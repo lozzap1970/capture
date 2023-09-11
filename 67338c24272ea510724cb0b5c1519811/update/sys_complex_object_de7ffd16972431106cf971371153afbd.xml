@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD1e7ffd16d1243110193fa9df2f518cbd</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>67338c24272ea510724cb0b5c1519811</scope_name>
+        <serialized_content>{"FlowDesigner:FD1e7ffd16d1243110193fa9df2f518cbd":{"PackageTestingCompletedSuccessfully":"String","PackageTestingCompletedSuccessfully.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"PackageTestingCompletedSuccessfully\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"a0e88b7f-9fd6-4f44-b409-d777edf68245\"}"},"DocumentPath":"String","DocumentPath.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"DocumentPath\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"470739b3-6265-48a7-a2b6-02746cdbe6a1\"}"},"DocumentCreatedSuccessfully":"String","DocumentCreatedSuccessfully.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"DocumentCreatedSuccessfully\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"2d5a5ff9-854c-491a-944e-7199a1c90bc4\"}"}},"FlowDesigner:FD1e7ffd16d1243110193fa9df2f518cbd.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"second pass\",\"mandatory\":\"false\",\"uiUniqueId\":\"17996f24-a318-46c4-b736-f21c4ef00598\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD1e7ffd16d1243110193fa9df2f518cbd\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 13:51:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de7ffd16972431106cf971371153afbd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FD1e7ffd16d1243110193fa9df2f518cbd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_complex_object_de7ffd16972431106cf971371153afbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-11 13:52:40</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

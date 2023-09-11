@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Test Answer (2)" section_id="75c16c60974971106cf971371153af5d" sys_domain="global" table="sc_req_item" version="3" view="intune">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_q2_response_date_time</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:31:27</sys_created_on>
+            <sys_id>9cca3cf897c131106cf971371153afe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:31:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_question_2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:31:27</sys_created_on>
+            <sys_id>10ca3cf897c131106cf971371153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:31:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_q2_success</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:31:27</sys_created_on>
+            <sys_id>90ca3cf897c131106cf971371153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:31:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_q2_pass_text</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:31:27</sys_created_on>
+            <sys_id>14ca3cf897c131106cf971371153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:31:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_q2_fail_text</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:31:27</sys_created_on>
+            <sys_id>94ca3cf897c131106cf971371153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:31:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_q2_comment</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:31:27</sys_created_on>
+            <sys_id>18ca3cf897c131106cf971371153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:31:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_q2_requires_shortcut</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:31:27</sys_created_on>
+            <sys_id>98ca3cf897c131106cf971371153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Answer (2)" display_value="Test Answer (2)" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">75c16c60974971106cf971371153af5d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:31:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Test Answer (2)</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-30 17:03:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75c16c60974971106cf971371153af5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_75c16c60974971106cf971371153af5d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-30 17:03:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="InTune" name="intune">503b56ab97a475106cf971371153afa1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

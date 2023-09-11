@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="global_search_config_handler=RequestItemSearchConfig,hasWorkflow=true" audit="true" create_roles="catalog_admin" db_object_id="505d0bf9e8a1211076da10591ad287b4" extends="task" label="Requested Item" max_length="40" name="sc_req_item" text_index="true" type="collection">
+    <element attributes="global_search_config_handler=RequestItemSearchConfig,hasWorkflow=true,use_document_viewer=true" audit="true" create_roles="catalog_admin" db_object_id="505d0bf9e8a1211076da10591ad287b4" extends="task" label="Requested Item" max_length="40" name="sc_req_item" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="AppAttach Path" max_length="1000" name="x_685788_test2_appattach_path" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="AppAttach Volume Guid" max_length="1000" name="x_685788_test2_appattach_volume_guid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Arguments" max_length="40" name="x_685788_test2_arguments" type="string"/>
+        <element label="Attachment" max_length="40" name="x_685788_test2_attachment" type="file_attachment"/>
         <element attributes="edge_encryption_enabled=true" label="Auto Launch End Time" max_length="40" name="x_685788_test2_auto_launch_end_time" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Auto Launch Job ID" max_length="40" name="x_685788_test2_auto_launch_job_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Auto Launch Start Time" max_length="40" name="x_685788_test2_auto_launch_start_time" type="string"/>
@@ -12,10 +14,26 @@
         <element attributes="edge_encryption_enabled=true" label="Capture Output" max_length="2000" name="x_685788_test2_capture_output" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Capture Start Time" max_length="40" name="x_685788_test2_capture_start_time" type="string"/>
         <element label="capture video" max_length="65536" name="x_685788_test2_capture_video" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Cpu Count" max_length="100" name="x_685788_test2_cpu_count" type="string"/>
         <element label="Create App Attach" max_length="40" name="x_685788_test2_create_app_attach" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Document Created Successfully" max_length="40" name="x_685788_test2_document_created_successfully" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Document Path" max_length="1000" name="x_685788_test2_document_path" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Environment Detail Name" max_length="100" name="x_685788_test2_environment_detail_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="File" max_length="40" name="x_685788_test2_file" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="File" max_length="1000" name="x_685788_test2_file" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="File Unc" max_length="1000" name="x_685788_test2_file_unc" type="string"/>
+        <element label="html" max_length="65536" name="x_685788_test2_html" type="html"/>
         <element attributes="edge_encryption_enabled=true" label="Install Order" max_length="40" name="x_685788_test2_install_order" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Availability" max_length="40" name="x_685788_test2_intune_availability" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Category" max_length="40" name="x_685788_test2_intune_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Developer" max_length="40" name="x_685788_test2_intune_developer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Information Url" max_length="40" name="x_685788_test2_intune_information_url" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Logo" max_length="40" name="x_685788_test2_intune_logo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Notes" max_length="40" name="x_685788_test2_intune_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Owner" max_length="40" name="x_685788_test2_intune_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="InTune Privacy Url" max_length="40" name="x_685788_test2_intune_privacy_url" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Msi Created Successfully" max_length="40" name="x_685788_test2_msi_created_successfully" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MSI Package Version" max_length="40" name="x_685788_test2_msi_package_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Msi Path" max_length="1000" name="x_685788_test2_msi_path" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="x_685788_test2_notes" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Package Description" max_length="1000" name="x_685788_test2_package_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Package Display Name" max_length="40" name="x_685788_test2_package_display_name" type="string"/>
@@ -23,13 +41,49 @@
         <element attributes="edge_encryption_enabled=true" label="Package Name" max_length="40" name="x_685788_test2_package_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Capture Package Output Path" max_length="1000" name="x_685788_test2_package_output_path" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Capture Package Successful" max_length="40" name="x_685788_test2_package_successful" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Package Unc" max_length="40" name="x_685788_test2_package_unc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Package Testing Completed Successfully" max_length="40" name="x_685788_test2_package_testing_completed_successfully" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Package Unc" max_length="100" name="x_685788_test2_package_unc" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Package Version" max_length="40" name="x_685788_test2_package_version" type="string"/>
+        <element attributes="html_sanitize=false,editor.toolbar=code fullscreen" label="Discovery PDF" max_length="65536" name="x_685788_test2_pdf" type="html"/>
+        <element label="PDF attachment" max_length="40" name="x_685788_test2_pdf_attachment" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Discovery PDF Link" max_length="1024" name="x_685788_test2_pdf_link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Q1 - Fail Text" max_length="1000" name="x_685788_test2_q1_fail_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q1 - Pass Text" max_length="1000" name="x_685788_test2_q1_pass_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q1 - Response Date/Time" max_length="100" name="x_685788_test2_q1_response_date_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q2 - Comment" max_length="1000" name="x_685788_test2_q2_comment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q2 - Fail Text" max_length="1000" name="x_685788_test2_q2_fail_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q2 - Pass Text" max_length="1000" name="x_685788_test2_q2_pass_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q2 - Requires Screenshot" max_length="40" name="x_685788_test2_q2_requires_shortcut" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q2 - Response Date/Time" max_length="100" name="x_685788_test2_q2_response_date_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q2 - Success" max_length="40" name="x_685788_test2_q2_success" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Question 2" max_length="1000" name="x_685788_test2_question_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Question Response Date  Time" max_length="1000" name="x_685788_test2_question_response_date_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Report Name" max_length="100" name="x_685788_test2_report_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q1 - Requires Screenshot" max_length="40" name="x_685788_test2_requires_shortcut" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Screen Recording Path" max_length="1000" name="x_685788_test2_screen_recording_path" type="string"/>
         <element label="Send To AutoLaunch" max_length="40" name="x_685788_test2_send_to_autolaunch" type="boolean"/>
-        <element label="Timout in Hours" max_length="40" name="x_685788_test2_timout_in_hours" type="integer"/>
+        <element label="test2" max_length="40" name="x_685788_test2_test2" type="file_attachment"/>
+        <element label="Test Answers" max_length="65536" name="x_685788_test2_test_answers" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Q1 - Comment" max_length="1000" name="x_685788_test2_test_comment" type="string"/>
+        <element attributes="encode_utf8=false" label="Test Detail ID" max_length="32" name="x_685788_test2_test_detail_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="test Detail Name" max_length="100" name="x_685788_test2_test_detail_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test End Time" max_length="100" name="x_685788_test2_test_end_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Machine Name" max_length="100" name="x_685788_test2_test_machine_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Memory (MB)" max_length="100" name="x_685788_test2_test_memory_mb" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Platform" max_length="100" name="x_685788_test2_test_platform" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Question 1" max_length="1000" name="x_685788_test2_test_question" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Questions" max_length="40" name="x_685788_test2_test_questions" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Question ID" max_length="40" name="x_685788_test2_test_question_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Q1 - Success" max_length="1000" name="x_685788_test2_test_question_success" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Release" max_length="100" name="x_685788_test2_test_release" type="string"/>
+        <element attributes="encode_utf8=false" label="Test Session ID" max_length="32" name="x_685788_test2_test_session_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test Start Time" max_length="100" name="x_685788_test2_test_start_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test User Name" max_length="100" name="x_685788_test2_test_user_name" type="string"/>
+        <element label="Timeout in Hours" max_length="40" name="x_685788_test2_timout_in_hours" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UAT PDF Link" max_length="1024" name="x_685788_test2_uat_pdf_link" type="url"/>
+        <element attributes="html_sanitize=false,editor.toolbar=code fullscreen" label="UAT Video" max_length="65536" name="x_685788_test2_uat_video" type="html"/>
         <element label="Use Cimfs" max_length="40" name="x_685788_test2_use_cimfs" type="boolean"/>
-        <element attributes="html_sanitize=false" label="AutoLaunch Video" max_length="65536" name="x_685788_test2_u_html_1" type="html"/>
+        <element attributes="html_sanitize=false,editor.toolbar=code fullscreen" label="AutoLaunch Video" max_length="65536" name="x_685788_test2_u_html_1" type="html"/>
         <element label="Video" max_length="40" name="x_685788_test2_video" type="video"/>
     </element>
 </database>

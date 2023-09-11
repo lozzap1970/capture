@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9ae98af4979871106cf971371153af81" extends="sys_import_set_row" label="bulk attachment" max_length="40" name="x_685788_test2_bulk_attachment" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=appattach" label="appattach" max_length="40" name="u_appattach" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=arguments" label="arguments" max_length="40" name="u_arguments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=autolaunch" label="autolaunch" max_length="40" name="u_autolaunch" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cimfs" label="cimfs" max_length="40" name="u_cimfs" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=env detail" label="env detail" max_length="40" name="u_env_detail" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=file" label="file" max_length="40" name="u_file" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=install order" label="install order" max_length="40" name="u_install_order" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=notes" label="notes" max_length="40" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=package description" label="package description" max_length="40" name="u_package_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=package display name" label="package display name" max_length="40" name="u_package_display_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=package name" label="package name" max_length="40" name="u_package_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=package version" label="package version" max_length="40" name="u_package_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=timeout" label="timeout" max_length="40" name="u_timeout" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=unc" label="unc" max_length="40" name="u_unc" type="string"/>
+    </element>
+</database>

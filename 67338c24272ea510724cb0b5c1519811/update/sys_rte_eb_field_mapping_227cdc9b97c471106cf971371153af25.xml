@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="sn_ihub_target_autolaunch">de7c9c9b97c471106cf971371153af85</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 12:41:12</sys_created_on>
+        <sys_id>227cdc9b97c471106cf971371153af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Capture import_etl_ihub">db0c541b97c471106cf971371153af65</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">ae7cdc9b97c471106cf971371153af20</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_227cdc9b97c471106cf971371153af25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 12:41:12</sys_updated_on>
+        <target_sys_rte_eb_field display_value="autolaunch">da7c185b97c471106cf971371153af94</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

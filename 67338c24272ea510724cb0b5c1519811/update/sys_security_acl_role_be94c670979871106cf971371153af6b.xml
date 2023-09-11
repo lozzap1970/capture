@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 12:07:02</sys_created_on>
+        <sys_id>be94c670979871106cf971371153af6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_bulk_import.x_685788_test2.Capture administrator</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_security_acl display_value="x_685788_test2_bulk_import">3a94c670979871106cf971371153af69</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_be94c670979871106cf971371153af6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 12:07:02</sys_updated_on>
+        <sys_user_role display_value="x_685788_test2.Capture administrator" name="x_685788_test2.Capture administrator">11489cee97e221106cf971371153af87</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

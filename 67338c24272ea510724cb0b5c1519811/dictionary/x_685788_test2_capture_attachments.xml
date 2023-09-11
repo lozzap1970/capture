@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="00313069971c71106cf971371153af2f" label="capture attachments" max_length="40" name="x_685788_test2_capture_attachments" type="collection">
+        <element label="file" max_length="40" name="file" type="file_attachment"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

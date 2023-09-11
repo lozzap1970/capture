@@ -10,7 +10,7 @@
         <copied_from_name>MSIXBUILDER</copied_from_name>
         <description/>
         <internal_name>msixbuilder_working</internal_name>
-        <label_cache>[{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.appattachvolumeguid","label":"13 - GET-MSIX➛AppAttachVolumeGuid","reference_display":"AppAttachVolumeGuid","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"c1ad436b-3c40-47b1-9705-f09c847e66a1"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.appattachpath","label":"13 - GET-MSIX➛AppAttachPath","reference_display":"AppAttachPath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"e3001673-dcb5-4fd7-be20-1507fb5081ff"}},{"name":"flow_variable.key","label":"Flow Variables➛key","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"d3155ce0-e139-48e3-9ab4-fd6a973ed533"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.html_screen_output","label":"20 - GET-AUTOLAUNCH➛Html Screen output","reference_display":"Html Screen output","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"72d94075-766d-440b-a061-41962c336581"}},{"name":"flow_variable.html_path","label":"Flow Variables➛html path","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5eea49c1-058f-4a98-87f0-d72aea2b744d"}},{"name":"flow_variable.filserver","label":"Flow Variables➛filserver","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"bc451864-1300-4d6a-9f88-4968df9cddca"}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.__action_status__.message","label":"3➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.jobdetailid","label":"13 - GET-MSIX➛jobDetailId","reference_display":"jobDetailId","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"89e2471c-0838-4263-b0f3-62a176d6d535"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.screenrecordingfilepath","label":"20 - GET-AUTOLAUNCH➛ScreenRecordingFilePath","reference_display":"ScreenRecordingFilePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"7f2f60f9-612b-47e2-9972-abaef78322bd"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.autolaunchcomplete","label":"20 - GET-AUTOLAUNCH➛Automated Launch Completed Successfully","reference_display":"Automated Launch Completed Successfully","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"504604fe-7ac1-4f03-953a-b5df5543224f"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.enddatetime","label":"20 - GET-AUTOLAUNCH➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"ad80ff39-9474-4bfc-9452-bf13f651c5ef"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.startdatetime","label":"20 - GET-AUTOLAUNCH➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"647a4658-7efa-46c4-a4a1-53b2356c2eb1"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.jobstatusid","label":"22 - Look Up Record➛job_detail Record➛JobStatusId","reference":"","reference_display":"JobStatusId","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"jobstatusid"},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_details_name","label":"2 - Get Catalog Variables➛environment_details_name","reference":"x_685788_test2_environment_details","reference_display":"environment_details","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.count","label":"8 - LOOKUP RECORDS➛count","reference_display":"count","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"24fe3327-ff05-4f1c-b73d-e2afd7995ced"}},{"name":"flow_variable.jobstatusid","label":"Flow Variables➛JobstatusId","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"f44281d5-5d9c-4b4f-b66d-9486277b75ae"}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item.jobStatusId","label":"12➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item","label":"13 - For Each➛array_object","reference_display":"array_object","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.jobStatusId","label":"11➛output➛array➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output","label":"12 - GET- JOBDETAILSTABLE➛output","reference_display":"output","type":"object","base_type":"object","attributes":{"sourceId":"02a49f3e-b2d8-4259-a7dc-852e6c65f959","uiTypeLabel":"Object","co_type_name":"FDf3cfd0de8beba110a6436b474dbd1710","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceType":"step","sourceUiUniqueId":"b91b17b2-5552-4771-96a3-db8f89376728","uiType":"object","uiUniqueId":"7f4e68ff-8531-408f-9b02-24d29a046dcb"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.id","label":"11➛output➛array➛array_object➛id","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array","label":"11➛output➛array","reference":"","reference_display":"","type":"array.object","base_type":"array.object","column_name":"","attributes":{}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_detail_id","label":"2 - Get Catalog Variables➛environment_detail_id","reference":"","reference_display":"environment_detail_id","type":"choice","base_type":"choice","attributes":{"catalogType":"18","catalogTypeLabel":"Lookup Select Box"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_name","label":"2 - Get Catalog Variables➛package_name","reference":"","reference_display":"package_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.notes","label":"2 - Get Catalog Variables➛notes","reference":"","reference_display":"notes","type":"multi_small","base_type":"multi_small","attributes":{"catalogType":"2","catalogTypeLabel":"Multi Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_description","label":"2 - Get Catalog Variables➛package_description","reference":"","reference_display":"package_description","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.unc","label":"2 - Get Catalog Variables➛unc","reference":"","reference_display":"unc","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_version","label":"2 - Get Catalog Variables➛package_version","reference":"","reference_display":"package_version","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_display_name","label":"2 - Get Catalog Variables➛package_display_name","reference":"","reference_display":"package_display_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.jobdetailid","label":"3 - POST-MSIXBUILDER➛JobDetailId","reference_display":"JobDetailId","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"1159b8fa-bdd0-494e-b15c-810d1cdc896e"}},{"name":"flow_variable.jobdetailid","label":"Flow Variables➛JobDetailId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a21b3a00-5f3e-48ad-b9fb-c3bb68993a1d"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.send_to_auto_launch","label":"2 - Get Catalog Variables➛send_to_auto_launch","reference":"","reference_display":"send_to_auto_launch","type":"boolean","base_type":"boolean","attributes":{"catalogType":"7","catalogTypeLabel":"CheckBox"}},{"name":"ed13a52f-a907-4311-980b-602888ae6dc8.response_body","label":"17 - POST-AUTOLAUNCH➛AutoLaunchJobID","reference_display":"AutoLaunchJobID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"8cfa6ec8-21a0-4fe3-8a12-5d0faaaf0a82"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagepath","label":"13 - GET-MSIX➛packagePath","reference_display":"packagePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"5627cedf-c60f-4fd5-906a-2dd9305dbb0c"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.variable","label":"8➛Recordcount","reference_display":"Recordcount","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049b4339-e629-4989-99e6-450b6fda1f65"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobstatusid","label":"11 - Get-JOBDETAIL➛JobStatusID","reference_display":"JobStatusID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"0ce06333-2bcc-4334-878a-28b4bb010edd"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobissuccessful","label":"11 - Get-JOBDETAIL➛jobIssuccessful","reference_display":"jobIssuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"a7dc0fa1-963f-46d5-a467-c857bfb7d5f8"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.startdatetime","label":"13 - GET-MSIX➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"bd4d26c4-2ade-45e1-9172-357b3af06729"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.enddatetime","label":"13 - GET-MSIX➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"57ccc0d0-1373-4c89-9e51-fb039ea38e04"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.variablejobissuccessful","label":"13 - GET-MSIX➛Jobissuccessful","reference_display":"Jobissuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"4efeaaff-62cc-42e4-b6be-b29bcd15f103"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.joboutput","label":"13 - GET-MSIX➛joboutput","reference_display":"joboutput","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"35acb5a1-f336-44e0-a82a-3ea4e368d16f"}},{"name":"flow_variable.autolaunchjobid","label":"Flow Variables➛AutoLaunchJobID","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a5d52efb-6b55-4912-9e46-cc455ff1683a"}},{"name":"bc32e8f8-93c3-4947-9d95-e0dced20794d.Count","label":"19 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagefullname","label":"13 - GET-MSIX➛PackageFullName","reference_display":"PackageFullName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"740dcaf8-0564-4e17-a6fc-3109d0a73d14"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packageversion","label":"13 - GET-MSIX➛PackageVersion","reference_display":"PackageVersion","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"d87c3414-e126-4a20-9286-76e06adadb74"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagename","label":"13 - GET-MSIX➛PackageName","reference_display":"PackageName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"9ea067af-dc41-461d-8af2-20ef45a68d9d"}},{"name":"Created_1.current","label":"Trigger - Record Created➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","attributes":{}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.id","label":"22 - Look Up Record➛job_detail Record➛Id","reference":"","reference_display":"Id","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"id"},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record","label":"22 - Look Up Record➛job_detail Record","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Records","label":"21 - Look Up Records➛job_detail Records","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Count","label":"21 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"bed41593-b858-4952-8ee8-f4f838a96428.Record.file_name","label":"21➛Attachment Record➛File name","reference":"","reference_display":"File name","type":"string","base_type":"string","parent_table_name":"sys_attachment","column_name":"file_name"},{"name":"flow_variable.request_number","label":"Flow Variables➛request_number","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"c5d3ff0c-af3c-473a-9a96-728e47619c59"}},{"name":"bed41593-b858-4952-8ee8-f4f838a96428.Record.sys_id","label":"21➛Attachment Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sys_attachment","column_name":"sys_id"},{"name":"flow_variable.sysid","label":"Flow Variables➛sysid","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"7e7cdec3-78ad-46d6-bb79-2fa892a03eed"}}]</label_cache>
+        <label_cache>[{"name":"flow_variable.sysid","label":"Flow Variables➛sysid","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"7e7cdec3-78ad-46d6-bb79-2fa892a03eed"}},{"name":"bed41593-b858-4952-8ee8-f4f838a96428.Record.sys_id","label":"21➛Attachment Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sys_attachment","column_name":"sys_id"},{"name":"flow_variable.request_number","label":"Flow Variables➛request_number","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"c5d3ff0c-af3c-473a-9a96-728e47619c59"}},{"name":"bed41593-b858-4952-8ee8-f4f838a96428.Record.file_name","label":"21➛Attachment Record➛File name","reference":"","reference_display":"File name","type":"string","base_type":"string","parent_table_name":"sys_attachment","column_name":"file_name"},{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Count","label":"21 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Records","label":"21 - Look Up Records➛job_detail Records","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record","label":"22 - Look Up Record➛job_detail Record","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.id","label":"22 - Look Up Record➛job_detail Record➛Id","reference":"","reference_display":"Id","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"id"},{"name":"Created_1.current","label":"Trigger - Record Created➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","attributes":{}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagename","label":"13 - GET-MSIX➛PackageName","reference_display":"PackageName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"9ea067af-dc41-461d-8af2-20ef45a68d9d"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packageversion","label":"13 - GET-MSIX➛PackageVersion","reference_display":"PackageVersion","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"d87c3414-e126-4a20-9286-76e06adadb74"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagefullname","label":"13 - GET-MSIX➛PackageFullName","reference_display":"PackageFullName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"740dcaf8-0564-4e17-a6fc-3109d0a73d14"}},{"name":"bc32e8f8-93c3-4947-9d95-e0dced20794d.Count","label":"19 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"flow_variable.autolaunchjobid","label":"Flow Variables➛AutoLaunchJobID","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a5d52efb-6b55-4912-9e46-cc455ff1683a"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.joboutput","label":"13 - GET-MSIX➛joboutput","reference_display":"joboutput","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"35acb5a1-f336-44e0-a82a-3ea4e368d16f"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.variablejobissuccessful","label":"13 - GET-MSIX➛Jobissuccessful","reference_display":"Jobissuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"4efeaaff-62cc-42e4-b6be-b29bcd15f103"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.enddatetime","label":"13 - GET-MSIX➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"57ccc0d0-1373-4c89-9e51-fb039ea38e04"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.startdatetime","label":"13 - GET-MSIX➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"bd4d26c4-2ade-45e1-9172-357b3af06729"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobissuccessful","label":"11 - Get-JOBDETAIL➛jobIssuccessful","reference_display":"jobIssuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"a7dc0fa1-963f-46d5-a467-c857bfb7d5f8"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobstatusid","label":"11 - Get-JOBDETAIL➛JobStatusID","reference_display":"JobStatusID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"0ce06333-2bcc-4334-878a-28b4bb010edd"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.variable","label":"8➛Recordcount","reference_display":"Recordcount","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049b4339-e629-4989-99e6-450b6fda1f65"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagepath","label":"13 - GET-MSIX➛packagePath","reference_display":"packagePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"5627cedf-c60f-4fd5-906a-2dd9305dbb0c"}},{"name":"ed13a52f-a907-4311-980b-602888ae6dc8.response_body","label":"17 - POST-AUTOLAUNCH➛AutoLaunchJobID","reference_display":"AutoLaunchJobID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"8cfa6ec8-21a0-4fe3-8a12-5d0faaaf0a82"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.send_to_auto_launch","label":"2 - Get Catalog Variables➛send_to_auto_launch","reference":"","reference_display":"send_to_auto_launch","type":"boolean","base_type":"boolean","attributes":{"catalogType":"7","catalogTypeLabel":"CheckBox"}},{"name":"flow_variable.jobdetailid","label":"Flow Variables➛JobDetailId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a21b3a00-5f3e-48ad-b9fb-c3bb68993a1d"}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.jobdetailid","label":"3 - POST-MSIXBUILDER➛JobDetailId","reference_display":"JobDetailId","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"1159b8fa-bdd0-494e-b15c-810d1cdc896e"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_display_name","label":"2 - Get Catalog Variables➛package_display_name","reference":"","reference_display":"package_display_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_version","label":"2 - Get Catalog Variables➛package_version","reference":"","reference_display":"package_version","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.unc","label":"2 - Get Catalog Variables➛unc","reference":"","reference_display":"unc","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_description","label":"2 - Get Catalog Variables➛package_description","reference":"","reference_display":"package_description","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.notes","label":"2 - Get Catalog Variables➛notes","reference":"","reference_display":"notes","type":"multi_small","base_type":"multi_small","attributes":{"catalogType":"2","catalogTypeLabel":"Multi Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_name","label":"2 - Get Catalog Variables➛package_name","reference":"","reference_display":"package_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_detail_id","label":"2 - Get Catalog Variables➛environment_detail_id","reference":"","reference_display":"environment_detail_id","type":"choice","base_type":"choice","attributes":{"catalogType":"18","catalogTypeLabel":"Lookup Select Box"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array","label":"11➛output➛array","reference":"","reference_display":"","type":"array.object","base_type":"array.object","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.id","label":"11➛output➛array➛array_object➛id","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output","label":"12 - GET- JOBDETAILSTABLE➛output","reference_display":"output","type":"object","base_type":"object","attributes":{"sourceId":"02a49f3e-b2d8-4259-a7dc-852e6c65f959","uiTypeLabel":"Object","co_type_name":"FDf3cfd0de8beba110a6436b474dbd1710","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceType":"step","sourceUiUniqueId":"b91b17b2-5552-4771-96a3-db8f89376728","uiType":"object","uiUniqueId":"7f4e68ff-8531-408f-9b02-24d29a046dcb"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.jobStatusId","label":"11➛output➛array➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item","label":"13 - For Each➛array_object","reference_display":"array_object","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item.jobStatusId","label":"12➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"flow_variable.jobstatusid","label":"Flow Variables➛JobstatusId","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"f44281d5-5d9c-4b4f-b66d-9486277b75ae"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.count","label":"8 - LOOKUP RECORDS➛count","reference_display":"count","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"24fe3327-ff05-4f1c-b73d-e2afd7995ced"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_details_name","label":"2 - Get Catalog Variables➛environment_details_name","reference":"x_685788_test2_environment_details","reference_display":"environment_details_name","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.jobstatusid","label":"22 - Look Up Record➛job_detail Record➛JobStatusId","reference":"","reference_display":"JobStatusId","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"jobstatusid"},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.startdatetime","label":"20 - GET-AUTOLAUNCH➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"647a4658-7efa-46c4-a4a1-53b2356c2eb1"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.enddatetime","label":"20 - GET-AUTOLAUNCH➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"ad80ff39-9474-4bfc-9452-bf13f651c5ef"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.autolaunchcomplete","label":"20 - GET-AUTOLAUNCH➛Automated Launch Completed Successfully","reference_display":"Automated Launch Completed Successfully","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"504604fe-7ac1-4f03-953a-b5df5543224f"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.screenrecordingfilepath","label":"20 - GET-AUTOLAUNCH➛ScreenRecordingFilePath","reference_display":"ScreenRecordingFilePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"7f2f60f9-612b-47e2-9972-abaef78322bd"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.jobdetailid","label":"13 - GET-MSIX➛jobDetailId","reference_display":"jobDetailId","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"89e2471c-0838-4263-b0f3-62a176d6d535"}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.__action_status__.message","label":"3➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"flow_variable.filserver","label":"Flow Variables➛filserver","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"bc451864-1300-4d6a-9f88-4968df9cddca"}},{"name":"flow_variable.html_path","label":"Flow Variables➛html path","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5eea49c1-058f-4a98-87f0-d72aea2b744d"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.html_screen_output","label":"20 - GET-AUTOLAUNCH➛Html Screen output","reference_display":"Html Screen output","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"72d94075-766d-440b-a061-41962c336581"}},{"name":"flow_variable.key","label":"Flow Variables➛key","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"d3155ce0-e139-48e3-9ab4-fd6a973ed533"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.appattachpath","label":"13 - GET-MSIX➛AppAttachPath","reference_display":"AppAttachPath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"e3001673-dcb5-4fd7-be20-1507fb5081ff"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.appattachvolumeguid","label":"13 - GET-MSIX➛AppAttachVolumeGuid","reference_display":"AppAttachVolumeGuid","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"c1ad436b-3c40-47b1-9705-f09c847e66a1"}},{"name":"Service Catalog_1.request_item.number","label":"Trigger - Service Catalog➛Requested Item Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sc_req_item","column_name":"number"}]</label_cache>
         <master_snapshot>86a1d4cd974835106cf971371153af89</master_snapshot>
         <name>MSIX BUILDER</name>
         <natlang/>
@@ -22,14 +22,14 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>published</status>
+        <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:53</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2202fad897cc71106cf971371153af69</sys_id>
-        <sys_mod_count>45</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_name>MSIX BUILDER</sys_name>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sys_hub_flow_2202fad897cc71106cf971371153af69</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:42</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=2202fad897cc71106cf971371153af69"/>
@@ -70,10 +70,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>1f023ed897cc71106cf971371153af78</sys_id>
-        <sys_mod_count>44</sys_mod_count>
+        <sys_mod_count>51</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -297,7 +297,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>default_search_field=number,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference</attributes>
+        <attributes>default_search_field=number,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -356,14 +356,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>7602fad897cc71106cf971371153af86</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:40</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -380,7 +380,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -423,7 +423,7 @@
         <next_element/>
         <order>100</order>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -439,14 +439,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>b202fad897cc71106cf971371153af8a</sys_id>
-        <sys_mod_count>87</sys_mod_count>
+        <sys_mod_count>101</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -476,10 +476,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>03023ed897cc71106cf971371153af16</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>48fa8c40-bbc1-4029-94c7-3566b52a2791</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=03023ed897cc71106cf971371153af16"/>
@@ -550,10 +550,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>0702fad897cc71106cf971371153affd</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>63821b82-e1fb-477f-a8c7-c5bcfc0184b8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=0702fad897cc71106cf971371153affd"/>
@@ -586,10 +586,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>0b023ed897cc71106cf971371153af10</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>6efccdd4-e6ba-4042-ad3a-0a9280d40949</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=0b023ed897cc71106cf971371153af10"/>
@@ -635,10 +635,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-17 11:07:08</sys_created_on>
         <sys_id>272ae01697c031106cf971371153afed</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>bed41593-b858-4952-8ee8-f4f838a96428</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=272ae01697c031106cf971371153afed"/>
@@ -723,10 +723,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>4302fad897cc71106cf971371153afcc</sys_id>
-        <sys_mod_count>100</sys_mod_count>
+        <sys_mod_count>126</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>6a96f7b0-27d4-4880-a4eb-fb7c48e17f77</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4302fad897cc71106cf971371153afcc"/>
@@ -811,10 +811,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>8302fad897cc71106cf971371153afc5</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>f422be8d-6218-4132-93db-1f0361e4ec92</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8302fad897cc71106cf971371153afc5"/>
@@ -899,10 +899,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:01:36</sys_created_on>
         <sys_id>8640104d974835106cf971371153af49</sys_id>
-        <sys_mod_count>88</sys_mod_count>
+        <sys_mod_count>114</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:42</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>489ae80b-41f2-436f-9ae5-1f3cd14cb7ff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8640104d974835106cf971371153af49"/>
@@ -987,10 +987,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>8702fad897cc71106cf971371153afee</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>62f49cd3-caf6-4f96-a234-721563a1763b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8702fad897cc71106cf971371153afee"/>
@@ -1023,10 +1023,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>8b02fad897cc71106cf971371153afe1</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>756f542c-2778-471b-bf54-61b972aa7bdc</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8b02fad897cc71106cf971371153afe1"/>
@@ -1110,10 +1110,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>93023ed897cc71106cf971371153af63</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:42</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>771a7735-1ea5-49f0-bb02-1b8247aed1f0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=93023ed897cc71106cf971371153af63"/>
@@ -1153,10 +1153,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>db023ed897cc71106cf971371153af65</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 15:52:56</sys_updated_on>
-        <value>lorraine.plenderleith@accessitautomation.com</value>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
+        <value>joe.smith@accessitautomation.com</value>
         <variable display_value="To">59806bf4a70323008299b39f087901da</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=93023ed897cc71106cf971371153af63"/>
@@ -1178,11 +1178,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>5b023ed897cc71106cf971371153af65</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 15:52:56</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value> JOB {{Service Catalog_1.request_item}}has failed</value>
+        <value> JOB{{Service Catalog_1.request_item.number}} has failed</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>ah_to</field>
@@ -1236,10 +1236,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>97023ed897cc71106cf971371153af76</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:42</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>991f5e43-4ee5-4904-a628-0bf00d5ff7da</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=97023ed897cc71106cf971371153af76"/>
@@ -1324,10 +1324,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>9b023ed897cc71106cf971371153af53</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:42</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>d8c5c23e-121e-4c14-901c-93ef4ab2881e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9b023ed897cc71106cf971371153af53"/>
@@ -1339,10 +1339,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>1f023ed897cc71106cf971371153af56</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-14 08:55:33</sys_updated_on>
-        <value>Capture Packaing Job Failed</value>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
+        <value/>
         <variable display_value="Subject">5d806bf4a70323008299b39f087901ec</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1367,10 +1367,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>97023ed897cc71106cf971371153af56</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-14 08:55:33</sys_updated_on>
-        <value>&lt;p&gt;The capture Job failed so AutlUch cannot be completed - Pleae check Package inputs&lt;/p&gt;
+        <sys_updated_on>2023-07-25 13:51:37</sys_updated_on>
+        <value>&lt;p&gt;The capture Job failed so AutoLaunch cannot be completed - Please check Package inputs&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;</value>
         <variable display_value="Body">ad806bf4a70323008299b39f087901f2</variable>
@@ -1383,10 +1383,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>d3023ed897cc71106cf971371153af56</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 15:52:56</sys_updated_on>
-        <value>lorraine.plenderleith@accessitautomation.com</value>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
+        <value>joe.smith@accessitautomation.com</value>
         <variable display_value="To">59806bf4a70323008299b39f087901da</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=9b023ed897cc71106cf971371153af53"/>
@@ -1408,11 +1408,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>53023ed897cc71106cf971371153af56</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 15:52:56</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value/>
+        <value>Capture Packaing Job: {{flow_variable.request_number}} Failed</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>ah_to</field>
@@ -1466,10 +1466,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>9f023ed897cc71106cf971371153af49</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>73bd9781-afef-498c-87c0-e276a9a1e486</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9f023ed897cc71106cf971371153af49"/>
@@ -1509,10 +1509,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>db023ed897cc71106cf971371153af4c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 15:52:56</sys_updated_on>
-        <value>lorraine.plenderleith@accessitautomation.com</value>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
+        <value>joe.smith@accessitautomation.com</value>
         <variable display_value="To">59806bf4a70323008299b39f087901da</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=9f023ed897cc71106cf971371153af49"/>
@@ -1522,21 +1522,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>13023ed897cc71106cf971371153af4c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 15:52:56</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Your Packaging Request&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:dafe0b26-bf61-4acd-89fd-7822f193585d}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:dafe0b26-bf61-4acd-89fd-7822f193585d}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="Trigger - Service Catalog &amp;gt; Requested Item Record"&gt;&lt;span class="pill-start"&gt;Trigger - Service Catalog&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Requested Item Record&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_dafe0b26-bf61-4acd-89fd-7822f193585d" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; has completed successfully&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Your Packaging Request&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:2e7d3d8b-2513-45e2-944e-0c185f10e39b}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:2e7d3d8b-2513-45e2-944e-0c185f10e39b}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="Trigger - Service Catalog &amp;gt; Requested Item Record &amp;gt; Number"&gt;&lt;span class="pill-start"&gt;Trigger - Service Catalog&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Number&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_2e7d3d8b-2513-45e2-944e-0c185f10e39b" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; has completed successfully&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Capture Job ID:&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:d96e705f-b8e1-4b3b-9380-71a6bb46e339}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:d96e705f-b8e1-4b3b-9380-71a6bb46e339}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="12 - GET-MSIX &amp;gt; jobDetailId"&gt;&lt;span class="pill-start"&gt;12 - GET-MSIX&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;jobDetailId&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_d96e705f-b8e1-4b3b-9380-71a6bb46e339" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Package Name:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:a10bc01d-d9e8-4c1a-8707-8616ca96ca9e}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:a10bc01d-d9e8-4c1a-8707-8616ca96ca9e}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="12 - GET-MSIX &amp;gt; PackageName"&gt;&lt;span class="pill-start"&gt;12 - GET-MSIX&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;PackageName&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_a10bc01d-d9e8-4c1a-8707-8616ca96ca9e" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Package Output Path:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:e65f72e2-371a-47ee-aeeb-fc66287bd6fd}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:e65f72e2-371a-47ee-aeeb-fc66287bd6fd}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="12 - GET-MSIX &amp;gt; packagePath"&gt;&lt;span class="pill-start"&gt;12 - GET-MSIX&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;packagePath&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_e65f72e2-371a-47ee-aeeb-fc66287bd6fd" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Capture Job ID:&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:d96e705f-b8e1-4b3b-9380-71a6bb46e339}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:d96e705f-b8e1-4b3b-9380-71a6bb46e339}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="13 - GET-MSIX &amp;gt; jobDetailId"&gt;&lt;span class="pill-start"&gt;13 - GET-MSIX&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;jobDetailId&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_d96e705f-b8e1-4b3b-9380-71a6bb46e339" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Package Name:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:a10bc01d-d9e8-4c1a-8707-8616ca96ca9e}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:a10bc01d-d9e8-4c1a-8707-8616ca96ca9e}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="13 - GET-MSIX &amp;gt; PackageName"&gt;&lt;span class="pill-start"&gt;13 - GET-MSIX&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;PackageName&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_a10bc01d-d9e8-4c1a-8707-8616ca96ca9e" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Package Output Path:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:e65f72e2-371a-47ee-aeeb-fc66287bd6fd}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:e65f72e2-371a-47ee-aeeb-fc66287bd6fd}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="13 - GET-MSIX &amp;gt; packagePath"&gt;&lt;span class="pill-start"&gt;13 - GET-MSIX&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;packagePath&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_e65f72e2-371a-47ee-aeeb-fc66287bd6fd" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;As you Requested AutoLaunch the output was smoked tested&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;AutoLaunch Job ID:&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:656d328f-177d-41cc-863d-2f82be3c7423}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:656d328f-177d-41cc-863d-2f82be3c7423}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="Flow Variables &amp;gt; AutoLaunchJobID"&gt;&lt;span class="pill-start"&gt;Flow Variables&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;AutoLaunchJobID&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_656d328f-177d-41cc-863d-2f82be3c7423" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Autolaunch&amp;nbsp; Recording Path: &lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:51b40b84-1326-4ccc-933c-dd1156440c69}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:51b40b84-1326-4ccc-933c-dd1156440c69}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="18 - GET-AUTOLAUNCH &amp;gt; ScreenRecordingFilePath"&gt;&lt;span class="pill-start"&gt;18 - GET-AUTOLAUNCH&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;ScreenRecordingFilePath&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_51b40b84-1326-4ccc-933c-dd1156440c69" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Autolaunch&amp;nbsp; Recording Path: &lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:51b40b84-1326-4ccc-933c-dd1156440c69}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:51b40b84-1326-4ccc-933c-dd1156440c69}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="20 - GET-AUTOLAUNCH &amp;gt; ScreenRecordingFilePath"&gt;&lt;span class="pill-start"&gt;20 - GET-AUTOLAUNCH&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;ScreenRecordingFilePath&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_51b40b84-1326-4ccc-933c-dd1156440c69" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -1548,11 +1548,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>5b023ed897cc71106cf971371153af4c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-11 15:52:56</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value>{{Service Catalog_1.request_item}} has completed Successfully </value>
+        <value>{{Service Catalog_1.request_item.number}} has completed Successfully </value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>ah_to</field>
@@ -1606,10 +1606,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 13:12:13</sys_created_on>
         <sys_id>a4706cc197c835106cf971371153af01</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>106</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>985efb9f-9e19-44cd-aa6b-6d17f8aefde0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a4706cc197c835106cf971371153af01"/>
@@ -1694,10 +1694,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>c702fad897cc71106cf971371153afda</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>4bfc9530-8966-4752-8fb5-a14ce73b5ea9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c702fad897cc71106cf971371153afda"/>
@@ -1802,10 +1802,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-14 08:13:52</sys_created_on>
         <sys_id>c8c528d5970c75106cf971371153af47</sys_id>
-        <sys_mod_count>72</sys_mod_count>
+        <sys_mod_count>98</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>4dbb6fb6-1278-41d4-ad3d-fb4cc824c7a5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c8c528d5970c75106cf971371153af47"/>
@@ -1890,10 +1890,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>d7023ed897cc71106cf971371153af23</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>ed13a52f-a907-4311-980b-602888ae6dc8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d7023ed897cc71106cf971371153af23"/>
@@ -2017,10 +2017,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>d7023ed897cc71106cf971371153af36</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>b5475d84-023b-4fca-92c5-cf1266ab6a49</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d7023ed897cc71106cf971371153af36"/>
@@ -2090,10 +2090,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>db023ed897cc71106cf971371153af41</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>7694f5a6-5f33-4d18-986a-d1f837fb9d32</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=db023ed897cc71106cf971371153af41"/>
@@ -2178,10 +2178,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>df023ed897cc71106cf971371153af3b</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>8c2dff78-06aa-4c5e-b44f-39bdebee0ee6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=df023ed897cc71106cf971371153af3b"/>
@@ -2230,13 +2230,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:55</sys_created_on>
         <sys_id>d3023ed897cc71106cf971371153af3d</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:04</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>x_685788_test2_auto_launch_start_time={{b5475d84-023b-4fca-92c5-cf1266ab6a49.startdatetime}}^x_685788_test2_auto_launch_end_time={{b5475d84-023b-4fca-92c5-cf1266ab6a49.enddatetime}}^x_685788_test2_auto_launch_job_id={{flow_variable.autolaunchjobid}}^x_685788_test2_auto_launch_successful={{b5475d84-023b-4fca-92c5-cf1266ab6a49.autolaunchcomplete}}^x_685788_test2_screen_recording_path={{b5475d84-023b-4fca-92c5-cf1266ab6a49.screenrecordingfilepath}}^x_685788_test2_u_html_1=&lt;video controls="controls" width="100%" height="100%"&gt;
-&lt;source src="/sys_attachment.do?sys_id={{flow_variable.sysid}}&amp;view=true" type="video/mp4" /&gt;
-&lt;/video&gt;</value>
+        <value>x_685788_test2_auto_launch_start_time={{b5475d84-023b-4fca-92c5-cf1266ab6a49.startdatetime}}^x_685788_test2_auto_launch_end_time={{b5475d84-023b-4fca-92c5-cf1266ab6a49.enddatetime}}^x_685788_test2_auto_launch_job_id={{flow_variable.autolaunchjobid}}^x_685788_test2_auto_launch_successful={{b5475d84-023b-4fca-92c5-cf1266ab6a49.autolaunchcomplete}}^x_685788_test2_screen_recording_path={{b5475d84-023b-4fca-92c5-cf1266ab6a49.screenrecordingfilepath}}^x_685788_test2_u_html_1=&lt;p data-tinymcerootblock=""&gt;&lt;video controls="controls" width="100%" height="100%"&gt;
+&lt;source src="/sys_attachment.do?sys_id={{flow_variable.sysid}}&amp;amp;view=true" type="video/mp4" /&gt;
+&lt;/video&gt;&lt;/p&gt;</value>
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=df023ed897cc71106cf971371153af3b^sys_idNOT IN8003915d97cc75106cf971371153af3e"/>
     <sys_hub_input_scripts action="INSERT_OR_UPDATE">
@@ -2267,10 +2267,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>df023ed897cc71106cf971371153af5a</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:42</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>78f93d0c-946d-462a-be6e-07aa078705b8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=df023ed897cc71106cf971371153af5a"/>
@@ -2282,10 +2282,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:56</sys_created_on>
         <sys_id>1b023ed897cc71106cf971371153af5c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-14 08:13:53</sys_updated_on>
-        <value>assignment_group={"display":"Capture Remediation  group","value":"5594ec55970c75106cf971371153af28","sys_id":"5594ec55970c75106cf971371153af28"}^comments=The Capture Job Failed</value>
+        <sys_updated_on>2023-07-25 13:45:11</sys_updated_on>
+        <value>assignment_group={"display":"Capture Remediation  group","value":"5594ec55970c75106cf971371153af28","sys_id":"5594ec55970c75106cf971371153af28"}^comments=The Capture Job Failed^state=4</value>
         <variable display_value="Fields">02d01916c31332002841b63b12d3aeee</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -2365,10 +2365,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>0302fad897cc71106cf971371153afa4</sys_id>
-        <sys_mod_count>49</sys_mod_count>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>e7e08738-b389-4888-b00d-c926230d089c</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2422,10 +2422,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>0302fad897cc71106cf971371153afa7</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>55</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>8b5ee66c-0be5-4ddd-932a-202bbc954a2b</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2499,10 +2499,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>0302fad897cc71106cf971371153afad</sys_id>
-        <sys_mod_count>49</sys_mod_count>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>5948d413-170a-4813-863f-cb95298ba6a1</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2571,10 +2571,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>0b02fad897cc71106cf971371153afbd</sys_id>
-        <sys_mod_count>50</sys_mod_count>
+        <sys_mod_count>57</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:42</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>e071a704-8dc4-4848-ad4f-c1d090cdb23a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2588,9 +2588,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>0b02fad897cc71106cf971371153afc0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 11:07:09</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:27</sys_updated_on>
         <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
         <variable display_value="Error Status">0f72a5a25b132010b61ea2013781c749</variable>
     </sys_variable_value>
@@ -2634,10 +2634,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>0f02fad897cc71106cf971371153af9c</sys_id>
-        <sys_mod_count>47</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>b66a84b7-7c06-44c6-95a2-2d983d751726</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2681,10 +2681,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>4702fad897cc71106cf971371153afa0</sys_id>
-        <sys_mod_count>47</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2754,10 +2754,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-17 15:58:11</sys_created_on>
         <sys_id>47cc6956970831106cf971371153afb1</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
         <ui_id>c485b716-1c66-44dd-abbe-04d611edb866</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2800,10 +2800,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-14 08:13:52</sys_created_on>
         <sys_id>84c528d5970c75106cf971371153af3f</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>40</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>a7102253-90a1-40dd-9b83-702c660965d1</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2872,10 +2872,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>b602fad897cc71106cf971371153af91</sys_id>
-        <sys_mod_count>45</sys_mod_count>
+        <sys_mod_count>52</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2906,10 +2906,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>f602fad897cc71106cf971371153af98</sys_id>
-        <sys_mod_count>47</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>2bf38f3f-204e-4b8f-8225-c4d20c669d7f</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2968,7 +2968,7 @@
         <flow display_value="MSIX BUILDER">2202fad897cc71106cf971371153af69</flow>
         <flow_variable/>
         <flow_variable/>
-        <flow_variables_assigned>jobdetailid</flow_variables_assigned>
+        <flow_variables_assigned>jobdetailid,request_number</flow_variables_assigned>
         <inputs/>
         <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
         <order>7</order>
@@ -2979,10 +2979,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-11 15:52:54</sys_created_on>
         <sys_id>fa02fad897cc71106cf971371153af94</sys_id>
-        <sys_mod_count>46</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:41</sys_updated_on>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
         <ui_id>d883dd89-2743-4486-b58b-a6fc94e69a44</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3001,9 +3001,21 @@
         <table>var__m_sys_hub_flow_variable_2202fad897cc71106cf971371153af69</table>
         <value>{{4bfc9530-8966-4752-8fb5-a14ce73b5ea9.jobdetailid}}</value>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>request_number</field>
+        <id>fa02fad897cc71106cf971371153af94</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 12:08:06</sys_created_on>
+        <sys_id>1a0ec14a97c575106cf971371153af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 12:08:06</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_2202fad897cc71106cf971371153af69</table>
+        <value>{{Service Catalog_1.request_item.number}}</value>
+    </sys_element_mapping>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=fa02fad897cc71106cf971371153af94"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=fa02fad897cc71106cf971371153af94"/>
-    <sys_hub_pill_compound action="delete_multiple" query="attached_to=2202fad897cc71106cf971371153af69^sys_idNOT IN0003915d97cc75106cf971371153af5a,0803915d97cc75106cf971371153af59,16a2a1dd9700b5106cf971371153afdd,23023ed897cc71106cf971371153afb0,23023ed897cc71106cf971371153afb1,27023ed897cc71106cf971371153afb0,27023ed897cc71106cf971371153afb1,2b023ed897cc71106cf971371153afb0,2f023ed897cc71106cf971371153afb0,8403915d97cc75106cf971371153af5a,8a7683a497c0f1106cf971371153af11,a3023ed897cc71106cf971371153afb0,a3023ed897cc71106cf971371153afb1,a7023ed897cc71106cf971371153afb0,ab023ed897cc71106cf971371153afaf,ab023ed897cc71106cf971371153afb0,af023ed897cc71106cf971371153afb0,c003915d97cc75106cf971371153af5a,daa2a1dd9700b5106cf971371153afdd"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=2202fad897cc71106cf971371153af69^sys_idNOT IN0003915d97cc75106cf971371153af5a,0803915d97cc75106cf971371153af59,16a2a1dd9700b5106cf971371153afdd,23023ed897cc71106cf971371153afb0,23023ed897cc71106cf971371153afb1,27023ed897cc71106cf971371153afb0,27023ed897cc71106cf971371153afb1,2b023ed897cc71106cf971371153afb0,2f023ed897cc71106cf971371153afb0,8403915d97cc75106cf971371153af5a,8a7683a497c0f1106cf971371153af11,a3023ed897cc71106cf971371153afb0,a3023ed897cc71106cf971371153afb1,a7023ed897cc71106cf971371153afb0,ab023ed897cc71106cf971371153afaf,ab023ed897cc71106cf971371153afb0,ae0ec14a97c575106cf971371153afca,af023ed897cc71106cf971371153afb0,c003915d97cc75106cf971371153af5a,daa2a1dd9700b5106cf971371153afdd"/>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>2202fad897cc71106cf971371153af69</attached_to>
         <extra_info/>
@@ -3275,6 +3287,23 @@
         <transform_compositions>[]</transform_compositions>
         <transform_definition_id/>
         <ui_id>efc3aca1-deb7-47c6-9ae7-49b68cc86c2b</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>2202fad897cc71106cf971371153af69</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{Service Catalog_1.request_item.number}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 12:08:07</sys_created_on>
+        <sys_id>ae0ec14a97c575106cf971371153afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 12:08:07</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>2e7d3d8b-2513-45e2-944e-0c185f10e39b</ui_id>
     </sys_hub_pill_compound>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>2202fad897cc71106cf971371153af69</attached_to>
@@ -3964,17 +3993,17 @@
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"0cb11ccd974835106cf971371153af75","name":"plan","plan_signature":null}}</plan>
         <plan_id>2202fad897cc71106cf971371153af69</plan_id>
-        <snapshot>86a1d4cd974835106cf971371153af89</snapshot>
+        <snapshot>f618858297c575106cf971371153affd</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:44</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0cb11ccd974835106cf971371153af75</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 16:32:52</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:49</sys_updated_on>
         <trigger display_value="">44b11ccd974835106cf971371153af75</trigger>
     </sys_flow_trigger_plan>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=2202fad897cc71106cf971371153af69"/>
@@ -4006,7 +4035,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>86a1d4cd974835106cf971371153af89</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -4014,7 +4043,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:33</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=86a1d4cd974835106cf971371153af89"/>
@@ -4029,10 +4058,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>baa158cd974835106cf971371153afb3</sys_id>
-        <sys_mod_count>29</sys_mod_count>
+        <sys_mod_count>35</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:40</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:49</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -4315,14 +4344,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:36</sys_created_on>
         <sys_id>8aa1d4cd974835106cf971371153af8b</sys_id>
-        <sys_mod_count>37</sys_mod_count>
+        <sys_mod_count>45</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:31</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -4398,14 +4427,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:36</sys_created_on>
         <sys_id>caa1d4cd974835106cf971371153afbc</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:31</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -4435,10 +4464,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>22a118cd974835106cf971371153afa9</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>63821b82-e1fb-477f-a8c7-c5bcfc0184b8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=22a118cd974835106cf971371153afa9"/>
@@ -4471,10 +4500,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-17 13:08:59</sys_created_on>
         <sys_id>2c16c5d2974431106cf971371153af83</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>bed41593-b858-4952-8ee8-f4f838a96428</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2c16c5d2974431106cf971371153af83"/>
@@ -4559,10 +4588,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>36a158cd974835106cf971371153afb1</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:33</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>991f5e43-4ee5-4904-a628-0bf00d5ff7da</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=36a158cd974835106cf971371153afb1"/>
@@ -4647,10 +4676,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>5aa118cd974835106cf971371153af42</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>6a96f7b0-27d4-4880-a4eb-fb7c48e17f77</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=5aa118cd974835106cf971371153af42"/>
@@ -4735,10 +4764,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>66a118cd974835106cf971371153af62</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>4bfc9530-8966-4752-8fb5-a14ce73b5ea9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=66a118cd974835106cf971371153af62"/>
@@ -4843,10 +4872,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>66a118cd974835106cf971371153afd2</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>48fa8c40-bbc1-4029-94c7-3566b52a2791</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=66a118cd974835106cf971371153afd2"/>
@@ -4917,10 +4946,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>6ea118cd974835106cf971371153afcc</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>6efccdd4-e6ba-4042-ad3a-0a9280d40949</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6ea118cd974835106cf971371153afcc"/>
@@ -4966,10 +4995,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>76a158cd974835106cf971371153af55</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>d8c5c23e-121e-4c14-901c-93ef4ab2881e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=76a158cd974835106cf971371153af55"/>
@@ -4995,10 +5024,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>72a158cd974835106cf971371153af58</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-14 11:32:13</sys_updated_on>
-        <value>&lt;p&gt;The capture Job failed so AutlUch cannot be completed - Pleae check Package inputs&lt;/p&gt;
+        <sys_updated_on>2023-08-04 09:16:37</sys_updated_on>
+        <value>&lt;p&gt;The capture Job failed so AutoLaunch cannot be completed - Please check Package inputs&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;</value>
         <variable display_value="Body">ad806bf4a70323008299b39f087901f2</variable>
@@ -5108,10 +5137,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>7aa158cd974835106cf971371153af34</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>7694f5a6-5f33-4d18-986a-d1f837fb9d32</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7aa158cd974835106cf971371153af34"/>
@@ -5196,10 +5225,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>7aa158cd974835106cf971371153af62</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:33</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>78f93d0c-946d-462a-be6e-07aa078705b8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7aa158cd974835106cf971371153af62"/>
@@ -5225,10 +5254,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>b2a158cd974835106cf971371153af64</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-14 08:14:20</sys_updated_on>
-        <value>assignment_group={"display":"Capture Remediation  group","value":"5594ec55970c75106cf971371153af28","sys_id":"5594ec55970c75106cf971371153af28"}^comments=The Capture Job Failed</value>
+        <sys_updated_on>2023-07-25 13:50:36</sys_updated_on>
+        <value>assignment_group={"display":"Capture Remediation  group","value":"5594ec55970c75106cf971371153af28","sys_id":"5594ec55970c75106cf971371153af28"}^comments=The Capture Job Failed^state=4</value>
         <variable display_value="Fields">02d01916c31332002841b63b12d3aeee</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=7aa158cd974835106cf971371153af62"/>
@@ -5284,10 +5313,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>7ea158cd974835106cf971371153af2e</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>8c2dff78-06aa-4c5e-b44f-39bdebee0ee6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7ea158cd974835106cf971371153af2e"/>
@@ -5373,10 +5402,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>b2a158cd974835106cf971371153af3f</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>73bd9781-afef-498c-87c0-e276a9a1e486</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b2a158cd974835106cf971371153af3f"/>
@@ -5513,10 +5542,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-14 08:14:20</sys_created_on>
         <sys_id>b2d52019970c75106cf971371153af66</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>40</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>4dbb6fb6-1278-41d4-ad3d-fb4cc824c7a5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b2d52019970c75106cf971371153af66"/>
@@ -5601,10 +5630,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>baa158cd974835106cf971371153af5c</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:33</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>489ae80b-41f2-436f-9ae5-1f3cd14cb7ff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=baa158cd974835106cf971371153af5c"/>
@@ -5689,10 +5718,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>bea158cd974835106cf971371153af1c</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>b5475d84-023b-4fca-92c5-cf1266ab6a49</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bea158cd974835106cf971371153af1c"/>
@@ -5750,10 +5779,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 13:17:47</sys_created_on>
         <sys_id>d6b1684597c835106cf971371153af15</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>44</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>985efb9f-9e19-44cd-aa6b-6d17f8aefde0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d6b1684597c835106cf971371153af15"/>
@@ -5838,10 +5867,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>dea118cd974835106cf971371153af2d</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>f422be8d-6218-4132-93db-1f0361e4ec92</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=dea118cd974835106cf971371153af2d"/>
@@ -5926,10 +5955,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>e2a118cd974835106cf971371153af8b</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>62f49cd3-caf6-4f96-a234-721563a1763b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e2a118cd974835106cf971371153af8b"/>
@@ -5962,10 +5991,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>e2a118cd974835106cf971371153affa</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>ed13a52f-a907-4311-980b-602888ae6dc8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e2a118cd974835106cf971371153affa"/>
@@ -6089,10 +6118,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:38</sys_created_on>
         <sys_id>eea118cd974835106cf971371153af75</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>756f542c-2778-471b-bf54-61b972aa7bdc</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=eea118cd974835106cf971371153af75"/>
@@ -6176,10 +6205,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:39</sys_created_on>
         <sys_id>fea158cd974835106cf971371153afa8</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:33</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>771a7735-1ea5-49f0-bb02-1b8247aed1f0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fea158cd974835106cf971371153afa8"/>
@@ -6312,10 +6341,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>16a118cd974835106cf971371153af1f</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>5948d413-170a-4813-863f-cb95298ba6a1</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6385,10 +6414,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>1aa118cd974835106cf971371153af08</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>b66a84b7-7c06-44c6-95a2-2d983d751726</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6432,10 +6461,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>1aa1d4cd974835106cf971371153afff</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>d883dd89-2743-4486-b58b-a6fc94e69a44</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6478,10 +6507,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-17 16:32:43</sys_created_on>
         <sys_id>3cb47d12974831106cf971371153af35</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>c485b716-1c66-44dd-abbe-04d611edb866</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6523,10 +6552,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>5aa1d4cd974835106cf971371153afef</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6557,10 +6586,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>9aa118cd974835106cf971371153af03</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>2bf38f3f-204e-4b8f-8225-c4d20c669d7f</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6630,10 +6659,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>9aa118cd974835106cf971371153af10</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>e7e08738-b389-4888-b00d-c926230d089c</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6687,10 +6716,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>9ea118cd974835106cf971371153af13</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>8b5ee66c-0be5-4ddd-932a-202bbc954a2b</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6764,10 +6793,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-14 08:14:21</sys_created_on>
         <sys_id>c7d52019970c75106cf971371153af87</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <ui_id>a7102253-90a1-40dd-9b83-702c660965d1</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6837,10 +6866,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>daa118cd974835106cf971371153af0c</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:32</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6909,10 +6938,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>dea118cd974835106cf971371153af23</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 17:25:33</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:39</sys_updated_on>
         <ui_id>e071a704-8dc4-4848-ad4f-c1d090cdb23a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -6926,9 +6955,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-13 12:07:37</sys_created_on>
         <sys_id>1aa118cd974835106cf971371153af27</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-17 13:09:01</sys_updated_on>
+        <sys_updated_on>2023-08-04 09:16:38</sys_updated_on>
         <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
         <variable display_value="Error Status">0f72a5a25b132010b61ea2013781c749</variable>
     </sys_variable_value>
