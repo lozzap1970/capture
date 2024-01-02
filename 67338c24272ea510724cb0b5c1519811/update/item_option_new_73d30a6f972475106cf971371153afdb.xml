@@ -75,16 +75,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-31 16:56:25</sys_created_on>
+        <sys_created_on>2023-09-25 16:09:31</sys_created_on>
         <sys_id>73d30a6f972475106cf971371153afdb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Intune notes</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_73d30a6f972475106cf971371153afdb</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-08-31 16:57:01</sys_updated_on>
+        <sys_updated_on>2023-09-25 16:10:05</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
