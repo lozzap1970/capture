@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="75944670979871106cf971371153afab" label="RDP " max_length="40" name="x_685788_test2_bulk_import" type="collection">
-        <element label="appattach" max_length="40" name="appattach" type="boolean"/>
-        <element label="attachment" max_length="40" name="attachment" type="file_attachment"/>
-        <element label="name" max_length="40" name="name" type="string"/>
-    </element>
-</database>
