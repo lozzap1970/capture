@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="CAPTURE ATTACHMENTS">26c7606d97d871106cf971371153afd0</application>
+        <filter/>
+        <name>CAPTURE ATTACHMENTSs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_685788_test2.capture_attachments_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 13:16:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2ac7606d97d871106cf971371153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAPTURE ATTACHMENTSs</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_ui_module_2ac7606d97d871106cf971371153afd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 13:16:57</sys_updated_on>
+        <table>x_685788_test2_capture_attachments</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_ui_module_2ac7606d97d871106cf971371153afd3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CAPTURE ATTACHMENTS">26c7606d97d871106cf971371153afd0</application><filter/><name>CAPTURE ATTACHMENTSs</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_685788_test2.capture_attachments_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 13:16:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2ac7606d97d871106cf971371153afd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CAPTURE ATTACHMENTSs</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_module_2ac7606d97d871106cf971371153afd3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 13:16:57</sys_updated_on><table>x_685788_test2_capture_attachments</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>108302413</payload_hash>
+        <record_name>CAPTURE ATTACHMENTSs</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 13:16:57</sys_created_on>
+        <sys_id>aac7606d97d871106cf971371153afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189977ed0850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 13:16:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>eec7606d4ad87110807506a84e75bcd5</update_guid>
+        <update_guid_history>eec7606d4ad87110807506a84e75bcd5:108302413</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 13:57:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>186838a6392e4b0782f7b1d564eefc41</sys_id>
+        <sys_metadata>2ac7606d97d871106cf971371153afd3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAPTURE ATTACHMENTSs</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_2ac7606d97d871106cf971371153afd3</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_2ac7606d97d871106cf971371153afd3">aac7606d97d871106cf971371153afd6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 13:57:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public - Document Approval">b3338c24d32ea510aaf724eb86c3f564</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">73338c24572ea5108878e2f0d87cba62</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:45</sys_created_on>
+        <sys_id>bb338c24ba2ea510d7f9a549c5705462</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_bb338c24ba2ea510d7f9a549c5705462</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:45</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

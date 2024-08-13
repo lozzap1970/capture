@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Intune Inputs" section_id="614b56ab97a475106cf971371153afed" sys_domain="global" table="sc_req_item" version="3" view="intune">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_intune_availability</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:24:18</sys_created_on>
+            <sys_id>5719f43897c131106cf971371153af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_intune_developer</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:24:18</sys_created_on>
+            <sys_id>d719f43897c131106cf971371153af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_intune_owner</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:24:18</sys_created_on>
+            <sys_id>5b19f43897c131106cf971371153af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_intune_notes</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:24:18</sys_created_on>
+            <sys_id>db19f43897c131106cf971371153af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_intune_category</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:24:18</sys_created_on>
+            <sys_id>5f19f43897c131106cf971371153af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_intune_information_url</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:24:18</sys_created_on>
+            <sys_id>df19f43897c131106cf971371153af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_intune_privacy_url</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-31 13:24:18</sys_created_on>
+            <sys_id>5319f43897c131106cf971371153af39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Intune Inputs" display_value="Intune Inputs" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">614b56ab97a475106cf971371153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-31 13:24:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Intune Inputs</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-15 13:05:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>614b56ab97a475106cf971371153afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_614b56ab97a475106cf971371153afed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-15 13:05:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="InTune" name="intune">503b56ab97a475106cf971371153afa1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

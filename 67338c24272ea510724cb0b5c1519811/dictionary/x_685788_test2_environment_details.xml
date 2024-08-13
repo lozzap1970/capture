@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d046814a9757e5106cf971371153af2d" label="environment_details" max_length="40" name="x_685788_test2_environment_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="DeQueueStrategyTypeId" max_length="40" name="dequeuestrategytypeid" type="string"/>
+        <element label="EnviromentDetailID" max_length="40" name="enviromentdetailid" type="integer"/>
+        <element label="EnvironmentTypeID" max_length="32" name="environmenttypeid" reference="x_685788_test2_environmenttype" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Settings" max_length="1053" name="settings" type="string"/>
+        <index name="index">
+            <element name="environmenttypeid"/>
+        </index>
+    </element>
+</database>

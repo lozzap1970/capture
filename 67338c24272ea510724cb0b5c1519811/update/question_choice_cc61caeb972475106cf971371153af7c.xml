@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="InTune Availability">93f0ce6b972475106cf971371153af3e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 16:09:31</sys_created_on>
+        <sys_id>cc61caeb972475106cf971371153af7c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Uninstall</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>question_choice_cc61caeb972475106cf971371153af7c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-25 16:10:00</sys_updated_on>
+        <text>Uninstall</text>
+        <value>2</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=cc61caeb972475106cf971371153af7c"/>
+</record_update>

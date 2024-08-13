@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_685788_test2_job_type" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_685788_test2_job_type" element="NULL" name="x_685788_test2_job_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f3494ba97a261106cf971371153af5d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-05-05 09:14:04</sys_created_on>
+            <sys_id>933494ba97a261106cf971371153af5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-05-05 09:14:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_685788_test2_job_type</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-05-05 09:14:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f3494ba97a261106cf971371153af5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_685788_test2_job_type</sys_name>
+            <sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_list_x_685788_test2_job_type_null</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-05-05 09:14:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_ui_list_x_685788_test2_job_type_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_685788_test2_job_type" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_685788_test2_job_type" element="NULL" name="x_685788_test2_job_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f3494ba97a261106cf971371153af5d</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-05-05 09:14:04</sys_created_on><sys_id>933494ba97a261106cf971371153af5f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-05-05 09:14:04</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_685788_test2_job_type</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-05-05 09:14:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1f3494ba97a261106cf971371153af5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_685788_test2_job_type</sys_name><sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_list_x_685788_test2_job_type_null</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-05-05 09:14:04</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>2124508379</payload_hash>
+        <record_name>Job Type</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-05 09:14:04</sys_created_on>
+        <sys_id>d73494ba97a261106cf971371153af61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187eb309cd30000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-05 09:14:04</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>973494ba70a2611030093860e2bd0861</update_guid>
+        <update_guid_history>973494ba70a2611030093860e2bd0861:2124508379</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 12:00:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>01115fbf5971437a8990460463d9a0e4</sys_id>
+        <sys_metadata>1f3494ba97a261106cf971371153af5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_job_type</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="">e77e54a6972621106cf971371153af22</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_685788_test2_job_type_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_685788_test2_job_type_null">d73494ba97a261106cf971371153af61</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 12:00:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

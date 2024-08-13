@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDc81400489eb431101d13661d813190ad</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>67338c24272ea510724cb0b5c1519811</scope_name>
+        <serialized_content>{"FlowDesigner:FDc81400489eb431101d13661d813190ad":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDc81400489eb431101d13661d813190ad.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Screenrecordingpath\",\"mandatory\":\"false\",\"child_name\":\"screenrecordingpath_child0\",\"uiUniqueId\":\"ddb514f5-a5b4-4a2c-90d7-9f30c1a889f3\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDc81400489eb431101d13661d813190ad\",\"child_label\":\"Screenrecordingpath_child0\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"10\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"63d3698a-844f-416e-8510-e241146dda6a\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 15:21:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c14004897b431106cf971371153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDc81400489eb431101d13661d813190ad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_complex_object_8c14004897b431106cf971371153afad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 15:21:23</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

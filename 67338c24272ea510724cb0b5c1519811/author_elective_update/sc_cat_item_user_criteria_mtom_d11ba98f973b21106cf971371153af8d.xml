@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="MSIX Builder">71186b2f975f6d106cf971371153af0a</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-07 13:30:27</sys_created_on>
+        <sys_id>d11ba98f973b21106cf971371153af8d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MSIX Builder.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d11ba98f973b21106cf971371153af8d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-07 13:32:59</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_d11ba98f973b21106cf971371153af8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="MSIX Builder">71186b2f975f6d106cf971371153af0a</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-07 13:30:27</sys_created_on><sys_id>d11ba98f973b21106cf971371153af8d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>MSIX Builder.Any User</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_d11ba98f973b21106cf971371153af8d</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-07 13:32:59</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1497745006</payload_hash>
+        <record_name>MSIX Builder.Any User</record_name>
+        <reverted_from/>
+        <source>12ab65cf973b21106cf971371153aff1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-07 13:32:59</sys_created_on>
+        <sys_id>2eaba5cf973b21106cf971371153af29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189308e4d470000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-07 13:32:59</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>62aba5cfe43b2110eb985ee7d6927529</update_guid>
+        <update_guid_history>62aba5cfe43b2110eb985ee7d6927529:1497745006,a6aba5cfa63b211069e4f43c59bf2726:-1637143152</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MSIX Builder.Any User">c7b2940c970031106cf971371153af61</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-10 09:38:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>0729c22ac4924fb6815c9fb91c84c244</sys_id>
+        <sys_metadata>d11ba98f973b21106cf971371153af8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MSIX Builder.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d11ba98f973b21106cf971371153af8d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_d11ba98f973b21106cf971371153af8d">2eaba5cf973b21106cf971371153af29</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-10 09:38:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

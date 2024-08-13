@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#E3F4ED</color>
+        <display>background-color:#E3F4ED</display>
+        <name>#E3F4ED</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:47</sys_created_on>
+        <sys_id>c8438c24e32ea51021c75e05f3aea5f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>#E3F4ED</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_report_color_c8438c24e32ea51021c75e05f3aea5f6</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:47</sys_updated_on>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA Capture Dashboard - New Tab 3">e2673cd8975131106cf971371153afec</legacy_page>
+        <name>PA Capture Dashboard - New Tab 3</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 10:15:36</sys_created_on>
+        <sys_id>e6673cd8975131106cf971371153afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Capture Dashboard - New Tab 3</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_grid_canvas_e6673cd8975131106cf971371153afed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 10:15:36</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_grid_canvas_e6673cd8975131106cf971371153afed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA Capture Dashboard - New Tab 3">e2673cd8975131106cf971371153afec</legacy_page><name>PA Capture Dashboard - New Tab 3</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-11 10:15:36</sys_created_on><sys_id>e6673cd8975131106cf971371153afed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA Capture Dashboard - New Tab 3</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_grid_canvas_e6673cd8975131106cf971371153afed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-11 10:15:36</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>-80969419</payload_hash>
+        <record_name>PA Capture Dashboard - New Tab 3</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 10:15:36</sys_created_on>
+        <sys_id>e267b410979131106cf971371153af0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a83bd4fe90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 10:15:36</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>e667b410a2913110ce7b9c210b73dc0d</update_guid>
+        <update_guid_history>e667b410a2913110ce7b9c210b73dc0d:-80969419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 10:15:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>23ba7c43b0bb4290b3a3929496760900</sys_id>
+        <sys_metadata>e6673cd8975131106cf971371153afed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Capture Dashboard - New Tab 3</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_e6673cd8975131106cf971371153afed</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_e6673cd8975131106cf971371153afed">e267b410979131106cf971371153af0e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 10:15:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

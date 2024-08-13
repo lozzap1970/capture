@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Discovery Inputs" section_id="cc59bc65975c71106cf971371153af64" sys_domain="global" table="sc_req_item" version="3" view="catalog">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_package_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:35:46</sys_created_on>
+            <sys_id>70d97ce5975c71106cf971371153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:35:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_msi_package_version</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:35:46</sys_created_on>
+            <sys_id>f4d97ce5975c71106cf971371153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:35:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_file_unc</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:35:46</sys_created_on>
+            <sys_id>78d97ce5975c71106cf971371153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:35:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_notes</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:35:46</sys_created_on>
+            <sys_id>f8d97ce5975c71106cf971371153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:35:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_report_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:35:46</sys_created_on>
+            <sys_id>7cd97ce5975c71106cf971371153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:35:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_timout_in_hours</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:35:46</sys_created_on>
+            <sys_id>fcd97ce5975c71106cf971371153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:35:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Discovery Inputs</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:33:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc59bc65975c71106cf971371153af64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_cc59bc65975c71106cf971371153af64</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:33:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Catalog" name="catalog">7966c6b60a0a0b8c0073a7efb40effc2</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_ui_section_cc59bc65975c71106cf971371153af64</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Discovery Inputs" section_id="cc59bc65975c71106cf971371153af64" sys_domain="global" table="sc_req_item" version="3" view="catalog"><sys_ui_element action="INSERT_OR_UPDATE"><element>x_685788_test2_package_name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:35:46</sys_created_on><sys_id>70d97ce5975c71106cf971371153af73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:35:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_685788_test2_msi_package_version</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:35:46</sys_created_on><sys_id>f4d97ce5975c71106cf971371153af73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:35:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_685788_test2_file_unc</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:35:46</sys_created_on><sys_id>78d97ce5975c71106cf971371153af73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:35:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_685788_test2_notes</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:35:46</sys_created_on><sys_id>f8d97ce5975c71106cf971371153af73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:35:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_685788_test2_report_name</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:35:46</sys_created_on><sys_id>7cd97ce5975c71106cf971371153af73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:35:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_685788_test2_timout_in_hours</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:35:46</sys_created_on><sys_id>fcd97ce5975c71106cf971371153af73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discovery Inputs" display_value="Discovery Inputs" name="sc_req_item" sys_domain="global" view="7966c6b60a0a0b8c0073a7efb40effc2">cc59bc65975c71106cf971371153af64</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:35:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Discovery Inputs</caption><header>false</header><name>sc_req_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:33:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cc59bc65975c71106cf971371153af64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sc_req_item</sys_name><sys_overrides/><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_section_cc59bc65975c71106cf971371153af64</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:33:31</sys_updated_on><sys_user/><title>false</title><view display_value="Catalog" name="catalog">7966c6b60a0a0b8c0073a7efb40effc2</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>32699245</payload_hash>
+        <record_name>Requested Item</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 14:35:46</sys_created_on>
+        <sys_id>f0d97ce5975c71106cf971371153af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18997c6f6ff0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 14:35:46</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>78d97ce5cd5c7110c2f4483b6c187075</update_guid>
+        <update_guid_history>78d97ce5cd5c7110c2f4483b6c187075:32699245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-28 10:14:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>013273a2e2d7451a80150084beb86ee4</sys_id>
+        <sys_metadata>cc59bc65975c71106cf971371153af64</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Discovery Inputs</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="Sc Req Item">505d0bf9e8a1211076da10591ad287b4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_cc59bc65975c71106cf971371153af64</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_cc59bc65975c71106cf971371153af64">f0d97ce5975c71106cf971371153af76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-28 10:14:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

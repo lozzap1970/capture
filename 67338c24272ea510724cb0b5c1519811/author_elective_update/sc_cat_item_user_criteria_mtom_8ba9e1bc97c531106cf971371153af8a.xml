@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Application UAT - Intune">15108a6f97e075106cf971371153afbc</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-31 16:56:27</sys_created_on>
+        <sys_id>8ba9e1bc97c531106cf971371153af8a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Application UAT - Intune.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_8ba9e1bc97c531106cf971371153af8a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-31 16:56:57</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_8ba9e1bc97c531106cf971371153af8a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Application UAT - Intune">15108a6f97e075106cf971371153afbc</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-31 16:56:27</sys_created_on><sys_id>8ba9e1bc97c531106cf971371153af8a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Application UAT - Intune.Any User</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_8ba9e1bc97c531106cf971371153af8a</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-08-31 16:56:57</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>862423619</payload_hash>
+        <record_name>Application UAT - Intune.Any User</record_name>
+        <reverted_from/>
+        <source>c6c9e5bc97c531106cf971371153afcf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-31 16:56:57</sys_created_on>
+        <sys_id>16c929bc97c531106cf971371153af80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a4c86cd920000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-31 16:56:57</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>1ac929bcf3c53110f52486e4e2b1467f</update_guid>
+        <update_guid_history>1ac929bcf3c53110f52486e4e2b1467f:862423619,9ac929bc5ac53110b0122ef67fa1357c:1582351891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Application UAT - Intune.Any User">12ce46b497e9b5106cf971371153af83</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-25 16:10:00</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>3441fd8cba87431f8c6470294d886921</sys_id>
+        <sys_metadata>8ba9e1bc97c531106cf971371153af8a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application UAT - Intune.Any User</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_8ba9e1bc97c531106cf971371153af8a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_8ba9e1bc97c531106cf971371153af8a">16c929bc97c531106cf971371153af80</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-25 16:10:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

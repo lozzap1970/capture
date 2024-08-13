@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Capture Dashboard - New Tab 2">4e33feda978db5106cf971371153aff2</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2023-09-11 03:16:27">b297b490975131106cf971371153af14</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 10:16:27</sys_created_on>
+        <sys_id>be977810979131106cf971371153afcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4e33feda978db5106cf971371153aff2</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_be977810979131106cf971371153afcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 10:16:27</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>
