@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>client_credentials</grant_type>
+        <jwt_provider/>
+        <name>Selene Oauth Entity Profile</name>
+        <oauth_entity display_value="Selene Oauth">acdac4ba83cb62106b1d6060ceaad3f4</oauth_entity>
+        <saml2_assertion_producer/>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 13:48:56</sys_created_on>
+        <sys_id>e4dac4ba83cb62106b1d6060ceaad3f8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Selene Oauth Entity Profile</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>oauth_entity_profile_e4dac4ba83cb62106b1d6060ceaad3f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 14:11:54</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>
