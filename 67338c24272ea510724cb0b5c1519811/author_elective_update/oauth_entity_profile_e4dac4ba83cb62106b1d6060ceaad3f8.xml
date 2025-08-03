@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="DELETE">
+        <default>true</default>
+        <grant_type>client_credentials</grant_type>
+        <jwt_provider/>
+        <name>Selene Oauth Entity Profile</name>
+        <oauth_entity display_value="Selene Oauth Provider">acdac4ba83cb62106b1d6060ceaad3f4</oauth_entity>
+        <saml2_assertion_producer/>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 13:48:56</sys_created_on>
+        <sys_id>e4dac4ba83cb62106b1d6060ceaad3f8</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Selene Oauth Entity Profile</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>oauth_entity_profile_e4dac4ba83cb62106b1d6060ceaad3f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 14:51:02</sys_updated_on>
+    </oauth_entity_profile>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>oauth_entity_profile_e4dac4ba83cb62106b1d6060ceaad3f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile"><oauth_entity_profile action="INSERT_OR_UPDATE"><default>true</default><grant_type>client_credentials</grant_type><jwt_provider/><name>Selene Oauth Entity Profile</name><oauth_entity display_value="Selene Oauth Provider">acdac4ba83cb62106b1d6060ceaad3f4</oauth_entity><saml2_assertion_producer/><sys_class_name>oauth_entity_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-02 13:48:56</sys_created_on><sys_id>e4dac4ba83cb62106b1d6060ceaad3f8</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Selene Oauth Entity Profile</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>oauth_entity_profile_e4dac4ba83cb62106b1d6060ceaad3f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-03 14:51:02</sys_updated_on></oauth_entity_profile></record_update>]]></payload>
+        <payload_hash>-1521363315</payload_hash>
+        <record_name>Selene Oauth Entity Profile</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 14:51:02</sys_created_on>
+        <sys_id>cca2a50383c7e2106b1d6060ceaad369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198706a2b410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 14:51:02</sys_updated_on>
+        <type>OAuth Entity Profile</type>
+        <update_guid>44a2a503a7c7e210878002f0f1571669</update_guid>
+        <update_guid_history>44a2a503a7c7e210878002f0f1571669:-1521363315,22ce91cbb387e2108f3a7a652d43c15d:-1851831555,bceef0431607e21022b3e02dc9789eff:1361276680,48fcbc8f4bc3e210ef089962afb2567b:-1851831555,8d10d872260f62107e1bf75da80fb4b9:1361276680,a47f4c324b0f62107d77756b2b01108a:-55839178,b6ad887ee8cb6210cb017c3580cceab6:-1764468117,ecdac4baf4cb621059c1d8e0cbeba0f9:413869101</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Selene Oauth Entity Profile">0328650b83c7e2106b1d6060ceaad353</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 15:15:17</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_profile">oauth_entity_profile</sys_db_object>
+        <sys_id>32745695415d490c8c7fa8a8e3758a84</sys_id>
+        <sys_metadata>e4dac4ba83cb62106b1d6060ceaad3f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Selene Oauth Entity Profile</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>oauth_entity_profile_e4dac4ba83cb62106b1d6060ceaad3f8</sys_update_name>
+        <sys_update_version display_value="oauth_entity_profile_e4dac4ba83cb62106b1d6060ceaad3f8">cca2a50383c7e2106b1d6060ceaad369</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 15:15:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

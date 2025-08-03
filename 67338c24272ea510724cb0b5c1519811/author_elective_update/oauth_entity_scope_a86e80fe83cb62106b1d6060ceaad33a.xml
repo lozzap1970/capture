@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="DELETE">
+        <in_default_profile>false</in_default_profile>
+        <name>Capture API</name>
+        <oauth_entity display_value="Selene Oauth">acdac4ba83cb62106b1d6060ceaad3f4</oauth_entity>
+        <oauth_entity_scope>api://4c815a26-5ace-46b1-8b37-28008d771e61/.default</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 14:05:20</sys_created_on>
+        <sys_id>a86e80fe83cb62106b1d6060ceaad33a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture API</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>oauth_entity_scope_a86e80fe83cb62106b1d6060ceaad33a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 14:05:20</sys_updated_on>
+    </oauth_entity_scope>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>oauth_entity_scope_a86e80fe83cb62106b1d6060ceaad33a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope"><oauth_entity_scope action="INSERT_OR_UPDATE"><in_default_profile>false</in_default_profile><name>Capture API</name><oauth_entity display_value="Selene Oauth">acdac4ba83cb62106b1d6060ceaad3f4</oauth_entity><oauth_entity_scope>api://4c815a26-5ace-46b1-8b37-28008d771e61/.default</oauth_entity_scope><sys_class_name>oauth_entity_scope</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-02 14:05:20</sys_created_on><sys_id>a86e80fe83cb62106b1d6060ceaad33a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Capture API</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>oauth_entity_scope_a86e80fe83cb62106b1d6060ceaad33a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-02 14:05:20</sys_updated_on></oauth_entity_scope></record_update>]]></payload>
+        <payload_hash>1290534097</payload_hash>
+        <record_name>Capture API</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 14:05:20</sys_created_on>
+        <sys_id>389e48be83cb62106b1d6060ceaad3e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1986b19f5820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 14:05:20</sys_updated_on>
+        <type>OAuth Entity Scope</type>
+        <update_guid>3c9e48be10cb6210ec142f158a6aa8df</update_guid>
+        <update_guid_history>3c9e48be10cb6210ec142f158a6aa8df:1290534097</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Capture API">8328650b83c7e2106b1d6060ceaad33b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 15:15:16</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_scope">oauth_entity_scope</sys_db_object>
+        <sys_id>0b2fec32e36b45b081dfd6beb4876924</sys_id>
+        <sys_metadata>a86e80fe83cb62106b1d6060ceaad33a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture API</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>oauth_entity_scope_a86e80fe83cb62106b1d6060ceaad33a</sys_update_name>
+        <sys_update_version display_value="oauth_entity_scope_a86e80fe83cb62106b1d6060ceaad33a">389e48be83cb62106b1d6060ceaad3e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 15:15:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

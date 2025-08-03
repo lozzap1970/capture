@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
     <oauth_entity_scope action="INSERT_OR_UPDATE">
         <in_default_profile>true</in_default_profile>
-        <name>Capture API</name>
-        <oauth_entity display_value="Selene Oauth">acdac4ba83cb62106b1d6060ceaad3f4</oauth_entity>
+        <name>Scope</name>
+        <oauth_entity display_value="Selene Oauth Entity">7489618b83c7e2106b1d6060ceaad379</oauth_entity>
         <oauth_entity_scope>api://4c815a26-5ace-46b1-8b37-28008d771e61/.default</oauth_entity_scope>
         <sys_class_name>oauth_entity_scope</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-08-02 14:05:20</sys_created_on>
-        <sys_id>a86e80fe83cb62106b1d6060ceaad33a</sys_id>
+        <sys_created_on>2025-08-03 15:40:27</sys_created_on>
+        <sys_id>6edd6103830be2106b1d6060ceaad303</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Capture API</sys_name>
+        <sys_name>Scope</sys_name>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name>oauth_entity_scope_a86e80fe83cb62106b1d6060ceaad33a</sys_update_name>
+        <sys_update_name>oauth_entity_scope_6edd6103830be2106b1d6060ceaad303</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-02 14:05:20</sys_updated_on>
+        <sys_updated_on>2025-08-03 15:40:27</sys_updated_on>
     </oauth_entity_scope>
 </record_update>

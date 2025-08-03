@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/auth</auth_url>
+        <certificate_url/>
+        <client_id>24bfa565-cfd4-4a81-83f3-eb6481ab0eb6</client_id>
+        <client_secret>﷞﷟﷒00200c3a838b62106b1d6060ceaad30a﷬﷔1﷬﷭tjwssWJY4MrZ5rYtWR5htA==M8P8DD4zz9TIash-Dhp4hs_V-xqD2Hs3UBsfQS4_nqSYVRoqV6VYeoOxrLLfWC47vSsO9M2uIV-g2XeI﷮﷯</client_secret>
+        <client_type/>
+        <client_uuid>ecdac4ba83cb62106b1d6060ceaad3f4</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>client_credentials</default_grant_type>
+        <extend_refresh_token_expiry>false</extend_refresh_token_expiry>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <jwt_provider/>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>Selene Oauth Provider</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev339861.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url>https://&lt;provider-domain-name&gt;.com/oauth2/token</refresh_token_url>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/revoke</revoke_token_url>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 13:48:56</sys_created_on>
+        <sys_id>acdac4ba83cb62106b1d6060ceaad3f4</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Selene Oauth Provider</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>oauth_entity_acdac4ba83cb62106b1d6060ceaad3f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 14:51:21</sys_updated_on>
+        <token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>oauth_entity_acdac4ba83cb62106b1d6060ceaad3f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>60</auth_code_lifespan><auth_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/auth</auth_url><certificate_url/><client_id>24bfa565-cfd4-4a81-83f3-eb6481ab0eb6</client_id><client_secret>﷞﷟﷒00200c3a838b62106b1d6060ceaad30a﷬﷔1﷬﷭tjwssWJY4MrZ5rYtWR5htA==M8P8DD4zz9TIash-Dhp4hs_V-xqD2Hs3UBsfQS4_nqSYVRoqV6VYeoOxrLLfWC47vSsO9M2uIV-g2XeI﷮﷯</client_secret><client_type/><client_uuid>ecdac4ba83cb62106b1d6060ceaad3f4</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>client_credentials</default_grant_type><extend_refresh_token_expiry>false</extend_refresh_token_expiry><id_token_lifespan>86400</id_token_lifespan><jwt_provider/><login_url/><logo_url/><message_signature_lifespan>60</message_signature_lifespan><mobile_client>false</mobile_client><name>Selene Oauth Provider</name><oauth_api_script/><protocol_name/><public_client>false</public_client><redirect_url>https://dev339861.service-now.com/oauth_redirect.do</redirect_url><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url>https://&lt;provider-domain-name&gt;.com/oauth2/token</refresh_token_url><restricted_binding>false</restricted_binding><revoke_token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/revoke</revoke_token_url><salt/><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-02 13:48:56</sys_created_on><sys_id>acdac4ba83cb62106b1d6060ceaad3f4</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Selene Oauth Provider</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>oauth_entity_acdac4ba83cb62106b1d6060ceaad3f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-03 14:51:21</sys_updated_on><token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/token</token_url><type>oauth_provider</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>1460857550</payload_hash>
+        <record_name>Selene Oauth Provider</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 14:51:21</sys_created_on>
+        <sys_id>acb2650383c7e2106b1d6060ceaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198706a72a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 14:51:21</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>24b2650347c7e210f9443f504624ade5</update_guid>
+        <update_guid_history>24b2650347c7e210f9443f504624ade5:1460857550,13e1e18f6787e21019ef9e697c617397:590038457,69cf4c32c80f6210935adf82c7afbecf:-680305598,f6edc8be04cb62109ac48c1597c3e3bb:825371629,5bdc007e88cb62109a6341e7a73b7a00:-534629437,dfdccc3e6ecb62107c6d1089edb169fe:1056304418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Selene Oauth Provider">4328a10b83c7e2106b1d6060ceaad305</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 15:15:17</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>3060d862bbc14a5c9186016331358344</sys_id>
+        <sys_metadata>acdac4ba83cb62106b1d6060ceaad3f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Selene Oauth Provider</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>oauth_entity_acdac4ba83cb62106b1d6060ceaad3f4</sys_update_name>
+        <sys_update_version display_value="oauth_entity_acdac4ba83cb62106b1d6060ceaad3f4">acb2650383c7e2106b1d6060ceaad3e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 15:15:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

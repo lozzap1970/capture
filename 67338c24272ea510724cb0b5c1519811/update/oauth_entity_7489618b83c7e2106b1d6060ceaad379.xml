@@ -4,12 +4,12 @@
         <access_token_lifespan>1800</access_token_lifespan>
         <active>true</active>
         <auth_code_lifespan>60</auth_code_lifespan>
-        <auth_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/auth</auth_url>
+        <auth_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/v2.0/authorize</auth_url>
         <certificate_url/>
         <client_id>24bfa565-cfd4-4a81-83f3-eb6481ab0eb6</client_id>
-        <client_secret>﷞﷟﷒00200c3a838b62106b1d6060ceaad30a﷬﷔1﷬﷭tjwssWJY4MrZ5rYtWR5htA==M8P8DD4zz9TIash-Dhp4hs_V-xqD2Hs3UBsfQS4_nqSYVRoqV6VYeoOxrLLfWC47vSsO9M2uIV-g2XeI﷮﷯</client_secret>
+        <client_secret>﷞﷟﷒00200c3a838b62106b1d6060ceaad30a﷬﷔1﷬﷭u2qhKnX2cJV804DfWniw5g==x3X-ZSpWq0a1yjxxHpdMDMvTX6-Ws_RUYrnH1Vn4gacFgGnQHSvRT7pJZfUv2YyRdzerG8D-xsvTNzyG﷮﷯</client_secret>
         <client_type/>
-        <client_uuid>ecdac4ba83cb62106b1d6060ceaad3f4</client_uuid>
+        <client_uuid>b489618b83c7e2106b1d6060ceaad379</client_uuid>
         <code_challenge_method>S256</code_challenge_method>
         <comments/>
         <default_grant_type>client_credentials</default_grant_type>
@@ -20,31 +20,31 @@
         <logo_url/>
         <message_signature_lifespan>60</message_signature_lifespan>
         <mobile_client>false</mobile_client>
-        <name>Selene Oauth</name>
-        <oauth_api_script/>
+        <name>Selene Oauth Entity</name>
+        <oauth_api_script display_value="OAuthUtil">3e3a3a11c333210016194ffe5bba8f70</oauth_api_script>
         <protocol_name/>
         <public_client>false</public_client>
         <redirect_url>https://dev339861.service-now.com/oauth_redirect.do</redirect_url>
         <refresh_token_lifespan>8640000</refresh_token_lifespan>
         <refresh_token_url>https://&lt;provider-domain-name&gt;.com/oauth2/token</refresh_token_url>
         <restricted_binding>false</restricted_binding>
-        <revoke_token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/revoke</revoke_token_url>
+        <revoke_token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/v2.0/revoke</revoke_token_url>
         <salt/>
         <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
         <skip_authorize>false</skip_authorize>
         <sys_class_name>oauth_entity</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-08-02 13:48:56</sys_created_on>
-        <sys_id>acdac4ba83cb62106b1d6060ceaad3f4</sys_id>
+        <sys_created_on>2025-08-03 15:21:07</sys_created_on>
+        <sys_id>7489618b83c7e2106b1d6060ceaad379</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name>Selene Oauth</sys_name>
+        <sys_name>Selene Oauth Entity</sys_name>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name>oauth_entity_acdac4ba83cb62106b1d6060ceaad3f4</sys_update_name>
+        <sys_update_name>oauth_entity_7489618b83c7e2106b1d6060ceaad379</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-02 14:10:34</sys_updated_on>
-        <token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/token</token_url>
+        <sys_updated_on>2025-08-03 15:51:30</sys_updated_on>
+        <token_url>https://login.microsoftonline.com/242be6e9-cdad-429b-acf6-18749a33a20c/oauth2/v2.0/token</token_url>
         <type>oauth_provider</type>
         <use_mutual_auth>false</use_mutual_auth>
         <user/>
