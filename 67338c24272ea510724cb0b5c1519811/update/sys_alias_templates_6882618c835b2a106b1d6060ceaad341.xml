@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias_templates">
+    <sys_alias_templates action="INSERT_OR_UPDATE">
+        <default_data_template>{&#13;
+  "credential": {&#13;
+    "oauth_entity": {&#13;
+      "oauth_entity_profile": [&#13;
+        {&#13;
+          "grant_type": "authorization_code",&#13;
+          "name": "&lt;provider-name&gt; Profile",&#13;
+          "default": true,&#13;
+          "oauth_entity_profile_scope": [&#13;
+            "users:read.email"&#13;
+          ]&#13;
+        }&#13;
+      ],&#13;
+      "code_challenge_method": "S256",&#13;
+      "type": "consumer",&#13;
+      "oauth_entity_scope": [&#13;
+        {&#13;
+          "oauth_entity_scope": "users:read.email",&#13;
+          "name": "email"&#13;
+        }&#13;
+      ],&#13;
+      "client_id": "",&#13;
+      "use_mutual_auth": false,&#13;
+      "revoke_token_url": "https://&lt;provider-domain-name&gt;.com/oauth2/revoke",&#13;
+      "default_grant_type": "authorization_code",&#13;
+      "public_client": false,&#13;
+      "oauth_api_script": "3e3a3a11c333210016194ffe5bba8f70",&#13;
+      "name": "&lt;provider-name&gt; Spoke OAuth",&#13;
+      "client_secret": "",&#13;
+      "auth_url": "https://&lt;provider-domain-name&gt;.com/oauth2/auth",&#13;
+      "token_url": "https://&lt;provider-domain-name&gt;.com/oauth2/token",&#13;
+      "redirect_url": ""&#13;
+    },&#13;
+    "name": "&lt;provider-name&gt; Spoke Credential",&#13;
+    "table": "oauth_2_0_credentials"&#13;
+  },&#13;
+  "connection": {&#13;
+    "use_mid": false,&#13;
+    "connection_url": "",&#13;
+    "name": "",&#13;
+    "table": "http_connection"&#13;
+  }&#13;
+}</default_data_template>
+        <dynamic_data_schema>{&#13;
+  "connection_fields": [{&#13;
+	"name": "connection.name",&#13;
+	"label": "Connection Name",&#13;
+	"type": "text",&#13;
+	"defaultValue": "&lt;provider-name&gt; Spoke Connection",&#13;
+	"hint": "Display name for the Connection",&#13;
+        "mandatory":true&#13;
+    },&#13;
+    {&#13;
+      "name": "connection.connection_url",&#13;
+      "label": "Connection URL",&#13;
+      "type": "text",&#13;
+      "defaultValue": "https://&lt;provider-domain-name&gt;.com",&#13;
+      "hint": "Connection URL for provider",&#13;
+        "mandatory":true&#13;
+    }&#13;
+  ],&#13;
+  "credential_fields": [&#13;
+   {&#13;
+      "name": "credential.oauth_entity.name",&#13;
+      "label": "OAuth Entity Name",&#13;
+      "type": "text",&#13;
+      "hint": "Display Name for the OAuth Entity",&#13;
+        "mandatory":true&#13;
+    },&#13;
+    {&#13;
+      "name": "credential.oauth_entity.client_id",&#13;
+      "label": "OAuth Client ID",&#13;
+      "type": "text",&#13;
+      "hint": "Client ID for provider",&#13;
+        "mandatory":true&#13;
+    },&#13;
+    {&#13;
+      "name": "credential.oauth_entity.client_secret",&#13;
+      "label": "OAuth Client Secret",&#13;
+      "type": "password",&#13;
+      "hint": "Client Secret for provider",&#13;
+        "mandatory":true&#13;
+    },&#13;
+    {&#13;
+      "name": "credential.oauth_entity.redirect_url",&#13;
+      "label": "OAuth Redirect URL",&#13;
+      "type": "text",&#13;
+      "defaultValue": "https://&lt;instance-name&gt;.service-now.com/oauth_redirect.do",&#13;
+      "hint": "Callback URL for provider",&#13;
+        "mandatory":true&#13;
+    }&#13;
+  ]&#13;
+}</dynamic_data_schema>
+        <name>FILESTREAMING</name>
+        <on_edit_script><![CDATA[(function execute(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData) {
+   // aliasId: sys_id of the alias record
+   // connectionSysId: sys_id of the connection record created by using the default and dynamic data
+   // jsonDefaultData (String): The default JSON template data from template table
+   // e.g. var jsonDefaultParsed = JSON.parse(jsonDefaultData);
+   //      gs.info("default connection url = " + jsonDefaultParsed["connection"]["connection_url"]);
+   // jsonDynamicData (String): User input based on the key/values defined in "Dynamic Data"
+   // e.g. var jsonDynamicParsed = JSON.parse(jsonDynamicData);
+   //      gs.info("dynamic connection url = " + jsonDynamicParsed["connection.connection_url"]);
+})(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData);
+]]></on_edit_script>
+        <post_process_script><![CDATA[(function execute(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData) {
+   // aliasId: sys_id of the alias record
+   // connectionSysId: sys_id of the connection record created by using the default and dynamic data
+   // jsonDefaultData (String): The default JSON template data from template table
+   // e.g. var jsonDefaultParsed = JSON.parse(jsonDefaultData);
+   //      gs.info("default connection url = " + jsonDefaultParsed["connection"]["connection_url"]);
+   // jsonDynamicData (String): User input based on the key/values defined in "Dynamic Data"
+   // e.g. var jsonDynamicParsed = JSON.parse(jsonDynamicData);
+   //      gs.info("dynamic connection url = " + jsonDynamicParsed["connection.connection_url"]);
+})(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData);
+]]></post_process_script>
+        <pre_edit_script><![CDATA[(function execute(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData) {
+   // aliasId: sys_id of the alias record.
+   // connectionSysId: sys_id of the connection record created by using the default and dynamic data.
+   // jsonDefaultData (String): The default JSON template data from template table.
+   // e.g. var jsonDefaultParsed = JSON.parse(jsonDefaultData);
+   //      gs.info("default connection url = " + jsonDefaultParsed["connection"]["connection_url"]);
+   // jsonDynamicData (String): Current values of Connection and Credential fields (except Password fields) based on the key-value pairs defined in "Dynamic Data".
+   // e.g. var jsonDynamicParsed = JSON.parse(jsonDynamicData);
+   //      gs.info("dynamic connection url = " + jsonDynamicParsed["connection.connection_url"]);
+
+   //returns array of objects. Each object has name-value pairs for populating additional fields values in connections dashboard in the edit view.
+   //In this example script, additionalField1, additionalField2 are additional fields.
+   //Here we define calcAdditionalField1(), calcAdditionalField2() functions in the script
+   //to calculate current values for additionalField1, additionalField2.
+
+   //return [{
+   //         name: "additionalField1"
+   //         value: calcAdditionalField1(),
+   //    },
+   //    {
+   //         name: "additionalField2"
+   //         value: calcAdditionalField2(),
+   //    }
+   //];
+
+   return [];
+})(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData);
+]]></pre_edit_script>
+        <sys_class_name>sys_alias_templates</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-06 17:24:46</sys_created_on>
+        <sys_id>6882618c835b2a106b1d6060ceaad341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FILESTREAMING</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_alias_templates_6882618c835b2a106b1d6060ceaad341</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-06 17:24:46</sys_updated_on>
+    </sys_alias_templates>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>6882618c835b2a106b1d6060ceaad341</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-06 17:24:46</sys_created_on>
+        <sys_id>19922148835b2a106b1d6060ceaad3df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-06 17:24:46</sys_updated_on>
+        <table>sys_alias_templates</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
