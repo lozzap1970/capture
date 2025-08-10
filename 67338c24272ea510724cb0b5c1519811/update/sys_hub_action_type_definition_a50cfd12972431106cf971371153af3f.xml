@@ -14,7 +14,7 @@
         <copied_from_name>GET-DISCOVERY</copied_from_name>
         <description/>
         <flow_priority/>
-        <ih_action>false</ih_action>
+        <ih_action>true</ih_action>
         <internal_name>getuat</internal_name>
         <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛JobdetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.request_number}}","label":"action➛request_number","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[80243d59-a455-4f4a-bc2e-7bbbc115983f].response_body}}","label":"step➛REST step➛Response Body","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"hidden_for":"DATASTREAM"}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.jobOutput}}","label":"step➛JSON Parser step➛first pass➛jobOutput","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.DocumentCreatedSuccessfully}}","label":"step➛JSON Parser step➛Second Pass➛DocumentCreatedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.DocumentPath}}","label":"step➛JSON Parser step➛Second Pass➛DocumentPath","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.MsiCreatedSuccessfully}}","label":"step➛JSON Parser step➛Second Pass➛MsiCreatedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.MsiPath}}","label":"step➛JSON Parser step➛Second Pass➛MsiPath","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.startDateTime}}","label":"step➛JSON Parser step➛first pass➛startDateTime","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.endDateTime}}","label":"step➛JSON Parser step➛first pass➛endDateTime","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.jobIsSuccessful}}","label":"step➛JSON Parser step➛first pass➛jobIsSuccessful","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.PackageTestingCompletedSuccessfully}}","label":"step➛JSON Parser step➛root➛PackageTestingCompletedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.ScreenRecordingFilePaths}}","label":"step➛JSON Parser step➛root➛ScreenRecordingFilePaths","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[d30fd9a9-0ce0-4c5e-ba41-718c4de23463].record}}","label":"step➛Look Up Record step➛Requested Item Record","type":"step","ref":"sc_req_item","reference_display":"","base_type":"document_id","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root}}","label":"step➛JSON Parser step➛root","type":"step","ref":"","reference_display":"","base_type":"object","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Object","co_type_name":"FD0e09523d40387510b048d4713e9ed429","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","uiUniqueId":"ba082a39-6859-4d1c-8a66-a0c19b3b089d"}},{"name":"{{step[80243d59-a455-4f4a-bc2e-7bbbc115983f].sn_auth_token}}","label":"step➛REST step➛Credential Value","type":"step","ref":"","reference_display":"","base_type":"password2","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Password (2 Way Encrypted)","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"password2","isLocal":"true","uiUniqueId":"1122efac-817c-4629-ab2f-1d1ba6dd901d"}},{"name":"{{step[454bfc20-32c9-4e86-89c2-4af27a80b0d6].sn_auth_token}}","label":"step➛REST step➛Credential Value","type":"step","ref":"","reference_display":"","base_type":"password2","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Password (2 Way Encrypted)","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"password2","isLocal":"true","uiUniqueId":"aa4b8c83-8116-4912-a71e-3c1a63d06f7d"}}]</label_cache>
         <master_snapshot>d70d7592972431106cf971371153af95</master_snapshot>
@@ -24,14 +24,14 @@
         <outputs/>
         <outputs/>
         <pre_compiled>false</pre_compiled>
-        <state>draft</state>
+        <state>published</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 13:36:08</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a50cfd12972431106cf971371153af3f</sys_id>
-        <sys_mod_count>43</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_name>GET-UAT</sys_name>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -39,7 +39,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_a50cfd12972431106cf971371153af3f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-07 11:49:35</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:39</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -349,7 +349,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ce09523d973875106cf971371153af29</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -357,7 +357,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-07 11:49:34</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:34</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -1804,7 +1804,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>750cfd12972431106cf971371153af7d</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -1812,7 +1812,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-07 11:49:34</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:34</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -2244,14 +2244,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 13:36:10</sys_created_on>
         <sys_id>460cfd12972431106cf971371153afa2</sys_id>
-        <sys_mod_count>89</sys_mod_count>
+        <sys_mod_count>91</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-07 11:49:35</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2365,7 +2365,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ce0cfd12972431106cf971371153af96</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -2373,7 +2373,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-07 11:49:35</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:34</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_action_output action="INSERT_OR_UPDATE">
@@ -3602,17 +3602,17 @@
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="GET-UAT">a50cfd12972431106cf971371153af3f</action_id>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"c91d3992972431106cf971371153af0e","name":"plan","plan_signature":null}}</plan>
-        <snapshot>a0ef54c083172a106b1d6060ceaad358</snapshot>
+        <snapshot>cb72ac45839be2106b1d6060ceaad33d</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 13:40:44</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c91d3992972431106cf971371153af0e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:23</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:40</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -3629,7 +3629,7 @@
         <description/>
         <flow_priority/>
         <internal_name>getuat</internal_name>
-        <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛JobdetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.request_number}}","label":"action➛request_number","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[80243d59-a455-4f4a-bc2e-7bbbc115983f].response_body}}","label":"step➛REST step➛Response Body","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"hidden_for":"DATASTREAM"}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.jobOutput}}","label":"step➛JSON Parser step➛first pass➛jobOutput","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.DocumentCreatedSuccessfully}}","label":"step➛JSON Parser step➛Second Pass➛DocumentCreatedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.DocumentPath}}","label":"step➛JSON Parser step➛Second Pass➛DocumentPath","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.MsiCreatedSuccessfully}}","label":"step➛JSON Parser step➛Second Pass➛MsiCreatedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.MsiPath}}","label":"step➛JSON Parser step➛Second Pass➛MsiPath","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.startDateTime}}","label":"step➛JSON Parser step➛first pass➛startDateTime","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.endDateTime}}","label":"step➛JSON Parser step➛first pass➛endDateTime","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.jobIsSuccessful}}","label":"step➛JSON Parser step➛first pass➛jobIsSuccessful","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.PackageTestingCompletedSuccessfully}}","label":"step➛JSON Parser step➛root➛PackageTestingCompletedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.ScreenRecordingFilePaths}}","label":"step➛JSON Parser step➛root➛ScreenRecordingFilePaths","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[d30fd9a9-0ce0-4c5e-ba41-718c4de23463].record}}","label":"step➛Look Up Record step➛Requested Item Record","type":"step","ref":"sc_req_item","reference_display":"","base_type":"document_id","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛JobdetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.request_number}}","label":"action➛request_number","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[80243d59-a455-4f4a-bc2e-7bbbc115983f].response_body}}","label":"step➛REST step➛Response Body","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"hidden_for":"DATASTREAM"}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.jobOutput}}","label":"step➛JSON Parser step➛first pass➛jobOutput","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.DocumentCreatedSuccessfully}}","label":"step➛JSON Parser step➛Second Pass➛DocumentCreatedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.DocumentPath}}","label":"step➛JSON Parser step➛Second Pass➛DocumentPath","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.MsiCreatedSuccessfully}}","label":"step➛JSON Parser step➛Second Pass➛MsiCreatedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.MsiPath}}","label":"step➛JSON Parser step➛Second Pass➛MsiPath","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.startDateTime}}","label":"step➛JSON Parser step➛first pass➛startDateTime","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.endDateTime}}","label":"step➛JSON Parser step➛first pass➛endDateTime","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[d02b23b4-59bb-45cb-b9ce-06e5e218d10e].root.jobIsSuccessful}}","label":"step➛JSON Parser step➛first pass➛jobIsSuccessful","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.PackageTestingCompletedSuccessfully}}","label":"step➛JSON Parser step➛root➛PackageTestingCompletedSuccessfully","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.ScreenRecordingFilePaths}}","label":"step➛JSON Parser step➛root➛ScreenRecordingFilePaths","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","sourceUiUniqueId":"","sourceType":""}},{"name":"{{step[d30fd9a9-0ce0-4c5e-ba41-718c4de23463].record}}","label":"step➛Look Up Record step➛Requested Item Record","type":"step","ref":"sc_req_item","reference_display":"","base_type":"document_id","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root}}","label":"step➛JSON Parser step➛root","type":"step","ref":"","reference_display":"","base_type":"object","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Object","co_type_name":"FD0e09523d40387510b048d4713e9ed429","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","uiUniqueId":"ba082a39-6859-4d1c-8a66-a0c19b3b089d"}},{"name":"{{step[80243d59-a455-4f4a-bc2e-7bbbc115983f].sn_auth_token}}","label":"step➛REST step➛Credential Value","type":"step","ref":"","reference_display":"","base_type":"password2","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Password (2 Way Encrypted)","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"password2","isLocal":"true","uiUniqueId":"1122efac-817c-4629-ab2f-1d1ba6dd901d"}},{"name":"{{step[454bfc20-32c9-4e86-89c2-4af27a80b0d6].sn_auth_token}}","label":"step➛REST step➛Credential Value","type":"step","ref":"","reference_display":"","base_type":"password2","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Password (2 Way Encrypted)","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"password2","isLocal":"true","uiUniqueId":"aa4b8c83-8116-4912-a71e-3c1a63d06f7d"}}]</label_cache>
         <master>true</master>
         <name>GET-UAT</name>
         <natlang/>
@@ -3642,7 +3642,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d70d7592972431106cf971371153af95</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -3650,7 +3650,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:19</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:37</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_snapshot>
@@ -3664,10 +3664,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 13:40:40</sys_created_on>
         <sys_id>841db592972431106cf971371153af9b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
-        <value>{"version":"1.0","serializationFormat":"JSON","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}}</value>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">b70db592972431106cf971371153af26</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -4555,7 +4555,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fb0db592972431106cf971371153af0e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -4563,7 +4563,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:20</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:37</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -4690,10 +4690,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-22 13:23:05</sys_created_on>
         <sys_id>35822ef5977875106cf971371153af59</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=35822ef5977875106cf971371153af59"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -4760,10 +4760,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-22 13:23:05</sys_created_on>
         <sys_id>4a822ef5977875106cf971371153af6e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-22 13:23:05</sys_updated_on>
-        <value>{"type":"ADV_NV","value":[]}</value>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+        <value>{"type":"ADV_NV","value":[{"attributes":{"mandatory":false,"omit_if_empty":false},"name":"Accept","value":"application/json"},{"attributes":{"mandatory":false,"omit_if_empty":false},"name":"Content-Type","value":"application/json"}]}</value>
         <variable display_value="Headers">371837f1c71003007b237f48cb9763b0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -4830,10 +4830,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-22 13:23:05</sys_created_on>
         <sys_id>c2822ef5977875106cf971371153af6e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
-        <value>63b8290b83c7e2106b1d6060ceaad3cc</value>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+        <value>4f7024f383cfa6106b1d6060ceaad3dc</value>
         <variable display_value="Connection Alias">262882f03b23320057a4a2e334efc4f0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -4858,10 +4858,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-22 13:23:05</sys_created_on>
         <sys_id>ce822ef5977875106cf971371153af6e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
-        <value>https://api.selene.mycapturecloud.com</value>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+        <value>https://fs-selene.mycapturecloud.com:50000</value>
         <variable display_value="Base URL">a67a8ef03b23320057a4a2e334efc472</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_35822ef5977875106cf971371153af59^id=35822ef5977875106cf971371153af59"/>
@@ -5004,11 +5004,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-22 13:23:05</sys_created_on>
         <sys_id>8a822ef5977875106cf971371153af6b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-22 13:23:05</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
-        <value>/{{fd_transform:205b97c1-63ab-4dd7-a736-c3be9bf83de6}}</value>
+        <value>/api/streaming/{{fd_transform:3a3adafd-58b3-4727-b8a2-0d4492ff470b}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>retry_policy</field>
@@ -5048,178 +5048,12 @@
     </sys_element_mapping>
     <sys_translated_text action="delete_multiple" query="documentkey=35822ef5977875106cf971371153af59"/>
     <sys_hub_step_ext_input action="delete_multiple" query="model=35822ef5977875106cf971371153af59"/>
-    <sys_hub_step_ext_output action="delete_multiple" query="model=35822ef5977875106cf971371153af59^sys_idNOT IN5cef54c083172a106b1d6060ceaad327,9cef54c083172a106b1d6060ceaad32a,f9822ef5977875106cf971371153af60"/>
+    <sys_hub_step_ext_output action="delete_multiple" query="model=35822ef5977875106cf971371153af59^sys_idNOT INf9822ef5977875106cf971371153af60"/>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,isLocal=true,uiType=string,uiTypeLabel=String,uiUniqueId=7ea9a814-d85a-46fc-b2cf-3412ea009ce4</attributes>
-        <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
-        <choice_field/>
-        <choice_table/>
-        <column_label/>
-        <comments/>
-        <create_roles/>
-        <default_value/>
-        <defaultsort/>
-        <delete_roles/>
-        <dependent/>
-        <dependent_on_field/>
-        <display>false</display>
-        <dynamic_creation>false</dynamic_creation>
-        <dynamic_creation_script/>
-        <dynamic_default_value/>
-        <dynamic_ref_qual/>
-        <element>u_accept</element>
-        <element_reference>false</element_reference>
-        <foreign_database/>
-        <formula/>
-        <function_definition/>
-        <function_field>false</function_field>
-        <help/>
-        <hint/>
-        <internal_type display_value="String">string</internal_type>
-        <label>Accept</label>
-        <mandatory>false</mandatory>
-        <max_length>8000</max_length>
-        <model display_value="REST step">35822ef5977875106cf971371153af59</model>
-        <model_id>35822ef5977875106cf971371153af59</model_id>
-        <model_table>sys_hub_step_instance</model_table>
-        <name>var__m_sys_hub_step_ext_output_35822ef5977875106cf971371153af59</name>
-        <next_element/>
-        <order>2</order>
-        <primary>false</primary>
-        <read_only>false</read_only>
-        <read_roles/>
-        <reference/>
-        <reference_cascade_rule/>
-        <reference_floats>false</reference_floats>
-        <reference_key/>
-        <reference_qual/>
-        <reference_qual_condition/>
-        <reference_type/>
-        <sizeclass/>
-        <spell_check>false</spell_check>
-        <staged>false</staged>
-        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-08-06 12:33:21</sys_created_on>
-        <sys_id>5cef54c083172a106b1d6060ceaad327</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
-        <table_reference>false</table_reference>
-        <text_index>false</text_index>
-        <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
-        <virtual>false</virtual>
-        <virtual_type>script</virtual_type>
-        <widget/>
-        <write_roles/>
-        <xml_view>false</xml_view>
-    </sys_hub_step_ext_output>
-    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <array>false</array>
-        <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,isLocal=true,uiType=string,uiTypeLabel=String,uiUniqueId=6dc6731b-c2a8-4f5b-8885-32a50bbdfe95</attributes>
-        <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
-        <choice_field/>
-        <choice_table/>
-        <column_label/>
-        <comments/>
-        <create_roles/>
-        <default_value/>
-        <defaultsort/>
-        <delete_roles/>
-        <dependent/>
-        <dependent_on_field/>
-        <display>false</display>
-        <dynamic_creation>false</dynamic_creation>
-        <dynamic_creation_script/>
-        <dynamic_default_value/>
-        <dynamic_ref_qual/>
-        <element>u_content-type</element>
-        <element_reference>false</element_reference>
-        <foreign_database/>
-        <formula/>
-        <function_definition/>
-        <function_field>false</function_field>
-        <help/>
-        <hint/>
-        <internal_type display_value="String">string</internal_type>
-        <label>Content-Type</label>
-        <mandatory>false</mandatory>
-        <max_length>8000</max_length>
-        <model display_value="REST step">35822ef5977875106cf971371153af59</model>
-        <model_id>35822ef5977875106cf971371153af59</model_id>
-        <model_table>sys_hub_step_instance</model_table>
-        <name>var__m_sys_hub_step_ext_output_35822ef5977875106cf971371153af59</name>
-        <next_element/>
-        <order>3</order>
-        <primary>false</primary>
-        <read_only>false</read_only>
-        <read_roles/>
-        <reference/>
-        <reference_cascade_rule/>
-        <reference_floats>false</reference_floats>
-        <reference_key/>
-        <reference_qual/>
-        <reference_qual_condition/>
-        <reference_type/>
-        <sizeclass/>
-        <spell_check>false</spell_check>
-        <staged>false</staged>
-        <sys_class_name>sys_hub_step_ext_output</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-08-06 12:33:21</sys_created_on>
-        <sys_id>9cef54c083172a106b1d6060ceaad32a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
-        <table_reference>false</table_reference>
-        <text_index>false</text_index>
-        <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
-        <virtual>false</virtual>
-        <virtual_type>script</virtual_type>
-        <widget/>
-        <write_roles/>
-        <xml_view>false</xml_view>
-    </sys_hub_step_ext_output>
-    <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <array>false</array>
-        <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,isLocal=true,uiType=password2,uiTypeLabel=Password (2 Way Encrypted),uiUniqueId=dae566cb-0793-4259-b5b2-5a1bd084405e</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,isLocal=true,uiType=password2,uiTypeLabel=Password (2 Way Encrypted),uiUniqueId=aa4b8c83-8116-4912-a71e-3c1a63d06f7d</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -5278,14 +5112,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-22 13:23:05</sys_created_on>
         <sys_id>f9822ef5977875106cf971371153af60</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-22 13:23:05</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -5298,30 +5132,20 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_output>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=35822ef5977875106cf971371153af59"/>
-    <sys_documentation action="INSERT_OR_UPDATE">
-        <element>u_content-type</element>
-        <help/>
-        <hint/>
-        <label>Content-Type</label>
-        <language>en</language>
-        <name>var__m_sys_hub_step_ext_output_35822ef5977875106cf971371153af59</name>
-        <plural/>
-        <sys_class_name>sys_documentation</sys_class_name>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=35822ef5977875106cf971371153af59^sys_idNOT IN4772ac45839be2106b1d6060ceaad311"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <input_name>resource_path</input_name>
+        <instance>35822ef5977875106cf971371153af59</instance>
+        <referenced_table>sys_hub_step_instance</referenced_table>
+        <script>{"resource_path":{"scriptActive":false}}</script>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-08-06 12:33:21</sys_created_on>
-        <sys_id>90ef54c083172a106b1d6060ceaad32d</sys_id>
+        <sys_created_on>2025-08-09 15:18:38</sys_created_on>
+        <sys_id>4772ac45839be2106b1d6060ceaad311</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
-        <url/>
-        <url_target/>
-    </sys_documentation>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>sn_auth_token</element>
         <help/>
@@ -5342,29 +5166,6 @@
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-22 13:23:05</sys_updated_on>
-        <url/>
-        <url_target/>
-    </sys_documentation>
-    <sys_documentation action="INSERT_OR_UPDATE">
-        <element>u_accept</element>
-        <help/>
-        <hint/>
-        <label>Accept</label>
-        <language>en</language>
-        <name>var__m_sys_hub_step_ext_output_35822ef5977875106cf971371153af59</name>
-        <plural/>
-        <sys_class_name>sys_documentation</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-08-06 12:33:21</sys_created_on>
-        <sys_id>d0ef54c083172a106b1d6060ceaad32a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -5498,7 +5299,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6b0d7592972431106cf971371153aff4</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
@@ -5506,7 +5307,7 @@
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:20</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:37</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -6091,14 +5892,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 13:40:39</sys_created_on>
         <sys_id>7f0db592972431106cf971371153af2e</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 12:33:21</sys_updated_on>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -6722,7 +6523,7 @@
     </sys_hub_action_output>
     <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=c81db592972431106cf971371153af4c"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=c81db592972431106cf971371153af4c"/>
-    <sys_hub_pill_compound action="delete_multiple" query="attached_to=d70d7592972431106cf971371153af95^sys_idNOT IN06822ef5977875106cf971371153af8f,06822ef5977875106cf971371153af90,101db592972431106cf971371153afa0,42822ef5977875106cf971371153af8f,42822ef5977875106cf971371153af90,46822ef5977875106cf971371153af8e,4a822ef5977875106cf971371153af8f,581db592972431106cf971371153afa0,5c1db592972431106cf971371153af9f,82822ef5977875106cf971371153af8e,8e822ef5977875106cf971371153af8e,8e822ef5977875106cf971371153af8f,941db592972431106cf971371153af9f,941db592972431106cf971371153afa0,ce822ef5977875106cf971371153af8d,d01db592972431106cf971371153afa0"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=d70d7592972431106cf971371153af95^sys_idNOT IN06822ef5977875106cf971371153af8f,06822ef5977875106cf971371153af90,0772ac45839be2106b1d6060ceaad33c,101db592972431106cf971371153afa0,42822ef5977875106cf971371153af8f,42822ef5977875106cf971371153af90,4372ac45839be2106b1d6060ceaad33d,46822ef5977875106cf971371153af8e,4a822ef5977875106cf971371153af8f,4f72ac45839be2106b1d6060ceaad33c,581db592972431106cf971371153afa0,5c1db592972431106cf971371153af9f,82822ef5977875106cf971371153af8e,8e822ef5977875106cf971371153af8e,8e822ef5977875106cf971371153af8f,941db592972431106cf971371153af9f,941db592972431106cf971371153afa0,ce822ef5977875106cf971371153af8d,d01db592972431106cf971371153afa0"/>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>d70d7592972431106cf971371153af95</attached_to>
         <extra_info/>
@@ -6756,6 +6557,23 @@
         <transform_compositions>[{"id":"c98659e0c7c720105312134c95c26001","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"regex","label":"Regex","order":0,"attributes":{},"value":"\\\"","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]},{"id":null,"name":"replace_string","label":"Replace String","order":1,"attributes":{},"value":"","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]}]}]</transform_compositions>
         <transform_definition_id display_value="replace_string">6f2599a0c7c720105312134c95c260fe</transform_definition_id>
         <ui_id>5ed3e12c-9755-46a4-823f-12c8dded2e0d</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>d70d7592972431106cf971371153af95</attached_to>
+        <extra_info/>
+        <order>1</order>
+        <prescription/>
+        <source_ui_id>3a3adafd-58b3-4727-b8a2-0d4492ff470b</source_ui_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-09 15:18:38</sys_created_on>
+        <sys_id>0772ac45839be2106b1d6060ceaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+        <transform_compositions>[{"id":"c98659e0c7c720105312134c95c26001","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"regex","label":"Regex","order":0,"attributes":{"labelCacheCleanUpExecuted":"true"},"value":"\"","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]},{"id":null,"name":"replace_string","label":"Replace String","order":1,"attributes":{"labelCacheCleanUpExecuted":"true"},"value":"","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="replace_string">6f2599a0c7c720105312134c95c260fe</transform_definition_id>
+        <ui_id>a326479f-99d0-46fc-9b17-803fa54155cc</ui_id>
     </sys_hub_pill_compound>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>d70d7592972431106cf971371153af95</attached_to>
@@ -6811,6 +6629,23 @@
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>d70d7592972431106cf971371153af95</attached_to>
         <extra_info/>
+        <order>2</order>
+        <prescription/>
+        <source_ui_id>3a3adafd-58b3-4727-b8a2-0d4492ff470b</source_ui_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-09 15:18:38</sys_created_on>
+        <sys_id>4372ac45839be2106b1d6060ceaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+        <transform_compositions>[{"id":"c98659e0c7c720105312134c95c26001","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"regex","label":"Regex","order":0,"attributes":{"labelCacheCleanUpExecuted":"true"},"value":"\\\\\\\\","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]},{"id":null,"name":"replace_string","label":"Replace String","order":1,"attributes":{"labelCacheCleanUpExecuted":"true"},"value":"\\\\","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="replace_string">6f2599a0c7c720105312134c95c260fe</transform_definition_id>
+        <ui_id>86920c41-d1e5-4819-b8be-a5899c9db745</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>d70d7592972431106cf971371153af95</attached_to>
+        <extra_info/>
         <order>0</order>
         <prescription>{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.ScreenRecordingFilePaths}}</prescription>
         <source_ui_id/>
@@ -6841,6 +6676,23 @@
         <transform_compositions>[{"id":"c98659e0c7c720105312134c95c26001","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"regex","label":"Regex","order":0,"attributes":{},"value":"\\\"","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]},{"id":null,"name":"replace_string","label":"Replace String","order":1,"attributes":{},"value":"","type":"string","defaultValue":"","typeLabel":null,"mandatory":false,"choices":[]}]}]</transform_compositions>
         <transform_definition_id display_value="replace_string">6f2599a0c7c720105312134c95c260fe</transform_definition_id>
         <ui_id>9ecca327-852e-4232-adb9-ce481d392323</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>d70d7592972431106cf971371153af95</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{step[ac9c3880-aa62-4f4b-88fa-7363c832c27d].root.ScreenRecordingFilePaths}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-09 15:18:38</sys_created_on>
+        <sys_id>4f72ac45839be2106b1d6060ceaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-09 15:18:38</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>3a3adafd-58b3-4727-b8a2-0d4492ff470b</ui_id>
     </sys_hub_pill_compound>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>d70d7592972431106cf971371153af95</attached_to>
