@@ -15,10 +15,10 @@
         <flow_priority/>
         <generation_source/>
         <internal_name>msixbuilder</internal_name>
-        <label_cache>[{"name":"Service Catalog_1.request_item.number","label":"Trigger - Service Catalog➛Requested Item Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sc_req_item","column_name":"number","usedInstances":{"ed13a52f-a907-4311-980b-602888ae6dc8":["notes"]}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.__action_status__.message","label":"3 - POST-MSIXBUILDER➛Action Status➛Message","reference":"","reference_display":"Message","type":"string","base_type":"string","attributes":{}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.jobdetailid","label":"12 - GET-MSIX➛jobDetailId","reference_display":"jobDetailId","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"89e2471c-0838-4263-b0f3-62a176d6d535"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.screenrecordingfilepath","label":"18 - GET-AUTOLAUNCH➛ScreenRecordingFilePath","reference_display":"ScreenRecordingFilePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"7f2f60f9-612b-47e2-9972-abaef78322bd"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.autolaunchcomplete","label":"18 - GET-AUTOLAUNCH➛Automated Launch Completed Successfully","reference_display":"Automated Launch Completed Successfully","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"504604fe-7ac1-4f03-953a-b5df5543224f"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.enddatetime","label":"18 - GET-AUTOLAUNCH➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"ad80ff39-9474-4bfc-9452-bf13f651c5ef"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","usedInstances":{"b5475d84-023b-4fca-92c5-cf1266ab6a49":["ritm"]},"attributes":{"default_search_field":"number"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.startdatetime","label":"18 - GET-AUTOLAUNCH➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"647a4658-7efa-46c4-a4a1-53b2356c2eb1"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.jobstatusid","label":"22 - Look Up Record➛job_detail Record➛JobStatusId","reference":"","reference_display":"JobStatusId","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"jobstatusid"},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_details_name","label":"2 - Get Catalog Variables➛environment_details_name","reference":"x_685788_test2_environment_details","reference_display":"environment_details_name","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.count","label":"7 - LOOKUP RECORDS➛count","reference_display":"count","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"24fe3327-ff05-4f1c-b73d-e2afd7995ced"}},{"name":"flow_variable.jobstatusid","label":"Flow Variables➛JobstatusId","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"f44281d5-5d9c-4b4f-b66d-9486277b75ae"}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item.jobStatusId","label":"12➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item","label":"13 - For Each➛array_object","reference_display":"array_object","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.jobStatusId","label":"11➛output➛array➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output","label":"12 - GET- JOBDETAILSTABLE➛output","reference_display":"output","type":"object","base_type":"object","attributes":{"sourceId":"02a49f3e-b2d8-4259-a7dc-852e6c65f959","uiTypeLabel":"Object","co_type_name":"FDf3cfd0de8beba110a6436b474dbd1710","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceType":"step","sourceUiUniqueId":"b91b17b2-5552-4771-96a3-db8f89376728","uiType":"object","uiUniqueId":"7f4e68ff-8531-408f-9b02-24d29a046dcb"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.id","label":"11➛output➛array➛array_object➛id","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array","label":"11➛output➛array","reference":"","reference_display":"","type":"array.object","base_type":"array.object","column_name":"","attributes":{}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_detail_id","label":"2 - Get Catalog Variables➛environment_detail_id","reference":"","reference_display":"environment_detail_id","type":"choice","base_type":"choice","usedInstances":{},"attributes":{"catalogType":"18","catalogTypeLabel":"Lookup Select Box"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_name","label":"2 - Get Catalog Variables➛package_name","reference":"","reference_display":"package_name","type":"string","base_type":"string","usedInstances":{"ed13a52f-a907-4311-980b-602888ae6dc8":["notes"]},"attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.notes","label":"2 - Get Catalog Variables➛notes","reference":"","reference_display":"notes","type":"multi_small","base_type":"multi_small","attributes":{"catalogType":"2","catalogTypeLabel":"Multi Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_description","label":"2 - Get Catalog Variables➛package_description","reference":"","reference_display":"package_description","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.unc","label":"2 - Get Catalog Variables➛unc","reference":"","reference_display":"unc","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_version","label":"2 - Get Catalog Variables➛package_version","reference":"","reference_display":"package_version","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_display_name","label":"2 - Get Catalog Variables➛package_display_name","reference":"","reference_display":"package_display_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.jobdetailid","label":"3 - POST-MSIXBUILDER➛JobDetailId","reference_display":"JobDetailId","type":"string","base_type":"string","usedInstances":{"ed13a52f-a907-4311-980b-602888ae6dc8":["notes"]},"attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"1159b8fa-bdd0-494e-b15c-810d1cdc896e"}},{"name":"flow_variable.jobdetailid","label":"Flow Variables➛JobDetailId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a21b3a00-5f3e-48ad-b9fb-c3bb68993a1d"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.send_to_auto_launch","label":"2 - Get Catalog Variables➛send_to_auto_launch","reference":"","reference_display":"send_to_auto_launch","type":"boolean","base_type":"boolean","attributes":{"catalogType":"7","catalogTypeLabel":"CheckBox"}},{"name":"ed13a52f-a907-4311-980b-602888ae6dc8.response_body","label":"15 - POST-AUTOLAUNCH➛AutoLaunchJobID","reference_display":"AutoLaunchJobID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"8cfa6ec8-21a0-4fe3-8a12-5d0faaaf0a82"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagepath","label":"12 - GET-MSIX➛packagePath","reference_display":"packagePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"5627cedf-c60f-4fd5-906a-2dd9305dbb0c"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.variable","label":"7➛Recordcount","reference_display":"Recordcount","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049b4339-e629-4989-99e6-450b6fda1f65"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobstatusid","label":"10 - Get-JOBDETAIL➛JobStatusID","reference_display":"JobStatusID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"0ce06333-2bcc-4334-878a-28b4bb010edd"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobissuccessful","label":"10 - Get-JOBDETAIL➛jobIssuccessful","reference_display":"jobIssuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"a7dc0fa1-963f-46d5-a467-c857bfb7d5f8"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.startdatetime","label":"12 - GET-MSIX➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"bd4d26c4-2ade-45e1-9172-357b3af06729"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.enddatetime","label":"12 - GET-MSIX➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"57ccc0d0-1373-4c89-9e51-fb039ea38e04"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.variablejobissuccessful","label":"12 - GET-MSIX➛Jobissuccessful","reference_display":"Jobissuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"4efeaaff-62cc-42e4-b6be-b29bcd15f103"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.joboutput","label":"12 - GET-MSIX➛joboutput","reference_display":"joboutput","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"35acb5a1-f336-44e0-a82a-3ea4e368d16f"}},{"name":"flow_variable.autolaunchjobid","label":"Flow Variables➛AutoLaunchJobID","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a5d52efb-6b55-4912-9e46-cc455ff1683a"}},{"name":"bc32e8f8-93c3-4947-9d95-e0dced20794d.Count","label":"19 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagefullname","label":"12 - GET-MSIX➛PackageFullName","reference_display":"PackageFullName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"740dcaf8-0564-4e17-a6fc-3109d0a73d14"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packageversion","label":"12 - GET-MSIX➛PackageVersion","reference_display":"PackageVersion","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"d87c3414-e126-4a20-9286-76e06adadb74"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagename","label":"12 - GET-MSIX➛PackageName","reference_display":"PackageName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"9ea067af-dc41-461d-8af2-20ef45a68d9d"}},{"name":"Created_1.current","label":"Trigger - Record Created➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","attributes":{}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.id","label":"22 - Look Up Record➛job_detail Record➛Id","reference":"","reference_display":"Id","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"id"},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record","label":"22 - Look Up Record➛job_detail Record","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Records","label":"21 - Look Up Records➛job_detail Records","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Count","label":"21 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Count","label":"21 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"95827697-fd94-44d6-b046-f1c8fa8e44c5.Records","label":"21 - Look Up Records➛job_detail Records","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record","label":"22 - Look Up Record➛job_detail Record","reference":"x_685788_test2_job_detail","reference_display":"job_detail","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.id","label":"22 - Look Up Record➛job_detail Record➛Id","reference":"","reference_display":"Id","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"id"},{"name":"Created_1.current","label":"Trigger - Record Created➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","attributes":{}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagename","label":"12 - GET-MSIX➛PackageName","reference_display":"PackageName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"9ea067af-dc41-461d-8af2-20ef45a68d9d"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packageversion","label":"12 - GET-MSIX➛PackageVersion","reference_display":"PackageVersion","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"d87c3414-e126-4a20-9286-76e06adadb74"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagefullname","label":"12 - GET-MSIX➛PackageFullName","reference_display":"PackageFullName","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"740dcaf8-0564-4e17-a6fc-3109d0a73d14"}},{"name":"bc32e8f8-93c3-4947-9d95-e0dced20794d.Count","label":"19 - Look Up Records➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"flow_variable.autolaunchjobid","label":"Flow Variables➛AutoLaunchJobID","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a5d52efb-6b55-4912-9e46-cc455ff1683a"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.joboutput","label":"12 - GET-MSIX➛joboutput","reference_display":"joboutput","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"35acb5a1-f336-44e0-a82a-3ea4e368d16f"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.variablejobissuccessful","label":"12 - GET-MSIX➛Jobissuccessful","reference_display":"Jobissuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"4efeaaff-62cc-42e4-b6be-b29bcd15f103"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.enddatetime","label":"12 - GET-MSIX➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"57ccc0d0-1373-4c89-9e51-fb039ea38e04"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.startdatetime","label":"12 - GET-MSIX➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"bd4d26c4-2ade-45e1-9172-357b3af06729"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobissuccessful","label":"10 - Get-JOBDETAIL➛jobIssuccessful","reference_display":"jobIssuccessful","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"a7dc0fa1-963f-46d5-a467-c857bfb7d5f8"}},{"name":"63821b82-e1fb-477f-a8c7-c5bcfc0184b8.jobstatusid","label":"10 - Get-JOBDETAIL➛JobStatusID","reference_display":"JobStatusID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"0ce06333-2bcc-4334-878a-28b4bb010edd"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.variable","label":"7➛Recordcount","reference_display":"Recordcount","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049b4339-e629-4989-99e6-450b6fda1f65"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.packagepath","label":"12 - GET-MSIX➛packagePath","reference_display":"packagePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"5627cedf-c60f-4fd5-906a-2dd9305dbb0c"}},{"name":"ed13a52f-a907-4311-980b-602888ae6dc8.response_body","label":"15 - POST-AUTOLAUNCH➛AutoLaunchJobID","reference_display":"AutoLaunchJobID","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"8cfa6ec8-21a0-4fe3-8a12-5d0faaaf0a82"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.send_to_auto_launch","label":"2 - Get Catalog Variables➛send_to_auto_launch","reference":"","reference_display":"send_to_auto_launch","type":"boolean","base_type":"boolean","attributes":{"catalogType":"7","catalogTypeLabel":"CheckBox"}},{"name":"flow_variable.jobdetailid","label":"Flow Variables➛JobDetailId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a21b3a00-5f3e-48ad-b9fb-c3bb68993a1d"}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.jobdetailid","label":"3 - POST-MSIXBUILDER➛JobDetailId","reference_display":"JobDetailId","type":"string","base_type":"string","usedInstances":{"ed13a52f-a907-4311-980b-602888ae6dc8":["notes"]},"attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"1159b8fa-bdd0-494e-b15c-810d1cdc896e"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_display_name","label":"2 - Get Catalog Variables➛package_display_name","reference":"","reference_display":"package_display_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_version","label":"2 - Get Catalog Variables➛package_version","reference":"","reference_display":"package_version","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.unc","label":"2 - Get Catalog Variables➛unc","reference":"","reference_display":"unc","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_description","label":"2 - Get Catalog Variables➛package_description","reference":"","reference_display":"package_description","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.notes","label":"2 - Get Catalog Variables➛notes","reference":"","reference_display":"notes","type":"multi_small","base_type":"multi_small","attributes":{"catalogType":"2","catalogTypeLabel":"Multi Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.package_name","label":"2 - Get Catalog Variables➛package_name","reference":"","reference_display":"package_name","type":"string","base_type":"string","usedInstances":{"ed13a52f-a907-4311-980b-602888ae6dc8":["notes"]},"attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_detail_id","label":"2 - Get Catalog Variables➛environment_detail_id","reference":"","reference_display":"environment_detail_id","type":"choice","base_type":"choice","usedInstances":{},"attributes":{"catalogType":"18","catalogTypeLabel":"Lookup Select Box"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array","label":"11➛output➛array","reference":"","reference_display":"","type":"array.object","base_type":"array.object","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.id","label":"11➛output➛array➛array_object➛id","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output","label":"12 - GET- JOBDETAILSTABLE➛output","reference_display":"output","type":"object","base_type":"object","attributes":{"sourceId":"02a49f3e-b2d8-4259-a7dc-852e6c65f959","uiTypeLabel":"Object","co_type_name":"FDf3cfd0de8beba110a6436b474dbd1710","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceType":"step","sourceUiUniqueId":"b91b17b2-5552-4771-96a3-db8f89376728","uiType":"object","uiUniqueId":"7f4e68ff-8531-408f-9b02-24d29a046dcb"}},{"name":"86b24516-2c32-4193-aa8e-7e80eebada79.output.root_array.root_array_object.jobStatusId","label":"11➛output➛array➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item","label":"13 - For Each➛array_object","reference_display":"array_object","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"d947d01b-d48f-4f30-92ed-399ac4227622.item.jobStatusId","label":"12➛array_object➛jobStatusId","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"flow_variable.jobstatusid","label":"Flow Variables➛JobstatusId","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"f44281d5-5d9c-4b4f-b66d-9486277b75ae"}},{"name":"62f49cd3-caf6-4f96-a234-721563a1763b.count","label":"7 - LOOKUP RECORDS➛count","reference_display":"count","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"24fe3327-ff05-4f1c-b73d-e2afd7995ced"}},{"name":"6a96f7b0-27d4-4880-a4eb-fb7c48e17f77.environment_details_name","label":"2 - Get Catalog Variables➛environment_details_name","reference":"x_685788_test2_environment_details","reference_display":"environment_details_name","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"396be9ae-5a62-4299-86c1-03c2b9fe8f6f.Record.jobstatusid","label":"22 - Look Up Record➛job_detail Record➛JobStatusId","reference":"","reference_display":"JobStatusId","type":"integer","base_type":"integer","parent_table_name":"x_685788_test2_job_detail","column_name":"jobstatusid"},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.startdatetime","label":"18 - GET-AUTOLAUNCH➛StartDateTime","reference_display":"StartDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"647a4658-7efa-46c4-a4a1-53b2356c2eb1"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","usedInstances":{"b5475d84-023b-4fca-92c5-cf1266ab6a49":["ritm"]},"attributes":{"default_search_field":"number"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.enddatetime","label":"18 - GET-AUTOLAUNCH➛EndDateTime","reference_display":"EndDateTime","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"ad80ff39-9474-4bfc-9452-bf13f651c5ef"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.autolaunchcomplete","label":"18 - GET-AUTOLAUNCH➛Automated Launch Completed Successfully","reference_display":"Automated Launch Completed Successfully","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"504604fe-7ac1-4f03-953a-b5df5543224f"}},{"name":"b5475d84-023b-4fca-92c5-cf1266ab6a49.screenrecordingfilepath","label":"18 - GET-AUTOLAUNCH➛ScreenRecordingFilePath","reference_display":"ScreenRecordingFilePath","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"7f2f60f9-612b-47e2-9972-abaef78322bd"}},{"name":"6efccdd4-e6ba-4042-ad3a-0a9280d40949.jobdetailid","label":"12 - GET-MSIX➛jobDetailId","reference_display":"jobDetailId","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"89e2471c-0838-4263-b0f3-62a176d6d535"}},{"name":"4bfc9530-8966-4752-8fb5-a14ce73b5ea9.__action_status__.message","label":"3 - POST-MSIXBUILDER➛Action Status➛Message","reference":"","reference_display":"Message","type":"string","base_type":"string","attributes":{}},{"name":"Service Catalog_1.request_item.number","label":"Trigger - Service Catalog➛Requested Item Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sc_req_item","column_name":"number","usedInstances":{"ed13a52f-a907-4311-980b-602888ae6dc8":["notes"]}}]</label_cache>
         <master_snapshot>5d90a90b9757e9106cf971371153af71</master_snapshot>
         <master_snapshot_digest/>
-        <name>MSIXBUILDER</name>
+        <name>MSIXBUILDER- old</name>
         <natlang/>
         <outputs/>
         <pre_compiled>false</pre_compiled>
@@ -36,15 +36,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fe3fc5479717e9106cf971371153afc3</sys_id>
-        <sys_mod_count>16</sys_mod_count>
-        <sys_name>MSIXBUILDER</sys_name>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>MSIXBUILDER- old</sys_name>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sys_hub_flow_fe3fc5479717e9106cf971371153afc3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-06 14:08:56</sys_updated_on>
+        <sys_updated_on>2025-08-10 09:14:43</sys_updated_on>
         <type>flow</type>
         <updation_source/>
         <version>2</version>
@@ -80,7 +80,7 @@
         <ancestral_if_else_logic/>
         <component_indexes/>
         <duration>1970-01-01 01:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>Delivery</label>
         <order>3</order>
         <stage_id>4b053e9d-0cde-40be-a88b-0798d93b7a4c</stage_id>
@@ -103,7 +103,7 @@
         <ancestral_if_else_logic/>
         <component_indexes>18</component_indexes>
         <duration>1970-01-01 00:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>AutoLaunch Complete</label>
         <order>5</order>
         <stage_id>84881625-619c-4b81-b459-5d0ca86f8582</stage_id>
@@ -126,7 +126,7 @@
         <ancestral_if_else_logic/>
         <component_indexes>2</component_indexes>
         <duration>1970-01-01 00:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>Request Approved</label>
         <order>1</order>
         <stage_id>655b875b-79dd-4b1d-af93-e0883a3c069c</stage_id>
@@ -149,7 +149,7 @@
         <ancestral_if_else_logic/>
         <component_indexes>3</component_indexes>
         <duration>1970-01-01 00:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>Fulfillment</label>
         <order>2</order>
         <stage_id>3e0462f8-1efa-4839-b2ae-06000e6eedbe</stage_id>
@@ -172,7 +172,7 @@
         <ancestral_if_else_logic/>
         <component_indexes>1</component_indexes>
         <duration>1970-01-01 00:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>Waiting for Approval</label>
         <order>0</order>
         <stage_id>58887a98-4c71-4063-b10e-14289f16438d</stage_id>
@@ -195,7 +195,7 @@
         <ancestral_if_else_logic/>
         <component_indexes/>
         <duration>1970-01-01 00:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>Request Cancelled</label>
         <order>7</order>
         <stage_id>31c0aaad-fcc4-4c49-aedc-3f6ce350f3ed</stage_id>
@@ -218,7 +218,7 @@
         <ancestral_if_else_logic/>
         <component_indexes>20</component_indexes>
         <duration>1970-01-01 00:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>Completed</label>
         <order>6</order>
         <stage_id>95238f30-28d1-4078-a7c5-1cfdf89b9d96</stage_id>
@@ -241,7 +241,7 @@
         <ancestral_if_else_logic/>
         <component_indexes>13</component_indexes>
         <duration>1970-01-01 00:00:00</duration>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <label>Packaging Complete</label>
         <order>4</order>
         <stage_id>a36f8e99-44bb-4df8-a87c-1e2932a97679</stage_id>
@@ -310,7 +310,7 @@
         <label>Table Name</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</model>
+        <model display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</model>
         <model_id>fe3fc5479717e9106cf971371153afc3</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_input_fe3fc5479717e9106cf971371153afc3</name>
@@ -394,7 +394,7 @@
         <label>Request Item</label>
         <mandatory>true</mandatory>
         <max_length>32</max_length>
-        <model display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</model>
+        <model display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</model>
         <model_id>fe3fc5479717e9106cf971371153afc3</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_input_fe3fc5479717e9106cf971371153afc3</name>
@@ -444,7 +444,7 @@
     <sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE">
         <comment/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <name>Service Catalog</name>
         <published_version/>
@@ -470,7 +470,7 @@
         <comment>Send Completion emial</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>21</order>
         <parent_ui_id>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</parent_ui_id>
@@ -494,7 +494,7 @@
         <comment/>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>27</order>
         <parent_ui_id>e071a704-8dc4-4848-ad4f-c1d090cdb23a</parent_ui_id>
@@ -518,7 +518,7 @@
         <comment>add input parameters to RITM</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>4</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -542,7 +542,7 @@
         <comment/>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>10</order>
         <parent_ui_id>b66a84b7-7c06-44c6-95a2-2d983d751726</parent_ui_id>
@@ -566,7 +566,7 @@
         <comment>Post MSIX builder job via capture API</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>3</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -590,7 +590,7 @@
         <comment>Add Job Detail ID to RITM</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>6</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -614,7 +614,7 @@
         <comment>send failed emial</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>23</order>
         <parent_ui_id>5948d413-170a-4813-863f-cb95298ba6a1</parent_ui_id>
@@ -638,7 +638,7 @@
         <comment>Post to AutoLaunch if requested</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>15</order>
         <parent_ui_id>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</parent_ui_id>
@@ -662,7 +662,7 @@
         <comment/>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>26</order>
         <parent_ui_id>e071a704-8dc4-4848-ad4f-c1d090cdb23a</parent_ui_id>
@@ -686,7 +686,7 @@
         <comment/>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>12</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -710,7 +710,7 @@
         <comment>Approve &amp; change State to Work in Progress</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>1</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -734,7 +734,7 @@
         <comment>Lookup up the job detail id in the table - if its not there do the following until it is</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>7</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -758,7 +758,7 @@
         <comment>with Capture Job details</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>13</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -782,7 +782,7 @@
         <comment/>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>25</order>
         <parent_ui_id>e071a704-8dc4-4848-ad4f-c1d090cdb23a</parent_ui_id>
@@ -806,7 +806,7 @@
         <comment/>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>2</order>
         <parent_ui_id>eca712b6-d69f-4489-8da8-d87ff3dba4a4</parent_ui_id>
@@ -830,7 +830,7 @@
         <comment>Add AutoLaunch Details to RTIM</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>19</order>
         <parent_ui_id>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</parent_ui_id>
@@ -854,7 +854,7 @@
         <comment>Query API for AutoLaunch output</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>18</order>
         <parent_ui_id>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</parent_ui_id>
@@ -878,7 +878,7 @@
         <comment>close the RITM</comment>
         <compiled_snapshot/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <generation_source/>
         <order>20</order>
         <parent_ui_id>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</parent_ui_id>
@@ -904,7 +904,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="Top Level Catch">35d60003e6022010a5e40cdd1254dd23</logic_definition>
@@ -931,7 +931,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="Do the following until">eaeb040687210300e6c2c88fc0e3ec89</logic_definition>
@@ -958,7 +958,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="Wait for a duration of time">fdb2541473031300b61e66476bf6a70e</logic_definition>
@@ -985,7 +985,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="Top Level Try">e9060aa2c3013010ace8b740ad40dd51</logic_definition>
@@ -1012,7 +1012,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned>jobdetailid</flow_variables_assigned>
         <generation_source/>
         <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
@@ -1039,7 +1039,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
@@ -1066,7 +1066,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
@@ -1093,7 +1093,7 @@
         <connected_to>d5a1b49c-5f41-4b73-b788-a4b31f2e1359</connected_to>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="Else If">666e5545c3e232002841b63b12d3ae99</logic_definition>
@@ -1120,7 +1120,7 @@
         <connected_to/>
         <decision_table/>
         <display_text/>
-        <flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</flow>
+        <flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</flow>
         <flow_variables_assigned>autolaunchjobid</flow_variables_assigned>
         <generation_source/>
         <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
@@ -1386,7 +1386,7 @@
         <label>AutoLaunchJobID</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</model>
+        <model display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</model>
         <model_id>fe3fc5479717e9106cf971371153afc3</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_variable_fe3fc5479717e9106cf971371153afc3</name>
@@ -1469,7 +1469,7 @@
         <label>JobDetailId</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</model>
+        <model display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</model>
         <model_id>fe3fc5479717e9106cf971371153afc3</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_variable_fe3fc5479717e9106cf971371153afc3</name>
@@ -1579,7 +1579,7 @@
         <name>MSIXBUILDER</name>
         <natlang/>
         <outputs/>
-        <parent_flow display_value="MSIXBUILDER">fe3fc5479717e9106cf971371153afc3</parent_flow>
+        <parent_flow display_value="MSIXBUILDER- old">fe3fc5479717e9106cf971371153afc3</parent_flow>
         <remote_trigger_id/>
         <run_as>user</run_as>
         <run_with_roles/>
