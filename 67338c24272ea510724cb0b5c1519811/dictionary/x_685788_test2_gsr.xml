@@ -1,3 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="969a646b835322106b1d6060ceaad3f4" label="GSR" max_length="40" name="x_685788_test2_gsr" type="collection"/>
+    <element db_object_id="f019f50e832322106b1d6060ceaad380" label="GSR" max_length="40" name="x_685788_test2_gsr" type="collection">
+        <element label="ConfigurationDescription" max_length="40" name="configurationdescription" type="string"/>
+        <element label="LicInfo" max_length="500" name="licinfo" type="string"/>
+        <element label="CwdTested" max_length="40" name="cwdtested" type="string"/>
+        <element label="Vendor" max_length="40" name="vendor" type="string"/>
+        <element label="RequestingCountry" max_length="100" name="requestingcountry" type="string"/>
+        <element label="GsrRef" max_length="40" name="gsrref" type="string"/>
+        <element label="PackagingReason" max_length="40" name="packagingreason" type="string"/>
+        <element label="InstallSteps" max_length="500" name="installsteps" type="string"/>
+        <element label="BusinessArea" max_length="40" name="businessarea" type="string"/>
+        <element label="PkgType" max_length="40" name="pkgtype" type="string"/>
+        <element label="VendorContact" max_length="40" name="vendorcontact" type="string"/>
+        <element label="ProvisionId" max_length="40" name="provisionid" type="string"/>
+        <element label="PermissionsRequired" max_length="40" name="permissionsrequired" type="string"/>
+        <element label="AppName" max_length="40" name="appname" type="string"/>
+        <element label="ThirdLevelCategory" max_length="40" name="thirdlevelcategory" type="string"/>
+        <element label="AppLang" max_length="40" name="applang" type="string"/>
+        <element label="GeneralComments" max_length="40" name="generalcomments" type="string"/>
+        <element label="RequestType" max_length="40" name="requesttype" type="string"/>
+        <element label="AppDependencies" max_length="40" name="appdependencies" type="string"/>
+        <element label="AppVersion" max_length="40" name="appversion" type="string"/>
+        <element display="true" label="LicenseType" max_length="300" name="licensetype" type="string"/>
+    </element>
 </database>

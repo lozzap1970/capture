@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="GSR">ef9a28ab835322106b1d6060ceaad32e</application>
+        <filter/>
+        <name>GSRs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_685788_test2.gsr_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-17 10:18:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>279a28ab835322106b1d6060ceaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GSRs</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_ui_module_279a28ab835322106b1d6060ceaad332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-17 10:18:59</sys_updated_on>
+        <table>x_685788_test2_gsr</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sys_ui_module_279a28ab835322106b1d6060ceaad332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="GSR">ef9a28ab835322106b1d6060ceaad32e</application><filter/><name>GSRs</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_685788_test2.gsr_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-17 10:18:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>279a28ab835322106b1d6060ceaad332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GSRs</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_module_279a28ab835322106b1d6060ceaad332</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-17 10:18:59</sys_updated_on><table>x_685788_test2_gsr</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>550504066</payload_hash>
+        <record_name>GSRs</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-17 10:18:59</sys_created_on>
+        <sys_id>2b9a28ab835322106b1d6060ceaad335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198b78a21290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-17 10:18:59</sys_updated_on>
+        <type>Module</type>
+        <update_guid>eb9a28abee532210df17b62bb4f1e834</update_guid>
+        <update_guid_history>eb9a28abee532210df17b62bb4f1e834:550504066</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 10:16:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>78fec1831fb840ba800ef20943c81ae4</sys_id>
+        <sys_metadata>279a28ab835322106b1d6060ceaad332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GSRs</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_279a28ab835322106b1d6060ceaad332</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_279a28ab835322106b1d6060ceaad332">2b9a28ab835322106b1d6060ceaad335</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 10:16:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
