@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="appversion" label="AppVersion" language="en" table="x_685788_test2_gsr">
+    <sys_documentation element="appversion" label="Application Version" language="en" table="x_685788_test2_gsr">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>appversion</element>
             <help/>
             <hint/>
-            <label>AppVersion</label>
+            <label>Application Version</label>
             <language>en</language>
             <name>x_685788_test2_gsr</name>
-            <plural>AppVersions</plural>
+            <plural>Application Versions</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-08-25 10:31:30</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>AppVersion</sys_name>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Application Version</sys_name>
             <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
             <sys_policy/>
             <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
             <sys_update_name>sys_documentation_x_685788_test2_gsr_appversion_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-25 10:31:30</sys_updated_on>
+            <sys_updated_on>2025-08-25 18:16:24</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="944cce16832b62106b1d6060ceaad3cb" label="Application Languages" max_length="40" name="x_685788_test2_application_languages" type="collection">
+        <element label="AppLang" max_length="40" name="applang" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Application Database">5882da0283e322106b1d6060ceaad3ba</sc_cat_item>
+        <sc_category display_value="Application UAT">c746061e972431106cf971371153af7b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 12:17:41</sys_created_on>
+        <sys_id>d482de0283e322106b1d6060ceaad3aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application UAT.Application Database</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_d482de0283e322106b1d6060ceaad3aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 12:17:41</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sc_cat_item_category_d482de0283e322106b1d6060ceaad3aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Application Database">5882da0283e322106b1d6060ceaad3ba</sc_cat_item><sc_category display_value="Application UAT">c746061e972431106cf971371153af7b</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 12:17:41</sys_created_on><sys_id>d482de0283e322106b1d6060ceaad3aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Application UAT.Application Database</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_category_d482de0283e322106b1d6060ceaad3aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 12:17:41</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-684540654</payload_hash>
+        <record_name>Application UAT.Application Database</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 12:17:41</sys_created_on>
+        <sys_id>1c82de0283e322106b1d6060ceaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198e129ad5c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 12:17:41</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>1082de02e6e3221092f3ad985397b2ae</update_guid>
+        <update_guid_history>1082de02e6e3221092f3ad985397b2ae:-684540654</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Application UAT.Application Database">9c012f0683ab22106b1d6060ceaad394</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 18:00:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>57268dcf745b4a5b90941fb9fb4e8161</sys_id>
+        <sys_metadata>d482de0283e322106b1d6060ceaad3aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application UAT.Application Database</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_d482de0283e322106b1d6060ceaad3aa</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_d482de0283e322106b1d6060ceaad3aa">1c82de0283e322106b1d6060ceaad3ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 18:00:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

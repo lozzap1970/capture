@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Capture Application Packaging ">47e84ede83e762106b1d6060ceaad321</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-26 06:14:42</sys_created_on>
+        <sys_id>c9098ede83e762106b1d6060ceaad3fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture Application Packaging .catalog_capture_application_packaging_</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_capture_application_packaging_">8d098ede83e762106b1d6060ceaad3fb</sys_portal_page>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_c9098ede83e762106b1d6060ceaad3fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-26 06:14:42</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sc_catalog_view_mtom_c9098ede83e762106b1d6060ceaad3fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Capture Application Packaging ">47e84ede83e762106b1d6060ceaad321</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-26 06:14:42</sys_created_on><sys_id>c9098ede83e762106b1d6060ceaad3fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Capture Application Packaging .catalog_capture_application_packaging_</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_portal_page display_value="catalog_capture_application_packaging_">8d098ede83e762106b1d6060ceaad3fb</sys_portal_page><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_catalog_view_mtom_c9098ede83e762106b1d6060ceaad3fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-26 06:14:42</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-334547775</payload_hash>
+        <record_name>Capture Application Packaging .catalog_capture_application_packaging_</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-26 06:14:42</sys_created_on>
+        <sys_id>8d09cede83e762106b1d6060ceaad300</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198e503b7e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-26 06:14:42</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>8109cedebfe7621014656ade7f252b00</update_guid>
+        <update_guid_history>8109cedebfe7621014656ade7f252b00:-334547775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Capture Application Packaging .catalog_capture_application_packaging_">52e6df9e83af62106b1d6060ceaad3f9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-26 11:55:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>163c12704cee40909b5f8fa270477b11</sys_id>
+        <sys_metadata>c9098ede83e762106b1d6060ceaad3fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture Application Packaging .catalog_capture_application_packaging_</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_c9098ede83e762106b1d6060ceaad3fd</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_c9098ede83e762106b1d6060ceaad3fd">8d09cede83e762106b1d6060ceaad300</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-26 11:55:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
