@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d5c9e0f83e766106b1d6060ceaad375" label="Packaging Formats" max_length="40" name="x_685788_test2_packaging_formats" type="collection">
+        <element display="true" label="Package Format" max_length="40" name="package_format" type="string"/>
+    </element>
+</database>
