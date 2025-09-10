@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Package Types">cc2fe32783a72a106b1d6060ceaad35d</decision_table>
+        <label>Subflow: MSIX BUILDER</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 11:18:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b9f43b6f83e72a106b1d6060ceaad3d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Subflow: MSIX BUILDER</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_decision_multi_result_b9f43b6f83e72a106b1d6060ceaad3d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 11:18:45</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=b9f43b6f83e72a106b1d6060ceaad3d5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>b9f43b6f83e72a106b1d6060ceaad3d5</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 11:18:45</sys_created_on>
+        <sys_id>b9f43b6f83e72a106b1d6060ceaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 11:18:45</sys_updated_on>
+        <value>2202fad897cc71106cf971371153af69</value>
+        <variable display_value="Subflow">25f477ef83e72a106b1d6060ceaad37a</variable>
+    </sys_variable_value>
+</record_update>
