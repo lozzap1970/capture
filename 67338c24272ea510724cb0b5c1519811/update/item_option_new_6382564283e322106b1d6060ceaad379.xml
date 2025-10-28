@@ -22,7 +22,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>licensetype</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -31,25 +31,25 @@
         <instructions/>
         <layout>normal</layout>
         <list_table/>
-        <lookup_label/>
+        <lookup_label>licensetype</lookup_label>
         <lookup_price/>
-        <lookup_table/>
+        <lookup_table>x_685788_test2_licensetypes</lookup_table>
         <lookup_unique>false</lookup_unique>
-        <lookup_value/>
+        <lookup_value>licensetype</lookup_value>
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>true</map_to_field>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>licensetype</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>1200</order>
+        <order>800</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>LicenseType</question_text>
+        <question_text>License Type</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -79,18 +79,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-08-25 12:17:55</sys_created_on>
         <sys_id>6382564283e322106b1d6060ceaad379</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>LicenseType</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>License Type</sys_name>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_6382564283e322106b1d6060ceaad379</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-25 12:17:55</sys_updated_on>
+        <sys_updated_on>2025-08-25 18:12:58</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>2</type>
+        <type>18</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

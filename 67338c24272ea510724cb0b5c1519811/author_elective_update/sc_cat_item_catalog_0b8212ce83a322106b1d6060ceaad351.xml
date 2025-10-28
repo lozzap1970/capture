@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Application Database">078212ce83a322106b1d6060ceaad34f</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 12:17:53</sys_created_on>
+        <sys_id>0b8212ce83a322106b1d6060ceaad351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Application Database</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0b8212ce83a322106b1d6060ceaad351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 12:17:53</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sc_cat_item_catalog_0b8212ce83a322106b1d6060ceaad351</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Application Database">078212ce83a322106b1d6060ceaad34f</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 12:17:53</sys_created_on><sys_id>0b8212ce83a322106b1d6060ceaad351</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Application Database</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_catalog_0b8212ce83a322106b1d6060ceaad351</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 12:17:53</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-557549788</payload_hash>
+        <record_name>Service Catalog.Application Database</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 12:17:53</sys_created_on>
+        <sys_id>8b82164283e322106b1d6060ceaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198e129daac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 12:17:53</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8f82164299e322108e82dd0aed56939e</update_guid>
+        <update_guid_history>8f82164299e322108e82dd0aed56939e:-557549788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Application Database">4697dfde83af62106b1d6060ceaad3b6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-26 11:58:01</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>00c8ea5599494366800932ce070ff5a4</sys_id>
+        <sys_metadata>0b8212ce83a322106b1d6060ceaad351</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Application Database</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="Application Database">078212ce83a322106b1d6060ceaad34f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_0b8212ce83a322106b1d6060ceaad351</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_0b8212ce83a322106b1d6060ceaad351">8b82164283e322106b1d6060ceaad39f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-26 11:58:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

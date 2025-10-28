@@ -44,12 +44,12 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>vendorcontact</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>2200</order>
+        <order>1400</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>VendorContact</question_text>
+        <question_text>Vendor Contact</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-08-25 12:17:56</sys_created_on>
         <sys_id>8492964283e322106b1d6060ceaad368</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>VendorContact</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Vendor Contact</sys_name>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>item_option_new_8492964283e322106b1d6060ceaad368</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-25 12:17:56</sys_updated_on>
+        <sys_updated_on>2025-08-25 18:24:18</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>

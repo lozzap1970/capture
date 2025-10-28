@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>false</active>
         <attributes/>
-        <cat_item display_value="Application Publishing - Intune Win32">f7b9daca83e322106b1d6060ceaad3e7</cat_item>
+        <cat_item display_value="Application Publishing">f7b9daca83e322106b1d6060ceaad3e7</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
