@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="MSIX Package Creation">3b92033d976761106cf971371153afea</sc_cat_item>
+        <sc_category display_value="MSIX Creation">9e165c759793a5106cf971371153af6f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 15:01:47</sys_created_on>
+        <sys_id>9436f38197d431106cf971371153afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MSIX Creation.MSIX Package Creation</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_9436f38197d431106cf971371153afaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 15:01:47</sys_updated_on>
+    </sc_cat_item_category>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sc_cat_item_category_9436f38197d431106cf971371153afaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="MSIX Package Creation">3b92033d976761106cf971371153afea</sc_cat_item>
+        <sc_category display_value="MSIX Creation">9e165c759793a5106cf971371153af6f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-26 15:01:47</sys_created_on>
+        <sys_id>9436f38197d431106cf971371153afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MSIX Creation.MSIX Package Creation</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_9436f38197d431106cf971371153afaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-26 15:01:47</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>]]></payload>
+        <payload_hash>81757219</payload_hash>
+        <record_name>MSIX Creation.MSIX Package Creation</record_name>
+        <reverted_from/>
+        <source>77fcd627836ae2106b1d6060ceaad3ec</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-11 11:53:20</sys_created_on>
+        <sys_id>b46d522b836ae2106b1d6060ceaad3f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197f955343a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-11 11:53:20</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>746d522b9d6ae2107ee3db07815e09f5</update_guid>
+        <update_guid_history>746d522b9d6ae2107ee3db07815e09f5:81757219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MSIX Creation.MSIX Package Creation">eb05a6d083e1f6506b1d6060ceaad3aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-27 13:14:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>057afc34f2c14f0c8b19cc744ff35ac1</sys_id>
+        <sys_metadata>9436f38197d431106cf971371153afaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MSIX Creation.MSIX Package Creation</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_9436f38197d431106cf971371153afaf</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_9436f38197d431106cf971371153afaf">b46d522b836ae2106b1d6060ceaad3f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-27 13:14:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

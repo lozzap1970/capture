@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="MSIX Package Creation">3b92033d976761106cf971371153afea</sc_cat_item>
-        <sc_category display_value="MSIX Creation">9e165c759793a5106cf971371153af6f</sc_category>
+        <sc_category display_value="Packaging ">41fc5e4597dbe1106cf971371153af0b</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-26 15:01:47</sys_created_on>
-        <sys_id>9436f38197d431106cf971371153afaf</sys_id>
+        <sys_created_on>2025-11-27 13:14:57</sys_created_on>
+        <sys_id>a705a6d083e1f6506b1d6060ceaad3b0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>MSIX Creation.MSIX Package Creation</sys_name>
+        <sys_name>Packaging .MSIX Package Creation</sys_name>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_update_name>sc_cat_item_category_9436f38197d431106cf971371153afaf</sys_update_name>
+        <sys_update_name>sc_cat_item_category_a705a6d083e1f6506b1d6060ceaad3b0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-26 15:01:47</sys_updated_on>
+        <sys_updated_on>2025-11-27 13:14:57</sys_updated_on>
     </sc_cat_item_category>
 </record_update>

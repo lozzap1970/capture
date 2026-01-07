@@ -14,7 +14,7 @@
         <description><![CDATA[<p>Submit a job for Application Testing via Intune - for Inune Win32 Inrune MSIX or AppV</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="UAT">9cba9dd5976471106cf971371153af93</flow_designer_flow>
+        <flow_designer_flow display_value="INTUNE PUBLISHING - State farm">10d16f78831632106b1d6060ceaad3fc</flow_designer_flow>
         <fulfillment_automation_level>manual</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -66,21 +66,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-08-25 12:49:20</sys_created_on>
         <sys_id>f7b9daca83e322106b1d6060ceaad3e7</sys_id>
-        <sys_mod_count>37</sys_mod_count>
+        <sys_mod_count>38</sys_mod_count>
         <sys_name>Application Publishing</sys_name>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sc_cat_item_f7b9daca83e322106b1d6060ceaad3e7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-29 08:00:48</sys_updated_on>
+        <sys_updated_on>2026-01-05 13:55:24</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>34</version>
+        <version>35</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
