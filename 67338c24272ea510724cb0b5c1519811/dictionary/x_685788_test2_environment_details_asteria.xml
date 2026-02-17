@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="69e9cd218396f2106b1d6060ceaad37d" label="environment_details_asteria" max_length="40" name="x_685788_test2_environment_details_asteria" type="collection">
+        <element label="IsDeleted" max_length="40" name="isdeleted" type="boolean"/>
+        <element label="EnviromentDetailID" max_length="40" name="enviromentdetailid" type="integer"/>
+        <element label="Settings" max_length="2000" name="settings" type="string"/>
+        <element label="ResourceReservationInMinutes" max_length="40" name="resourcereservationinminutes" type="integer"/>
+        <element label="DeQueueStrategyTypeId" max_length="40" name="dequeuestrategytypeid" type="string"/>
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element label="EnvironmentTypeID" max_length="32" name="environmenttypeid" reference="x_685788_test2_environmenttype" type="reference"/>
+        <index name="index">
+            <element name="environmenttypeid"/>
+        </index>
+    </element>
+</database>
