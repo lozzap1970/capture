@@ -14,7 +14,7 @@
         <copied_from_name/>
         <description/>
         <flow_priority/>
-        <ih_action>true</ih_action>
+        <ih_action>false</ih_action>
         <internal_name>getjobdetail</internal_name>
         <label_cache>[{"name":"{{action.jobdetailid}}","label":"action➛JobDetailID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[6700ef21-9bb4-4ce6-abfb-08551efece96].response_body}}","label":"step➛REST step➛Response Body","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"hidden_for":"DATASTREAM"}},{"name":"{{step[ed2f026e-dd5f-4599-a695-bd6814629b83].root.jobStatusId}}","label":"step➛JSON Parser step➛root➛jobStatusId","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[ed2f026e-dd5f-4599-a695-bd6814629b83].root.jobIsSuccessful}}","label":"step➛JSON Parser step➛root➛jobIsSuccessful","type":"step","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
         <master_snapshot>28f09c79977321106cf971371153af4c</master_snapshot>
@@ -24,22 +24,22 @@
         <outputs/>
         <outputs/>
         <pre_compiled>false</pre_compiled>
-        <state>published</state>
+        <state>draft</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-30 14:33:06</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f646f138977769106cf971371153af58</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Get-JOBDETAIL</sys_name>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_f646f138977769106cf971371153af58</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-05 18:13:35</sys_updated_on>
+        <sys_updated_by>tarun</sys_updated_by>
+        <sys_updated_on>2026-01-06 10:51:13</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -53,10 +53,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-03 09:43:45</sys_created_on>
         <sys_id>11d0d879977321106cf971371153af2f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-04 18:03:47</sys_updated_on>
-        <value>{"version":"1.0","serializationFormat":"JSON","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}}</value>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>tarun</sys_updated_by>
+        <sys_updated_on>2026-01-06 10:51:04</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">19d0d879977321106cf971371153af10</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -811,10 +811,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-03 09:43:44</sys_created_on>
         <sys_id>11d0d879977321106cf971371153af01</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:43:45</sys_updated_on>
+        <sys_updated_by>tarun</sys_updated_by>
+        <sys_updated_on>2026-01-06 10:51:12</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=11d0d879977321106cf971371153af01"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -839,10 +839,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-03 09:43:45</sys_created_on>
         <sys_id>95d0d879977321106cf971371153af0e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:43:45</sys_updated_on>
-        <value>structured</value>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>tarun</sys_updated_by>
+        <sys_updated_on>2026-01-06 10:51:04</sys_updated_on>
+        <value>raw</value>
         <variable display_value="Payload view">95d4280787523300f917e55936cb0bfe</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -853,10 +853,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-03 09:43:45</sys_created_on>
         <sys_id>d1d0d879977321106cf971371153af0e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-03 09:43:45</sys_updated_on>
-        <value>{"id":336,"environmentDetailId":3,"submittedDateTime":"2023-06-29T10:39:22.89","startDateTime":"2023-06-29T10:39:23.5582191","endDateTime":"2023-06-29T10:43:44.932916","jobStatusId":3,"jobIsSuccessful":true,"jobInputParameters":"{\"PackageName\":\"7Zip-2107\",\"PackageDisplayName\":\"7Zip-2107\",\"PackageVersion\":\"1.1.1.1\",\"PackageDescription\":\"7Zip-2107\",\"Applications\":[{\"InstallOrder\":0,\"PackageUnc\":\"\\\\\\\\capturehost02\\\\ApolloSource\\\\AppScan\\\\7Zip-2107\",\"File\":\"7z2107-x64.msi\",\"Arguments\":\"\"}],\"CreateAppAttach\":false,\"UseCimfsForAppAttach\":false,\"Notes\":\"\",\"TimeoutInHours\":0}","jobOutput":"{\"PackageCreatedSuccessfully\":true,\"PackagePath\":\"\\\\\\\\capturehost02\\\\apollooutput\\\\336\\\\7Zip-2107.msix\",\"Package\":{\"PackageName\":\"7Zip-2107\",\"PackageFullName\":\"7Zip-2107_1.1.1.1_x64__mwy45xjz1n93g\",\"PackageVersion\":\"1.1.1.1\",\"ApplicationName\":\"7Zip-2107\",\"ApplicationVersion\":\"1.1.1.1\",\"ApplicationPublisher\":\"CN=AccessITAutomationDEV\",\"PackageShortcuts\":[{\"File\":\"shell:AppsFolder\\\\7Zip-2107_mwy45xjz1n93g!SevenZFM\",\"Target\":\"VFS\\\\ProgramFilesX64\\\\7-Zip\\\\7zFM.exe\"}]},\"PackageReports\":[],\"AppAttachCreatedSuccessfully\":false}","modifiedByIdentityProviderId":3,"modifiedByProviderUserId":"captureClients"}</value>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>tarun</sys_updated_by>
+        <sys_updated_on>2026-01-06 10:51:12</sys_updated_on>
+        <value/>
         <variable display_value="Sample payload">d335ac0787523300f917e55936cb0b1d</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_11d0d879977321106cf971371153af01^id=11d0d879977321106cf971371153af01"/>
@@ -924,15 +924,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>99d0d879977321106cf971371153af04</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-05 18:13:32</sys_updated_on>
+        <sys_updated_by>tarun</sys_updated_by>
+        <sys_updated_on>2026-01-06 10:51:12</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -1280,14 +1280,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-03 09:43:45</sys_created_on>
         <sys_id>19d0d879977321106cf971371153af14</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>29</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-05 18:13:32</sys_updated_on>
+        <sys_updated_by>tarun</sys_updated_by>
+        <sys_updated_on>2026-01-06 10:51:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
