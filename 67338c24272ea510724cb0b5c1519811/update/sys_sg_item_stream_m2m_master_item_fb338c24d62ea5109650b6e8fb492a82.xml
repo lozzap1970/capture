@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this year Item Stream">37338c247a2ea510023487e930804d83</item_stream>
+        <master_item display_value="Approvals this year Main Item">bf338c24382ea5109362e53279c0b482</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:46</sys_created_on>
+        <sys_id>fb338c24d62ea5109650b6e8fb492a82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_fb338c24d62ea5109650b6e8fb492a82</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:46</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

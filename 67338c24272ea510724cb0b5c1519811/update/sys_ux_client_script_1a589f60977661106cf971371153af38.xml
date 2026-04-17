@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="job_submit default">ff338c24192ea51099aadbdda9111d4e</macroponent>
+        <name>form_1/sections</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.imports
+ */
+function evaluateProperty({
+    api
+}) {
+    if (api.data.glide_form_1.nowRecordFormBlob) {
+        var sections = api.data.glide_form_1.nowRecordFormBlob.sections;
+        if (sections.length > 0 && api.data.document_approval_internationalization_support_1 && api.data.document_approval_internationalization_support_1.output) {
+            sections[0].label = api.data.document_approval_internationalization_support_1.output['job_submission_form_title'];
+
+            return sections;
+        } else {
+            return '';
+        }
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-11 10:00:15</sys_created_on>
+        <sys_id>1a589f60977661106cf971371153af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>form_1/sections</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_ux_client_script_1a589f60977661106cf971371153af38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-11 10:00:15</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0769ee73976b65106cf971371153af36" extends="sys_import_set_row" label="Import Job Details" max_length="40" name="x_685788_test2_ihub_import_2fa8809297aba1106cf971371153af09" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EndDateTime" label="EndDateTime" max_length="40" name="u_enddatetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EnvironmentDetailId" label="EnvironmentDetailId" max_length="40" name="u_environmentdetailid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿Id" label="ï»¿Id" max_length="40" name="u_ï__id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JobInputParameters" label="JobInputParameters" max_length="450" name="u_jobinputparameters" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JobIsSuccessful" label="JobIsSuccessful" max_length="40" name="u_jobissuccessful" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JobOutput" label="JobOutput" max_length="2188" name="u_joboutput" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JobRunnerIdentityProviderId" label="JobRunnerIdentityProviderId" max_length="40" name="u_jobrunneridentityproviderid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JobRunnerProviderUserId" label="JobRunnerProviderUserId" max_length="40" name="u_jobrunnerprovideruserid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JobStatusId" label="JobStatusId" max_length="40" name="u_jobstatusid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JobTriggerId" label="JobTriggerId" max_length="40" name="u_jobtriggerid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ModifiedByIdentityProviderId" label="ModifiedByIdentityProviderId" max_length="40" name="u_modifiedbyidentityproviderid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ModifiedByProviderUserId" label="ModifiedByProviderUserId" max_length="40" name="u_modifiedbyprovideruserid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="50" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PackageInformation" label="PackageInformation" max_length="294" name="u_packageinformation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=StartDateTime" label="StartDateTime" max_length="40" name="u_startdatetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SubmittedDateTime" label="SubmittedDateTime" max_length="40" name="u_submitteddatetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TestDetailId" label="TestDetailId" max_length="40" name="u_testdetailid" type="string"/>
+    </element>
+</database>

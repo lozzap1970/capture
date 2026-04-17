@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_definition">
+    <sys_rte_eb_etl_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <description>ETL definition for Import Job Details</description>
+        <name>Import Job Details_etl_ihub</name>
+        <on_after_script><![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]></on_after_script>
+        <on_after_script_bool>false</on_after_script_bool>
+        <on_before_script><![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]></on_before_script>
+        <on_before_script_bool>false</on_before_script_bool>
+        <sys_class_name>sys_rte_eb_etl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 12:11:49</sys_created_on>
+        <sys_id>cb39cc5297aba1106cf971371153afa6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Import Job Details_etl_ihub</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_definition_cb39cc5297aba1106cf971371153afa6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 12:11:49</sys_updated_on>
+    </sys_rte_eb_etl_definition>
+</record_update>

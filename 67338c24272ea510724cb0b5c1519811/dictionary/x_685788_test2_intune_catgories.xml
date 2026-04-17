@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8bb02a2397e475106cf971371153af0f" label="InTune Categories" max_length="40" name="x_685788_test2_intune_catgories" type="collection">
+        <element label="Category ID" max_length="40" name="category_id" type="string"/>
+        <element label="Category Name" max_length="40" name="category_name" type="string"/>
+    </element>
+</database>

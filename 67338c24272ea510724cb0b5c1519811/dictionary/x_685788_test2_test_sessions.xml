@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bfb369e097b031106cf971371153afb4" label="Test_sessions" max_length="40" name="x_685788_test2_test_sessions" type="collection">
+        <element label="CPU Count" max_length="40" name="cpu_count" type="string"/>
+        <element label="EndDateTime" max_length="40" name="enddatetime" type="string"/>
+        <element label="Id" max_length="40" name="id" type="integer"/>
+        <element label="IpAddress" max_length="40" name="ipaddress" type="string"/>
+        <element label="JobdetailID" max_length="40" name="jobdetailid" reference_qual="id=^EQ" reference_qual_condition="id=^EQ" type="string"/>
+        <element label="MachineDomain" max_length="40" name="machinedomain" type="string"/>
+        <element label="MachineName" max_length="40" name="machinename" type="string"/>
+        <element label="Memory" max_length="40" name="memory" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Platform" max_length="40" name="platform" type="string"/>
+        <element label="Release" max_length="40" name="release" type="string"/>
+        <element label="StartDateTime" max_length="40" name="startdatetime" type="string"/>
+        <element label="TestDetailID" max_length="40" name="testdetailid" type="string"/>
+        <element label="UserDomain" max_length="40" name="userdomain" type="string"/>
+        <element label="UserName" max_length="40" name="username" type="string"/>
+    </element>
+</database>

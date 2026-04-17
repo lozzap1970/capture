@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="">0675b608773020109837b73aba106111</context_config_id>
+        <limit>5</limit>
+        <order>300</order>
+        <section_header/>
+        <suggestion_type>Suggested Query Reader Group for Document Approval Search Config</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:45</sys_created_on>
+        <sys_id>4c438c244a2ea510c11d6ce0b2d53bfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Query Reader Group for Document Approval Search Config</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_4c438c244a2ea510c11d6ce0b2d53bfd</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:45</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

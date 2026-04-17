@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_685788_test2_env_details" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>920625ca97d7e5106cf971371153af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dequeuestrategytypeid</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>9a0625ca97d7e5106cf971371153af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>enviromenttypename</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>9e0625ca97d7e5106cf971371153af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>environmenttypeid</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>920625ca97d7e5106cf971371153af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>960625ca97d7e5106cf971371153af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>isdeleted</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>9a0625ca97d7e5106cf971371153af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>resourcereservationinminutes</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>9e0625ca97d7e5106cf971371153af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>settings</element>
+            <list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_id>920625ca97d7e5106cf971371153af04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_685788_test2_env_details</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1606e1ca97d7e5106cf971371153af08</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_685788_test2_env_details</sys_name>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_list_x_685788_test2_env_details_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">3e790771e821211076da10591ad2872b</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_ui_list_x_685788_test2_env_details_Mobile</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_685788_test2_env_details" version="2" view="Mobile"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>name</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>920625ca97d7e5106cf971371153af02</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>dequeuestrategytypeid</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>9a0625ca97d7e5106cf971371153af02</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>enviromenttypename</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>9e0625ca97d7e5106cf971371153af02</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>environmenttypeid</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>920625ca97d7e5106cf971371153af03</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>id</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>960625ca97d7e5106cf971371153af03</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>isdeleted</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>9a0625ca97d7e5106cf971371153af03</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>resourcereservationinminutes</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>9e0625ca97d7e5106cf971371153af03</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>settings</element><list_id display_value="x_685788_test2_env_details" element="NULL" name="x_685788_test2_env_details" parent="NULL" relationship="NULL" sys_domain="global" view="3e790771e821211076da10591ad2872b">1606e1ca97d7e5106cf971371153af08</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_id>920625ca97d7e5106cf971371153af04</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_685788_test2_env_details</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-09 14:03:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1606e1ca97d7e5106cf971371153af08</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_685788_test2_env_details</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_list_x_685788_test2_env_details_Mobile</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-09 14:03:06</sys_updated_on><sys_user/><view display_value="Mobile" name="Mobile">3e790771e821211076da10591ad2872b</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1345144821</payload_hash>
+        <record_name>env_details</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-09 14:03:06</sys_created_on>
+        <sys_id>9a0625ca97d7e5106cf971371153af06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188a077ce510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-09 14:03:06</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>5a0625ca49d7e510a847af9fc1dd2f06</update_guid>
+        <update_guid_history>5a0625ca49d7e510a847af9fc1dd2f06:1345144821</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-12 18:07:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>37e28a4220a54dc0974dc43b2b658400</sys_id>
+        <sys_metadata>1606e1ca97d7e5106cf971371153af08</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_env_details</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="">34e4a94a97d7e5106cf971371153af05</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_685788_test2_env_details_Mobile</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_685788_test2_env_details_Mobile">9a0625ca97d7e5106cf971371153af06</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-12 18:07:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

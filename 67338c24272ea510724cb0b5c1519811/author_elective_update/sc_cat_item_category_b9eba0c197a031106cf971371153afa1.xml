@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="EXE-to MSI">e24b9001976031106cf971371153afa0</sc_cat_item>
+        <sc_category display_value="EXE to MSI">e7aba88197a031106cf971371153af2d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 10:33:40</sys_created_on>
+        <sys_id>b9eba0c197a031106cf971371153afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EXE to MSI.EXE-to MSI</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_b9eba0c197a031106cf971371153afa1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 10:33:40</sys_updated_on>
+    </sc_cat_item_category>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sc_cat_item_category_b9eba0c197a031106cf971371153afa1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="EXE-to MSI">e24b9001976031106cf971371153afa0</sc_cat_item>
+        <sc_category display_value="EXE to MSI">e7aba88197a031106cf971371153af2d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 10:33:40</sys_created_on>
+        <sys_id>b9eba0c197a031106cf971371153afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EXE to MSI.EXE-to MSI</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_b9eba0c197a031106cf971371153afa1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 10:33:40</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>]]></payload>
+        <payload_hash>1665680324</payload_hash>
+        <record_name>EXE to MSI.EXE-to MSI</record_name>
+        <reverted_from/>
+        <source>77fcd627836ae2106b1d6060ceaad3ec</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-11 11:53:20</sys_created_on>
+        <sys_id>0d6d922b836ae2106b1d6060ceaad307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197f95534720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-11 11:53:20</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>c96d922bfc6ae21033a8edc08efc2307</update_guid>
+        <update_guid_history>c96d922bfc6ae21033a8edc08efc2307:1665680324</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="EXE to MSI.EXE-to MSI">cee4a2d083e1f6506b1d6060ceaad328</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-27 13:14:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>80643c4551e24fa48064019072f0fa39</sys_id>
+        <sys_metadata>b9eba0c197a031106cf971371153afa1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EXE to MSI.EXE-to MSI</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b9eba0c197a031106cf971371153afa1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b9eba0c197a031106cf971371153afa1">0d6d922b836ae2106b1d6060ceaad307</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-27 13:14:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

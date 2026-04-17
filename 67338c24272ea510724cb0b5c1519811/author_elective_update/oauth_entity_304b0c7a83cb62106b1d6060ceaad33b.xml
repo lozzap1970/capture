@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url>https://&lt;provider-domain-name&gt;.com/oauth2/auth</auth_url>
+        <certificate_url/>
+        <client_id>24bfa565-cfd4-4a81-83f3-eb6481ab0eb6</client_id>
+        <client_secret>﷞﷟﷒00200c3a838b62106b1d6060ceaad30a﷬﷔1﷬﷭YHSXJFyqmgswBk4L027GAA==hh2hsXOO5mYFSUVWYK3wBT7L78vt1cYr4dToKO25lclmFQglRW8p77km22Dz60r8kjvCittpoYjc-Hr_﷮﷯</client_secret>
+        <client_type/>
+        <client_uuid>704b0c7a83cb62106b1d6060ceaad33b</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <extend_refresh_token_expiry>false</extend_refresh_token_expiry>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <jwt_provider/>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>Selene Oauth.2</name>
+        <oauth_api_script display_value="OAuthUtil">3e3a3a11c333210016194ffe5bba8f70</oauth_api_script>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev339861.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url>https://&lt;provider-domain-name&gt;.com/oauth2/token</refresh_token_url>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url>https://&lt;provider-domain-name&gt;.com/oauth2/revoke</revoke_token_url>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 13:50:51</sys_created_on>
+        <sys_id>304b0c7a83cb62106b1d6060ceaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Selene Oauth.2</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>oauth_entity_304b0c7a83cb62106b1d6060ceaad33b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 13:50:51</sys_updated_on>
+        <token_url>https://&lt;provider-domain-name&gt;.com/oauth2/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>oauth_entity_304b0c7a83cb62106b1d6060ceaad33b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>60</auth_code_lifespan><auth_url>https://&lt;provider-domain-name&gt;.com/oauth2/auth</auth_url><certificate_url/><client_id>24bfa565-cfd4-4a81-83f3-eb6481ab0eb6</client_id><client_secret>﷞﷟﷒00200c3a838b62106b1d6060ceaad30a﷬﷔1﷬﷭YHSXJFyqmgswBk4L027GAA==hh2hsXOO5mYFSUVWYK3wBT7L78vt1cYr4dToKO25lclmFQglRW8p77km22Dz60r8kjvCittpoYjc-Hr_﷮﷯</client_secret><client_type/><client_uuid>704b0c7a83cb62106b1d6060ceaad33b</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>authorization_code</default_grant_type><extend_refresh_token_expiry>false</extend_refresh_token_expiry><id_token_lifespan>86400</id_token_lifespan><jwt_provider/><login_url/><logo_url/><message_signature_lifespan>60</message_signature_lifespan><mobile_client>false</mobile_client><name>Selene Oauth.2</name><oauth_api_script display_value="OAuthUtil">3e3a3a11c333210016194ffe5bba8f70</oauth_api_script><protocol_name/><public_client>false</public_client><redirect_url>https://dev339861.service-now.com/oauth_redirect.do</redirect_url><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url>https://&lt;provider-domain-name&gt;.com/oauth2/token</refresh_token_url><restricted_binding>false</restricted_binding><revoke_token_url>https://&lt;provider-domain-name&gt;.com/oauth2/revoke</revoke_token_url><salt/><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-02 13:50:51</sys_created_on><sys_id>304b0c7a83cb62106b1d6060ceaad33b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Selene Oauth.2</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>oauth_entity_304b0c7a83cb62106b1d6060ceaad33b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-02 13:50:51</sys_updated_on><token_url>https://&lt;provider-domain-name&gt;.com/oauth2/token</token_url><type>oauth_provider</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>1691239866</payload_hash>
+        <record_name>Selene Oauth.2</record_name>
+        <reverted_from/>
+        <source>10eba732832222106b1d6060ceaad3c5</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-07-09 09:40:49</sys_created_on>
+        <sys_id>3ebbc8fa83cb62106b1d6060ceaad349</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>197ee8f28e80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Application Registries</type>
+        <update_guid>fabbc8fa68cb6210bd0b28eace11ec49</update_guid>
+        <update_guid_history>fabbc8fa68cb6210bd0b28eace11ec49:1691239866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Selene Oauth.2">36bbc8fa83cb62106b1d6060ceaad34a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 13:52:55</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>3114eeef77cb4c7da24f5fc4235c5a21</sys_id>
+        <sys_metadata>304b0c7a83cb62106b1d6060ceaad33b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Selene Oauth.2</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>oauth_entity_304b0c7a83cb62106b1d6060ceaad33b</sys_update_name>
+        <sys_update_version display_value="oauth_entity_304b0c7a83cb62106b1d6060ceaad33b">3ebbc8fa83cb62106b1d6060ceaad349</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 13:52:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

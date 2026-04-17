@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_highlighted_value_config">
+    <sys_ux_m2m_highlighted_value_config action="INSERT_OR_UPDATE">
+        <highlighted_value display_value="status">c8438c24d42ea51089761badc3562bd9</highlighted_value>
+        <highlighted_value_config display_value="Document Approvals">7f338c246a2ea510c4d02fdc48602831</highlighted_value_config>
+        <order>0</order>
+        <sys_class_name>sys_ux_m2m_highlighted_value_config</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:55</sys_created_on>
+        <sys_id>fb338c24a52ea510fbe72fbfb4f01130</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_ux_m2m_highlighted_value_config_fb338c24a52ea510fbe72fbfb4f01130</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:55</sys_updated_on>
+    </sys_ux_m2m_highlighted_value_config>
+</record_update>

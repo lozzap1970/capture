@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description>Capture testing </description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 14:20:16</sys_created_on>
+        <sys_id>0806ceda972431106cf971371153af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_category_0806ceda972431106cf971371153af76</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-11 14:20:16</sys_updated_on>
+        <title>Testing</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=0806ceda972431106cf971371153af76"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_category_0806ceda972431106cf971371153af76</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description>Capture testing </description><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-11 14:20:16</sys_created_on><sys_id>0806ceda972431106cf971371153af76</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Testing</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_category_0806ceda972431106cf971371153af76</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-11 14:20:16</sys_updated_on><title>Testing</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=0806ceda972431106cf971371153af76"/></record_update>]]></payload>
+        <payload_hash>1701459350</payload_hash>
+        <record_name>Testing</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 14:20:16</sys_created_on>
+        <sys_id>4426ceda972431106cf971371153af10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189e4f82a6e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-11 14:20:16</sys_updated_on>
+        <type>Category</type>
+        <update_guid>4826ceda5d2431109305b017fece3e0f</update_guid>
+        <update_guid_history>4826ceda5d2431109305b017fece3e0f:1701459350</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Testing">4476861e972431106cf971371153afd3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 14:21:38</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>0c902487c16c44989f9e2834e4959210</sys_id>
+        <sys_metadata>0806ceda972431106cf971371153af76</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_category_0806ceda972431106cf971371153af76</sys_update_name>
+        <sys_update_version display_value="sc_category_0806ceda972431106cf971371153af76">4426ceda972431106cf971371153af10</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-11 14:21:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

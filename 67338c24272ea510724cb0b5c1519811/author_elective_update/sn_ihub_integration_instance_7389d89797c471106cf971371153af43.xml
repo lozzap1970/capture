@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Capture import</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Capture import</name>
+        <record_id>3789d89797c471106cf971371153af44</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 12:28:27</sys_created_on>
+        <sys_id>7389d89797c471106cf971371153af43</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Capture import</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_7389d89797c471106cf971371153af43</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 12:28:27</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sn_ihub_integration_instance_7389d89797c471106cf971371153af43</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Capture import</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>Capture import</name><record_id>3789d89797c471106cf971371153af44</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-20 12:28:27</sys_created_on><sys_id>7389d89797c471106cf971371153af43</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Capture import</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sn_ihub_integration_instance_7389d89797c471106cf971371153af43</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-20 12:28:27</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-122592318</payload_hash>
+        <record_name>Capture import</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 12:28:27</sys_created_on>
+        <sys_id>fb89d89797c471106cf971371153af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1897345e3de0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 12:28:27</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>3389d8979bc4711051ce9c032f90c04e</update_guid>
+        <update_guid_history>3389d8979bc4711051ce9c032f90c04e:-122592318</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Capture import">8af0027c975871106cf971371153af4d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 11:51:09</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>6f976d0096e74406a51a070f53951464</sys_id>
+        <sys_metadata>7389d89797c471106cf971371153af43</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture import</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_7389d89797c471106cf971371153af43</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_7389d89797c471106cf971371153af43">fb89d89797c471106cf971371153af4e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 11:51:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

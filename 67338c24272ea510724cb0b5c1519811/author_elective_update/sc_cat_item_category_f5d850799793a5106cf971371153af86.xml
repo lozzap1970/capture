@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="MSIX Package Creation">b615d291979b25106cf971371153af79</sc_cat_item>
+        <sc_category display_value="Access Capture Requests ">22555319db0150104327198d1396195c</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 13:47:20</sys_created_on>
+        <sys_id>f5d850799793a5106cf971371153af86</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Access Capture Requests .MSIX Package Creation</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_category_f5d850799793a5106cf971371153af86</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-08 13:47:24</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_category_f5d850799793a5106cf971371153af86</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="MSIX Package Creation">b615d291979b25106cf971371153af79</sc_cat_item><sc_category display_value="Access Capture Requests ">22555319db0150104327198d1396195c</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-08 13:47:20</sys_created_on><sys_id>f5d850799793a5106cf971371153af86</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Access Capture Requests .MSIX Package Creation</sys_name><sys_package/><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_category_f5d850799793a5106cf971371153af86</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-06-08 13:47:24</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1828051661</payload_hash>
+        <record_name>Access Capture Requests .MSIX Package Creation</record_name>
+        <reverted_from/>
+        <source>f2d850799793a5106cf971371153af5a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-08 13:47:25</sys_created_on>
+        <sys_id>b2d890799793a5106cf971371153af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1889b4315d80000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-08 13:47:25</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>76d890797193a510498f9682a4b9dd3c</update_guid>
+        <update_guid_history>76d890797193a510498f9682a4b9dd3c:1828051661</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Access Capture Requests .MSIX Package Creation">a71a98b99793a5106cf971371153af73</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 13:52:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>80ffdd3c2d22412a8e0d777ef2506ac1</sys_id>
+        <sys_metadata>f5d850799793a5106cf971371153af86</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Access Capture Requests .MSIX Package Creation</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f5d850799793a5106cf971371153af86</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f5d850799793a5106cf971371153af86">b2d890799793a5106cf971371153af3d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 13:52:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

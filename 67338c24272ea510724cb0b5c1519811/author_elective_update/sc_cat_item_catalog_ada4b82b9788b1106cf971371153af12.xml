@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Bulk Capture Import ">a71e1c1f97c471106cf971371153afc3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 09:05:17</sys_created_on>
+        <sys_id>ada4b82b9788b1106cf971371153af12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Bulk Capture Import </sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ada4b82b9788b1106cf971371153af12</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 09:05:17</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sc_cat_item_catalog_ada4b82b9788b1106cf971371153af12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Bulk Capture Import ">a71e1c1f97c471106cf971371153afc3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-21 09:05:17</sys_created_on><sys_id>ada4b82b9788b1106cf971371153af12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Bulk Capture Import </sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_catalog_ada4b82b9788b1106cf971371153af12</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-21 09:05:17</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1661106520</payload_hash>
+        <record_name>Service Catalog.Bulk Capture Import </record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 09:05:17</sys_created_on>
+        <sys_id>21a4b82b9788b1106cf971371153af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18977b23eed0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 09:05:17</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>65a4b82b4288b1106cda56864bc12615</update_guid>
+        <update_guid_history>65a4b82b4288b1106cda56864bc12615:-1661106520</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Bulk Capture Import ">31a4b82b9788b1106cf971371153af71</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-21 09:05:18</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2a821ec02bf34f1b963bc14a27eaa729</sys_id>
+        <sys_metadata>ada4b82b9788b1106cf971371153af12</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Bulk Capture Import </sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_ada4b82b9788b1106cf971371153af12</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_ada4b82b9788b1106cf971371153af12">21a4b82b9788b1106cf971371153af16</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 09:05:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

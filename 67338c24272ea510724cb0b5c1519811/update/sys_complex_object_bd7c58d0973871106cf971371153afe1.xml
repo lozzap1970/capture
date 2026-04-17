@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf97c58d05038711080502cbb34debee1</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>67338c24272ea510724cb0b5c1519811</scope_name>
+        <serialized_content>{"FlowDesigner:FDf97c58d05038711080502cbb34debee1":{"PackageTestingCompletedSuccessfully":"String","PackageTestingCompletedSuccessfully.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"PackageTestingCompletedSuccessfully\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"d27dd427-8ad4-489c-a0db-759ef249f201\"}"},"DocumentPath":"String","DocumentPath.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"DocumentPath\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"5d13b47a-b324-47f8-9e73-17462fc5b35c\"}"},"ScreenRecordingFilePaths":[{"$273_ScreenRecordingFilePaths":{"path":"String","path.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"path\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"8a2a904d-b365-4727-99dc-588231286252\"}"}}}],"ScreenRecordingFilePaths.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"ScreenRecordingFilePaths\",\"mandatory\":\"false\",\"child_name\":\"screenrecordingfilepaths_child0\",\"uiUniqueId\":\"42a7a712-a6aa-4a5e-825e-4c94ae262c0e\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"screenrecordingfilepaths_child0\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"4\",\"max_length\":\"0\",\"child_uiUniqueId\":\"d2920ddf-d5ef-4e25-ab22-16b92dee8a73\"}"},"DocumentCreatedSuccessfully":"String","DocumentCreatedSuccessfully.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"DocumentCreatedSuccessfully\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"a941daf8-8725-4233-9fb2-c120c1bedb5a\"}"}},"FlowDesigner:FDf97c58d05038711080502cbb34debee1.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"ac9c3880-aa62-4f4b-88fa-7363c832c27d\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"output\",\"mandatory\":\"false\",\"child_name\":\"screenrecordingfilepaths_child0\",\"uiUniqueId\":\"40237d5a-405d-4c3f-8df4-bd8ff4a30174\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDf97c58d05038711080502cbb34debee1\",\"child_label\":\"0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"6b53612a-a7e3-4986-b384-2d49a3b505ea\",\"hint\":\"\",\"uiType\":\"object\",\"child_type\":\"object\",\"order\":\"9\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"068a5afb-28f0-4f85-944e-1abddc28a980\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-17 11:46:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd7c58d0973871106cf971371153afe1</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>FDf97c58d05038711080502cbb34debee1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_complex_object_bd7c58d0973871106cf971371153afe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-17 11:54:43</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

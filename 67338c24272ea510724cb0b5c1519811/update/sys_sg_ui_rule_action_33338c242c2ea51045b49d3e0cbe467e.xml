@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:38</sys_created_on>
+        <sys_id>33338c242c2ea51045b49d3e0cbe467e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_33338c242c2ea51045b49d3e0cbe467e</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:38</sys_updated_on>
+        <target>viewgroup_01</target>
+        <ui_rule display_value="Submitted state rules for document approvals - List View Config">f3338c24b92ea510569495edec2a567e</ui_rule>
+        <value>{"BackgroundColor":"#C3DDF0"}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

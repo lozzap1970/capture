@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="24e6cece836322106b1d6060ceaad38e" sys_domain="global" table="x_685788_test2_license_type_impoert" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_licinfo</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>24e6cece836322106b1d6060ceaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>a8e6cece836322106b1d6060ceaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_generalcomments</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>20e6cece836322106b1d6060ceaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>a4e6cece836322106b1d6060ceaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_businessarea</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>2ce6cece836322106b1d6060ceaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>68e6020283a322106b1d6060ceaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendorcontact</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>ece6020283a322106b1d6060ceaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>64e6020283a322106b1d6060ceaad36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_configurationdescription</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e8e6020283a322106b1d6060ceaad36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>60e6020283a322106b1d6060ceaad36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_appversion</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e4e6020283a322106b1d6060ceaad36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>6ce6020283a322106b1d6060ceaad36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_installsteps</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e0e6020283a322106b1d6060ceaad36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>68e6020283a322106b1d6060ceaad36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_appname</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>ece6020283a322106b1d6060ceaad36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_packagingreason</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>64e6020283a322106b1d6060ceaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendor</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e8e6020283a322106b1d6060ceaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pkgtype</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>60e6020283a322106b1d6060ceaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_permissionsrequired</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e4e6020283a322106b1d6060ceaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>6ce6020283a322106b1d6060ceaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cwdtested</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e0e6020283a322106b1d6060ceaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gsr</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>68e6020283a322106b1d6060ceaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applang</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>ece6020283a322106b1d6060ceaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gsrref</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>64e6020283a322106b1d6060ceaad371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_appdependencies</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e8e6020283a322106b1d6060ceaad371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>60e6020283a322106b1d6060ceaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_provisionid</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e4e6020283a322106b1d6060ceaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>6ce6020283a322106b1d6060ceaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_thirdlevelcategory</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e0e6020283a322106b1d6060ceaad373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requesttype</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>68e6020283a322106b1d6060ceaad373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>ece6020283a322106b1d6060ceaad373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_licensetype</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>64e6020283a322106b1d6060ceaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requestingcountry</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>e8e6020283a322106b1d6060ceaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_id>60e6020283a322106b1d6060ceaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_685788_test2_license_type_impoert</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24e6cece836322106b1d6060ceaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_685788_test2_license_type_impoert</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_24e6cece836322106b1d6060ceaad38e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sys_ui_section_24e6cece836322106b1d6060ceaad38e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="24e6cece836322106b1d6060ceaad38e" sys_domain="global" table="x_685788_test2_license_type_impoert" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_licinfo</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>24e6cece836322106b1d6060ceaad395</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>a8e6cece836322106b1d6060ceaad395</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_generalcomments</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>20e6cece836322106b1d6060ceaad396</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>a4e6cece836322106b1d6060ceaad396</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_businessarea</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>2ce6cece836322106b1d6060ceaad396</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>68e6020283a322106b1d6060ceaad36a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_vendorcontact</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>ece6020283a322106b1d6060ceaad36a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>64e6020283a322106b1d6060ceaad36b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_configurationdescription</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e8e6020283a322106b1d6060ceaad36b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>60e6020283a322106b1d6060ceaad36c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_appversion</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e4e6020283a322106b1d6060ceaad36c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>6ce6020283a322106b1d6060ceaad36c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_installsteps</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e0e6020283a322106b1d6060ceaad36d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>68e6020283a322106b1d6060ceaad36d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_appname</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>ece6020283a322106b1d6060ceaad36d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_packagingreason</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>64e6020283a322106b1d6060ceaad36e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_vendor</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e8e6020283a322106b1d6060ceaad36e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_pkgtype</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>60e6020283a322106b1d6060ceaad36f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_permissionsrequired</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e4e6020283a322106b1d6060ceaad36f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>6ce6020283a322106b1d6060ceaad36f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_cwdtested</element><position>20</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e0e6020283a322106b1d6060ceaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_gsr</element><position>21</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>68e6020283a322106b1d6060ceaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_applang</element><position>22</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>ece6020283a322106b1d6060ceaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_gsrref</element><position>23</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>64e6020283a322106b1d6060ceaad371</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_appdependencies</element><position>24</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e8e6020283a322106b1d6060ceaad371</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>25</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>60e6020283a322106b1d6060ceaad372</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_provisionid</element><position>26</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e4e6020283a322106b1d6060ceaad372</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>27</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>6ce6020283a322106b1d6060ceaad372</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_thirdlevelcategory</element><position>28</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e0e6020283a322106b1d6060ceaad373</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requesttype</element><position>29</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>68e6020283a322106b1d6060ceaad373</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>30</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>ece6020283a322106b1d6060ceaad373</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_licensetype</element><position>31</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>64e6020283a322106b1d6060ceaad374</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requestingcountry</element><position>32</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>e8e6020283a322106b1d6060ceaad374</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>33</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_id>60e6020283a322106b1d6060ceaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_license_type_impoert" sys_domain="global" view="Default view">24e6cece836322106b1d6060ceaad38e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_685788_test2_license_type_impoert</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 11:26:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>24e6cece836322106b1d6060ceaad38e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_685788_test2_license_type_impoert</sys_name><sys_overrides/><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_section_24e6cece836322106b1d6060ceaad38e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 11:26:55</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1502923955</payload_hash>
+        <record_name>License type Impoert</record_name>
+        <reverted_from/>
+        <source>f76e166383aae2106b1d6060ceaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 11:26:55</sys_created_on>
+        <sys_id>6ce6020283a322106b1d6060ceaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198e0fb32990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 11:26:55</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>24e60202fba32210f0bf6ebfe7775678</update_guid>
+        <update_guid_history>24e60202fba32210f0bf6ebfe7775678:1502923955,20e6cece10632210f94798bbd56eec91:15445307</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 11:39:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>b9ddd9125d484314950808f799192e90</sys_id>
+        <sys_metadata>24e6cece836322106b1d6060ceaad38e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_license_type_impoert</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="">f2c64ece836322106b1d6060ceaad340</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_24e6cece836322106b1d6060ceaad38e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_24e6cece836322106b1d6060ceaad38e">6ce6020283a322106b1d6060ceaad378</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 11:39:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

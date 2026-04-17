@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0e60c14997e031106cf971371153af30" sys_domain="global" table="sc_req_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0260c14997e031106cf971371153af32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">0e60c14997e031106cf971371153af30</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">da50814997e031106cf971371153aff0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:03:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a60c14997e031106cf971371153af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">0e60c14997e031106cf971371153af30</sys_ui_form>
+            <sys_ui_section caption="MSI Inputs" display_value="MSI Inputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">4a60c14997e031106cf971371153af32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:03:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:03:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2270010997e031106cf971371153afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">0e60c14997e031106cf971371153af30</sys_ui_form>
+            <sys_ui_section caption="MSI Outputs" display_value="MSI Outputs" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">2270010997e031106cf971371153afca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:03:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:03:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7380854997e031106cf971371153af8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">0e60c14997e031106cf971371153af30</sys_ui_form>
+            <sys_ui_section caption="MSI AutoLaunch" display_value="MSI AutoLaunch" name="sc_req_item" sys_domain="global" view="5250014997e031106cf971371153af19">ff80854997e031106cf971371153af87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:03:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-07 12:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e60c14997e031106cf971371153af30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0e60c14997e031106cf971371153af30</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-07 12:03:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="EXE-to-MSI" name="exe-to-msi">5250014997e031106cf971371153af19</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

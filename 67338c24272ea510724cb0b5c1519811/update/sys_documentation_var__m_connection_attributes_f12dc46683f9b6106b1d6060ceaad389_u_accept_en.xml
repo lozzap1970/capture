@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_accept" label="Accept" language="en" table="var__m_connection_attributes_f12dc46683f9b6106b1d6060ceaad389">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_accept</element>
+            <help/>
+            <hint/>
+            <label>Accept</label>
+            <language>en</language>
+            <name>var__m_connection_attributes_f12dc46683f9b6106b1d6060ceaad389</name>
+            <plural>Accept</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-16 12:24:03</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Accept</sys_name>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_documentation_var__m_connection_attributes_f12dc46683f9b6106b1d6060ceaad389_u_accept_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-16 12:24:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

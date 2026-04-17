@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-05-04 14:35:29</sys_created_on>
+        <sys_id>f1345cea97e221106cf971371153afdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_job_detail.x_685788_test2.admin</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_security_acl display_value="x_685788_test2_job_detail">f9345cea97e221106cf971371153afdc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f1345cea97e221106cf971371153afdf</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-05-04 14:35:29</sys_updated_on>
+        <sys_user_role display_value="x_685788_test2.admin" name="x_685788_test2.admin">0443cc248b2ea510f0c12ab31a9c6a0d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

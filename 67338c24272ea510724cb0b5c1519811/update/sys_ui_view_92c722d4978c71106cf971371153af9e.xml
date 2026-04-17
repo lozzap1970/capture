@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>msix_creation</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-11 15:08:04</sys_created_on>
+        <sys_id>92c722d4978c71106cf971371153af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MSIX Creation</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_ui_view_92c722d4978c71106cf971371153af9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-11 15:08:04</sys_updated_on>
+        <title>MSIX Creation</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

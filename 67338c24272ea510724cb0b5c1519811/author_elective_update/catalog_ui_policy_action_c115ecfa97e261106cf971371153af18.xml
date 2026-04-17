@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Capture Request">ea5f14e6972621106cf971371153af2d</catalog_item>
+        <catalog_variable>IO:9ddf807697a261106cf971371153af0c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 10:27:38</sys_created_on>
+        <sys_id>c115ecfa97e261106cf971371153af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>job_type</sys_name>
+        <sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c115ecfa97e261106cf971371153af18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 10:27:38</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Capture Request UI policy">94e42c7a97e261106cf971371153afcd</ui_policy>
+        <variable>job_type</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>catalog_ui_policy_action_c115ecfa97e261106cf971371153af18</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Capture Request">ea5f14e6972621106cf971371153af2d</catalog_item><catalog_variable>IO:9ddf807697a261106cf971371153af0c</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-05 10:27:38</sys_created_on><sys_id>c115ecfa97e261106cf971371153af18</sys_id><sys_mod_count>0</sys_mod_count><sys_name>job_type</sys_name><sys_package display_value="Capture2" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture2">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>catalog_ui_policy_action_c115ecfa97e261106cf971371153af18</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-05 10:27:38</sys_updated_on><table/><ui_policy display_value="Capture Request UI policy">94e42c7a97e261106cf971371153afcd</ui_policy><variable>job_type</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1291784028</payload_hash>
+        <record_name>job_type</record_name>
+        <reverted_from/>
+        <source>1e53c464972ea5106cf971371153afae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 10:27:38</sys_created_on>
+        <sys_id>c115ecfa97e261106cf971371153af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187eb73f8930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 10:27:38</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>4515ecfa11e26110ad1304e2802abb1c</update_guid>
+        <update_guid_history>4515ecfa11e26110ad1304e2802abb1c:1291784028</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="job_type">75a949b297a661106cf971371153af61</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 13:07:26</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>2cf7c4d227254d249314930f8f8b0f10</sys_id>
+        <sys_metadata>c115ecfa97e261106cf971371153af18</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>job_type</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_c115ecfa97e261106cf971371153af18</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_c115ecfa97e261106cf971371153af18">c115ecfa97e261106cf971371153af1d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 13:07:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

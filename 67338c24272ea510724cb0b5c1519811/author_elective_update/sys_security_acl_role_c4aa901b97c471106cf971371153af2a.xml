@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 12:33:06</sys_created_on>
+        <sys_id>c4aa901b97c471106cf971371153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_capture_import.x_685788_test2.submitter</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_security_acl display_value="x_685788_test2_capture_import">c8aa901b97c471106cf971371153af27</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c4aa901b97c471106cf971371153af2a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 12:33:06</sys_updated_on>
+        <sys_user_role display_value="x_685788_test2.submitter" name="x_685788_test2.submitter">cc43cc248a2ea5106dc89a8c0305a00c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_security_acl_role_c4aa901b97c471106cf971371153af2a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-20 12:33:06</sys_created_on><sys_id>c4aa901b97c471106cf971371153af2a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_685788_test2_capture_import.x_685788_test2.submitter</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_security_acl display_value="x_685788_test2_capture_import">c8aa901b97c471106cf971371153af27</sys_security_acl><sys_update_name>sys_security_acl_role_c4aa901b97c471106cf971371153af2a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-20 12:33:06</sys_updated_on><sys_user_role display_value="x_685788_test2.submitter" name="x_685788_test2.submitter">cc43cc248a2ea5106dc89a8c0305a00c</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1140147913</payload_hash>
+        <record_name>x_685788_test2_capture_import.x_685788_test2.submitter</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 12:33:06</sys_created_on>
+        <sys_id>0caa901b97c471106cf971371153af2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189734a26620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 12:33:06</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>40aa901b9bc471104961a6956c13ad2c</update_guid>
+        <update_guid_history>40aa901b9bc471104961a6956c13ad2c:1140147913</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_685788_test2_capture_import.x_685788_test2.submitter">536419f8979471106cf971371153afeb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 08:36:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>160cd71fe3ca4e30a873f609774f3a40</sys_id>
+        <sys_metadata>c4aa901b97c471106cf971371153af2a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_capture_import.x_685788_test2.submitter</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="">c8aa901b97c471106cf971371153af27</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c4aa901b97c471106cf971371153af2a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c4aa901b97c471106cf971371153af2a">0caa901b97c471106cf971371153af2c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 08:36:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

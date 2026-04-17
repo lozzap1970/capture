@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Application Publishing - Intune Win32">f7b9daca83e322106b1d6060ceaad3e7</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 12:49:20</sys_created_on>
+        <sys_id>3fb9daca83e322106b1d6060ceaad3ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Application UAT - Intune</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_3fb9daca83e322106b1d6060ceaad3ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 12:49:20</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sc_cat_item_catalog_3fb9daca83e322106b1d6060ceaad3ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Application Publishing - Intune Win32">f7b9daca83e322106b1d6060ceaad3e7</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-25 12:49:20</sys_created_on><sys_id>3fb9daca83e322106b1d6060ceaad3ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Copy of Application UAT - Intune</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sc_cat_item_catalog_3fb9daca83e322106b1d6060ceaad3ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-25 12:49:20</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1925893089</payload_hash>
+        <record_name>Service Catalog.Copy of Application UAT - Intune</record_name>
+        <reverted_from/>
+        <source>ae199b0a836b22106b1d6060ceaad3ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 17:26:12</sys_created_on>
+        <sys_id>af191f0a836b22106b1d6060ceaad3e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198e2441fb00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 17:26:12</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>23191f0aec6b22101712dead499817e1</update_guid>
+        <update_guid_history>23191f0aec6b22101712dead499817e1:-1925893089,b3b9daca00e32210ab513dd24475c1ed:-319241473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Copy of Application UAT - Intune">c478175283ef62106b1d6060ceaad33d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-26 12:01:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>b906c63a3c644783a65539a63ada2669</sys_id>
+        <sys_metadata>3fb9daca83e322106b1d6060ceaad3ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Application UAT - Intune</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="Application Publishing - Intune Win32">f7b9daca83e322106b1d6060ceaad3e7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_3fb9daca83e322106b1d6060ceaad3ea</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_3fb9daca83e322106b1d6060ceaad3ea">af191f0a836b22106b1d6060ceaad3e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-26 12:01:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

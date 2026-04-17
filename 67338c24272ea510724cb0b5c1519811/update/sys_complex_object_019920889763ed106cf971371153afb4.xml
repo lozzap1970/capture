@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD4d9920880663ed102dfc949634e0afb3</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>67338c24272ea510724cb0b5c1519811</scope_name>
+        <serialized_content>{"FlowDesigner:FD4d9920880663ed102dfc949634e0afb3":{},"FlowDesigner:FD4d9920880663ed102dfc949634e0afb3.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"fcb16cf8-c730-4f42-aaa3-98d84fc31835\",\"default_value\":\"\",\"label\":\"joboutput\",\"mandatory\":\"false\",\"child_name\":\"joboutput_child0\",\"uiUniqueId\":\"b624f608-2e84-429e-8df7-3c3bcda38a09\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD4d9920880663ed102dfc949634e0afb3\",\"child_label\":\"joboutput_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"924aab9c-8cfa-4987-af48-b307151d1330\",\"hint\":\"\",\"uiType\":\"object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"04e099cf-3bc4-4b34-8dde-895a5f585bbd\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-15 14:46:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>019920889763ed106cf971371153afb4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>FD4d9920880663ed102dfc949634e0afb3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_complex_object_019920889763ed106cf971371153afb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-16 13:07:25</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

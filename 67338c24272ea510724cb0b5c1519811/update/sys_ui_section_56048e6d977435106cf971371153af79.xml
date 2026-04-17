@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Test Details" section_id="56048e6d977435106cf971371153af79" sys_domain="global" table="sc_req_item" version="3" view="intune">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_session_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>c8b2a886970575106cf971371153affa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_detail_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>40b2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_start_time</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>c0b2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_end_time</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>44b2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_release</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>c4b2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>48b2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_user_name</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>c8b2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_machine_name</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>4cb2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_cpu_count</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>ccb2a886970575106cf971371153affb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_memory_mb</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>40b2a886970575106cf971371153affc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_test_platform</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-04 08:58:44</sys_created_on>
+            <sys_id>c0b2a886970575106cf971371153affc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test Details" display_value="Test Details" name="sc_req_item" sys_domain="global" view="503b56ab97a475106cf971371153afa1">56048e6d977435106cf971371153af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-04 08:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Test Details</caption>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 16:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56048e6d977435106cf971371153af79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_56048e6d977435106cf971371153af79</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 16:31:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="InTune" name="intune">503b56ab97a475106cf971371153afa1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

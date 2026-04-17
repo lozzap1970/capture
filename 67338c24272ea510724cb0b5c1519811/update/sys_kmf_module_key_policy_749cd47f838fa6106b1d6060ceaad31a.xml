@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="glide_usage_analytics_token_signing">bc26a5427f130210cf428c711d866559</crypto_module>
+        <key_type display_value="Private Signature Generation Key">eacabf24c7003300af4d43c6f0976341</key_type>
+        <last_enforced>2025-08-05 17:40:25</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-05 17:40:25</sys_created_on>
+        <sys_id>749cd47f838fa6106b1d6060ceaad31a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_749cd47f838fa6106b1d6060ceaad31a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-05 17:40:25</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>

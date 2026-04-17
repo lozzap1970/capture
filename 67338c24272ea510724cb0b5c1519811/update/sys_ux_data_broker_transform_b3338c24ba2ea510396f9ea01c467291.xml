@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_685788_test2.Heading</api_name>
+        <description/>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Heading</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[{      "name":"userSessionFirstName",&#13;
+      "label":"User Session",&#13;
+      "description":"User Session",&#13;
+      "readOnly":false,&#13;
+      "fieldType":"object",&#13;
+      "mandatory":true,&#13;
+      "defaultValue":{}&#13;
+   }]</props>
+        <required_translations>[{"message":"User Session","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	
+    return gs.getMessage("{0}'s Document Approvals",input.userSessionFirstName);
+	
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:38</sys_created_on>
+        <sys_id>b3338c24ba2ea510396f9ea01c467291</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Heading</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_b3338c24ba2ea510396f9ea01c467291</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:38</sys_updated_on>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=b3338c24ba2ea510396f9ea01c467291"/>
+</record_update>

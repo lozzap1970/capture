@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="92134a8a836322106b1d6060ceaad33f" label="Countries" max_length="40" name="x_685788_test2_countries" type="collection">
+        <element label="RequestingCountry" max_length="40" name="requestingcountry" type="string"/>
+    </element>
+</database>

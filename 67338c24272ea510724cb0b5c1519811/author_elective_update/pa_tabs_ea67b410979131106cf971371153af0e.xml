@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>Capture Dashboard - New Tab 3</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 10:15:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ea67b410979131106cf971371153af0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture Dashboard - New Tab 3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>pa_tabs_ea67b410979131106cf971371153af0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 10:15:36</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>pa_tabs_ea67b410979131106cf971371153af0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>Capture Dashboard - New Tab 3</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-11 10:15:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea67b410979131106cf971371153af0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Capture Dashboard - New Tab 3</sys_name><sys_overrides/><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>pa_tabs_ea67b410979131106cf971371153af0e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-11 10:15:36</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>1805000764</payload_hash>
+        <record_name>Capture Dashboard - New Tab 3</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 10:15:43</sys_created_on>
+        <sys_id>9477b410979131106cf971371153afa7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a83bd6aa90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 10:15:43</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>e667b4105c9131100914fb56a008a210</update_guid>
+        <update_guid_history>e667b4105c9131100914fb56a008a210:-552061884,e667b4105c9131100914fb56a008a210:-552061884,e667b4105c9131100914fb56a008a210:-552061884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Capture Dashboard - New Tab 3">d877b410979131106cf971371153afad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 10:15:43</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>03edb20da12044e6803e69265ead4e24</sys_id>
+        <sys_metadata>ea67b410979131106cf971371153af0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capture Dashboard - New Tab 3</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>pa_tabs_ea67b410979131106cf971371153af0e</sys_update_name>
+        <sys_update_version display_value="pa_tabs_ea67b410979131106cf971371153af0e">9477b410979131106cf971371153afa7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 10:15:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

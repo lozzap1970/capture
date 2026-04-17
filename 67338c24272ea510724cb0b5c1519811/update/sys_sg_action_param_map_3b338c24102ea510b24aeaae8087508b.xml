@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Return document">fb338c24cd2ea510106750f7e7720c8b</button>
+        <item_parameter display_value="comments">77338c24982ea5108b233e7a9feeaf8b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 08:13:40</sys_created_on>
+        <sys_id>3b338c24102ea510b24aeaae8087508b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>77338c24982ea5108b233e7a9feeaf8b</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3b338c24102ea510b24aeaae8087508b</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:13:40</sys_updated_on>
+        <ui_parameter display_value="Reason for returning">7b338c24c22ea510a6cdc1be983a888d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

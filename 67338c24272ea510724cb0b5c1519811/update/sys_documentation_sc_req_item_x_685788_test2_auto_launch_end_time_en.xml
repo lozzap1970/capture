@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_685788_test2_auto_launch_end_time" label="Auto Launch End Time" language="en" table="sc_req_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_685788_test2_auto_launch_end_time</element>
+            <help/>
+            <hint/>
+            <label>Auto Launch End Time</label>
+            <language>en</language>
+            <name>sc_req_item</name>
+            <plural>Auto Launch End Times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-23 15:23:56</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Auto Launch End Time</sys_name>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_documentation_sc_req_item_x_685788_test2_auto_launch_end_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-23 15:23:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

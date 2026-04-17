@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>bulk attachment transform</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_685788_test2_bulk_attachment_import_set</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 12:23:42</sys_created_on>
+        <sys_id>1338ca74979871106cf971371153af6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bulk attachment transform</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_transform_map_1338ca74979871106cf971371153af6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 12:23:42</sys_updated_on>
+        <target_table>x_685788_test2_bulk_import</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_transform_map_1338ca74979871106cf971371153af6f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;false&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;bulk attachment transform&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;x_685788_test2_bulk_attachment_import_set&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-07-25 12:23:42&lt;/sys_created_on&gt;&lt;sys_id&gt;1338ca74979871106cf971371153af6f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;bulk attachment transform&lt;/sys_name&gt;&lt;sys_package display_value="Capture" source="x_685788_test2"&gt;67338c24272ea510724cb0b5c1519811&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Capture"&gt;67338c24272ea510724cb0b5c1519811&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_1338ca74979871106cf971371153af6f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-07-25 12:23:42&lt;/sys_updated_on&gt;&lt;target_table&gt;x_685788_test2_bulk_import&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2113738890</payload_hash>
+        <record_name>bulk attachment transform</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 12:23:42</sys_created_on>
+        <sys_id>f2688e74979871106cf971371153afcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1898d0155d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 12:23:42</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>3a688e749f987110c997dc65c1ea7ccc</update_guid>
+        <update_guid_history>3a688e749f987110c997dc65c1ea7ccc:-2113738890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-19 09:28:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>00a18599778e46ff828d2c91b19d6661</sys_id>
+        <sys_metadata>1338ca74979871106cf971371153af6f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bulk attachment transform</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_transform_map_1338ca74979871106cf971371153af6f</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_1338ca74979871106cf971371153af6f">f2688e74979871106cf971371153afcd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-19 09:28:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

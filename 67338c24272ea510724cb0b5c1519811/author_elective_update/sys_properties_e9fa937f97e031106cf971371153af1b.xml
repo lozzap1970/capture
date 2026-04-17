@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_685788_test2.glide</name>
+        <read_roles/>
+        <suffix>glide</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 12:22:25</sys_created_on>
+        <sys_id>e9fa937f97e031106cf971371153af1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2.glide</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_properties_e9fa937f97e031106cf971371153af1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 12:22:25</sys_updated_on>
+        <type>integer</type>
+        <value>1024</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=e9fa937f97e031106cf971371153af1b"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>3eefffd09391a258401cddd548373c7f</instance_id>
+        <instance_name>dev339861</instance_name>
+        <name>sys_properties_e9fa937f97e031106cf971371153af1b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_685788_test2.glide</name>
+        <read_roles/>
+        <suffix>glide</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 12:22:25</sys_created_on>
+        <sys_id>e9fa937f97e031106cf971371153af1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2.glide</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_properties_e9fa937f97e031106cf971371153af1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 12:22:25</sys_updated_on>
+        <type>integer</type>
+        <value>1024</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=e9fa937f97e031106cf971371153af1b"/>
+</record_update>]]></payload>
+        <payload_hash>-752532782</payload_hash>
+        <record_name>x_685788_test2.glide</record_name>
+        <reverted_from/>
+        <source>77fcd627836ae2106b1d6060ceaad3ec</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-11 11:56:44</sys_created_on>
+        <sys_id>be2e9eaf836ae2106b1d6060ceaad3e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197f95851940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-11 11:56:44</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>7e2e9eafa96ae210dbdb27d8426516e0</update_guid>
+        <update_guid_history>7e2e9eafa96ae210dbdb27d8426516e0:-752532782</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-18 15:05:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>469d22bd56d54b3283d969fe62708fb9</sys_id>
+        <sys_metadata>e9fa937f97e031106cf971371153af1b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2.glide</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_properties_e9fa937f97e031106cf971371153af1b</sys_update_name>
+        <sys_update_version display_value="sys_properties_e9fa937f97e031106cf971371153af1b">be2e9eaf836ae2106b1d6060ceaad3e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-18 15:05:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

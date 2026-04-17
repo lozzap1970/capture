@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="828931ed835af2106b1d6060ceaad347" extends="sys_import_set_row" label="jOBDETAILS -ASTERIA-API" max_length="40" name="x_685788_test2_jobdetails_asteria" type="collection"/>
+</database>

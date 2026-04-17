@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Application Publishing">f7b9daca83e322106b1d6060ceaad3e7</catalog_item>
+        <catalog_variable>IO:6902360283a722106b1d6060ceaad3a4</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-25 14:38:48</sys_created_on>
+        <sys_id>13c2b64283a722106b1d6060ceaad335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bit_on_64_bit_registry</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_13c2b64283a722106b1d6060ceaad335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-25 14:38:48</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'bit_on_64_bit_registry' visible depending on 'DetectionRuleType' &amp; 'DetectionRuleType'">1fb2724283a722106b1d6060ceaad349</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>bit_on_64_bit_registry</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=13c2b64283a722106b1d6060ceaad335"/>
+</record_update>

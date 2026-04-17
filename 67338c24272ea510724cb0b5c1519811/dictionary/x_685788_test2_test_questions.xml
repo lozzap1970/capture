@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a5e08d65973035106cf971371153af22" label="test_Questions" max_length="40" name="x_685788_test2_test_questions" type="collection">
+        <element label="CategoryTitle" max_length="40" name="categorytitle" type="string"/>
+        <element label="DisplayOrder" max_length="40" name="displayorder" type="integer"/>
+        <element label="Id" max_length="40" name="id" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="QuestionfailText" max_length="1000" name="questionfailtext" type="string"/>
+        <element label="QuestionPassText" max_length="1000" name="questionpasstext" type="string"/>
+        <element label="QuestionText" max_length="1000" name="questiontext" type="string"/>
+        <element label="RequiresScreenshot" max_length="40" name="requiresscreenshot" type="string"/>
+        <element label="TestDetailID" max_length="40" name="testdetailid" reference="x_685788_test2_test_detail" reference_qual="id=^EQ" reference_qual_condition="id=^EQ" type="reference"/>
+    </element>
+</database>

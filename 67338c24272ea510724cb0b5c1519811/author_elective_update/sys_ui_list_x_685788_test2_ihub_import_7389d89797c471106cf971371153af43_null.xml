@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_685788_test2_ihub_import_7389d89797c471106cf971371153af43" version="2" view="">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_685788_test2_ihub_import_7389d89797c471106cf971371153af43</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>34bd5c1f97c471106cf971371153af65</sys_id>
+            <sys_mod_count/>
+            <sys_name>x_685788_test2_ihub_import_7389d89797c471106cf971371153af43</sys_name>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2023-07-25 08:36:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_ui_list_x_685788_test2_ihub_import_7389d89797c471106cf971371153af43_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_685788_test2_ihub_import_7389d89797c471106cf971371153af43" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_685788_test2_ihub_import_7389d89797c471106cf971371153af43</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>34bd5c1f97c471106cf971371153af65</sys_id><sys_mod_count/><sys_name>x_685788_test2_ihub_import_7389d89797c471106cf971371153af43</sys_name><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2023-07-25 08:36:16</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-228698964</payload_hash>
+        <record_name>x_685788_test2_ihub_import_7389d89797c471106cf971371153af43</record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 08:36:17</sys_created_on>
+        <sys_id>6b5455f8979471106cf971371153af21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1898c311fea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 08:36:17</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>af5455f81b947110f543e8f0f8d73c20</update_guid>
+        <update_guid_history>af5455f81b947110f543e8f0f8d73c20:-228698964</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 11:49:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>6085e007b71c4a9cb67b6645d32a25c4</sys_id>
+        <sys_metadata>3005953c979471106cf971371153af7d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_ihub_import_7389d89797c471106cf971371153af43</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="">6805553c979471106cf971371153afbc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_685788_test2_ihub_import_7389d89797c471106cf971371153af43_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_685788_test2_ihub_import_7389d89797c471106cf971371153af43_null">6b5455f8979471106cf971371153af21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 11:49:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

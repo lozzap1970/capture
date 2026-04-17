@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="cda44a70979871106cf971371153af15" sys_domain="global" table="x_685788_test2_bulk_import" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>env_detail</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:00</sys_created_on>
+            <sys_id>0a570a34979871106cf971371153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>package_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:00</sys_created_on>
+            <sys_id>c2574a34979871106cf971371153af14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>package_version</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>4e574a34979871106cf971371153af1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>package_display_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>d6574a34979871106cf971371153af23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>package_description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>92574a34979871106cf971371153af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unc</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>56574a34979871106cf971371153af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>file</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>92574a34979871106cf971371153af47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>arguments</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>12574a34979871106cf971371153af4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>96574a34979871106cf971371153af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appattach</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:01</sys_created_on>
+            <sys_id>96574a34979871106cf971371153af6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cimfs</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:02</sys_created_on>
+            <sys_id>d6574a34979871106cf971371153af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>timeout</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:02</sys_created_on>
+            <sys_id>5a574a34979871106cf971371153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_order</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:02</sys_created_on>
+            <sys_id>2e574a34979871106cf971371153af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>autolaunch</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:19:02</sys_created_on>
+            <sys_id>22574a34979871106cf971371153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:19:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attachment</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:12:52</sys_created_on>
+            <sys_id>2d94346d971c71106cf971371153af74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:12:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 14:12:54</sys_created_on>
+            <sys_id>0694746d971c71106cf971371153af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 14:12:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_685788_test2_bulk_import</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-25 12:07:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cda44a70979871106cf971371153af15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_685788_test2_bulk_import</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+            <sys_update_name>sys_ui_section_cda44a70979871106cf971371153af15</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-25 12:07:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Capture">67338c24272ea510724cb0b5c1519811</application>
+        <file_path/>
+        <instance_id>41feb726db889ddc52cec597059619cf</instance_id>
+        <instance_name>dev128961</instance_name>
+        <name>sys_ui_section_cda44a70979871106cf971371153af15</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="cda44a70979871106cf971371153af15" sys_domain="global" table="x_685788_test2_bulk_import" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>env_detail</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:00</sys_created_on><sys_id>0a570a34979871106cf971371153afe6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>package_name</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:00</sys_created_on><sys_id>c2574a34979871106cf971371153af14</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>package_version</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>4e574a34979871106cf971371153af1b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>package_display_name</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>d6574a34979871106cf971371153af23</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>package_description</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>92574a34979871106cf971371153af2b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>unc</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>56574a34979871106cf971371153af3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>file</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>92574a34979871106cf971371153af47</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>arguments</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>12574a34979871106cf971371153af4f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>notes</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>96574a34979871106cf971371153af63</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>appattach</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:01</sys_created_on><sys_id>96574a34979871106cf971371153af6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cimfs</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:02</sys_created_on><sys_id>d6574a34979871106cf971371153af73</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>timeout</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:02</sys_created_on><sys_id>5a574a34979871106cf971371153af7b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>install_order</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:02</sys_created_on><sys_id>2e574a34979871106cf971371153af83</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>autolaunch</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:19:02</sys_created_on><sys_id>22574a34979871106cf971371153af8c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:19:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>attachment</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:12:52</sys_created_on><sys_id>2d94346d971c71106cf971371153af74</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:12:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 14:12:54</sys_created_on><sys_id>0694746d971c71106cf971371153af94</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_685788_test2_bulk_import" sys_domain="global" view="Default view">cda44a70979871106cf971371153af15</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 14:12:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_685788_test2_bulk_import</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-25 12:07:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cda44a70979871106cf971371153af15</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_685788_test2_bulk_import</sys_name><sys_overrides/><sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package><sys_policy/><sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope><sys_update_name>sys_ui_section_cda44a70979871106cf971371153af15</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-25 12:07:12</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2141902303</payload_hash>
+        <record_name>RDP </record_name>
+        <reverted_from/>
+        <source>e148042a9773e1106cf971371153af3a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 14:12:54</sys_created_on>
+        <sys_id>8e94746d971c71106cf971371153af96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18997b2091b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 14:12:54</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>0694746d741c7110ddb3a26feb847f96</update_guid>
+        <update_guid_history>0694746d741c7110ddb3a26feb847f96:2141902303,2594346d131c71108d89c13f0565eb77:-413382593,ae574a3479987110ef2e9d813414f58d:139966230,6a574a34f19871105cf5bb8ee5482e85:-765077731,56574a34e8987110530e0b9c5ea1bc7d:-1896497507,92574a34e8987110ffbcc3bf52171375:1686200999,12574a34d6987110a54b8ee6b8b0766d:599411711,de574a34889871105b170b5c07d4d064:384614470,1a574a3455987110d22af2b6af4bde50:330969988,5a574a34ee98711030bc85c0fdb8ad48:1505157072,da574a34ec987110e0a440834e4af540:-320589059,9e574a342f9871101f33e6098788b438:416279521,da574a34c1987110bb51c61fa1734224:933916099,02574a34229871104656df58d41b2c1d:179379352,46574a34db98711066192153a482d715:-1329333426,42570a3411987110ea38102c6b859be8:811294952,0da44a704998711070636091385b1f18:-621477662</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-19 09:24:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>12184e760116481092eb33500df3c900</sys_id>
+        <sys_metadata>cda44a70979871106cf971371153af15</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_685788_test2_bulk_import</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_parent display_value="">75944670979871106cf971371153afab</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_scope_delete display_value="">4f8dd67ea87e4aea9287a4d1f66d05f1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_cda44a70979871106cf971371153af15</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_cda44a70979871106cf971371153af15">8e94746d971c71106cf971371153af96</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-19 09:24:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

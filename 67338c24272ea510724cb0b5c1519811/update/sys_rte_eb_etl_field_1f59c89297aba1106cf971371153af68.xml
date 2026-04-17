@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>jobissuccessful</field>
+        <name>JobIsSuccessful</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 12:12:22</sys_created_on>
+        <sys_id>1f59c89297aba1106cf971371153af68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JobIsSuccessful</sys_name>
+        <sys_package display_value="Capture" source="x_685788_test2">67338c24272ea510724cb0b5c1519811</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Import Job Details_etl_ihub">cb39cc5297aba1106cf971371153afa6</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_x_685788_test2_job_detail">57390c9297aba1106cf971371153af12</sys_rte_eb_entity>
+        <sys_scope display_value="Capture">67338c24272ea510724cb0b5c1519811</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_1f59c89297aba1106cf971371153af68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 12:12:22</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="702055a197b035106cf971371153af03" label="Test_Answer_screenshot" max_length="40" name="x_685788_test2_test_answer_screenshot" type="collection">
+        <element label="Id" max_length="40" name="id" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="screenshot" max_length="40" name="screenshot" type="string"/>
+        <element label="TestAnswerid" max_length="40" name="testanswerid" reference="x_685788_test2_test_answers" type="string"/>
+    </element>
+</database>
